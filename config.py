@@ -15,3 +15,28 @@ ALLOWED_METHODS_DICT = {                    # allowed blocking methods
 ## special characters used in the prompts
 TAB_CHAR = '\t'                             # tab char
 NEW_LINE = '\n'                             # new line char
+
+
+## mapping pairs
+MAPPING_PAIRS = [
+    {
+        'src': 'icd9cm',
+        'tgt': 'icd10cm'
+    },
+    {
+        'src': 'icd10cm',
+        'tgt': 'icd9cm'
+    },
+    {
+        'src': 'icd10am',
+        'tgt': 'icd11'
+    },
+    {
+        'src': 'icd11',
+        'tgt': 'icd10am'
+    }
+]
+
+
+## chapters
+CHAPTERS = ['dig', 'inf', 'resp']

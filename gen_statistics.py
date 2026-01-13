@@ -8,28 +8,7 @@ import argparse
 import os
 import pandas as pd
 from utils.helpers import load_from_pkl, parse_string_as_list
-from config import ALLOWED_METHODS_DICT
-
-
-TEST_SETS = [
-    {
-        'src': 'icd9cm',
-        'tgt': 'icd10cm'
-    },
-    {
-        'src': 'icd10cm',
-        'tgt': 'icd9cm'
-    },
-    {
-        'src': 'icd10am',
-        'tgt': 'icd11'
-    },
-    {
-        'src': 'icd11',
-        'tgt': 'icd10am'
-    }
-]
-
+from config import ALLOWED_METHODS_DICT, MAPPING_PAIRS
 
 
 if __name__=='__main__':
@@ -45,7 +24,7 @@ if __name__=='__main__':
     print(f'Method: {"Macro" if args.use_macro else "Micro"}')
     print('[SRC-to-TGT\t| Avg. Precision\t| Avg. Recall\t| Avg. F1 Score\t| coverage \t| Avg # maps]\n')
 
-    for test_set in TEST_SETS:
+    for test_set in MAPPING_PAIRS:
         ## load target csv files to get a list of valid target codes
         tgt_df = pd.read_csv(os.path.join('./data/icd', f'{test_set["tgt"]}_{args.ch}.csv'), dtype=str)
         valid_tgt_codes = tgt_df['code'].tolist()
