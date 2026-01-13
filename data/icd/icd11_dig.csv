@@ -1,0 +1,970 @@
+code,code_desc,p1,p2,p3,p4,p5
+DA00,Disorders of lips,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA000,Cheilitis,,,Disorders of lips,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA001,Self-induced lip trauma,,,Disorders of lips,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA002,Pigmentary abnormalities of lips,,,Disorders of lips,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA003,Lip fissure,,,Disorders of lips,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA00Y,Other specified disorders of lips,,,Disorders of lips,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA00Z,"Disorder of lips, unspecified",,,Disorders of lips,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA01,Disorders of oral mucosa,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA010,Disturbances of oral epithelium,,,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0100,Oral leukoplakia,,Disturbances of oral epithelium,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0101,Hairy leukoplakia,,Disturbances of oral epithelium,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0102,Wandering rash of the mouth,,Disturbances of oral epithelium,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA010Y,Other specified disturbances of oral epithelium,,Disturbances of oral epithelium,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA010Z,"Disturbances of oral epithelium, unspecified",,Disturbances of oral epithelium,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA011,Noninfectious erosive or ulcerative disorders of oral mucosa,,,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0110,Oral aphthae or aphtha-like ulceration,,Noninfectious erosive or ulcerative disorders of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0111,Oral mucositis,,Noninfectious erosive or ulcerative disorders of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0112,Chronic ulcerative stomatitis,,Noninfectious erosive or ulcerative disorders of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0113,Erythema multiforme with oral ulceration,,Noninfectious erosive or ulcerative disorders of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0114,Drug-induced oral ulcer,,Noninfectious erosive or ulcerative disorders of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0115,Mouth ulcers,,Noninfectious erosive or ulcerative disorders of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA011Y,Other specified noninfectious erosive or ulcerative disorders of oral mucosa,,Noninfectious erosive or ulcerative disorders of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA011Z,"Noninfectious erosive or ulcerative disorders of oral mucosa, unspecified",,Noninfectious erosive or ulcerative disorders of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA012,Granuloma or granuloma-like lesions of oral mucosa,,,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0120,"Giant cell granuloma, central",,Granuloma or granuloma-like lesions of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0121,Orofacial granulomatosis,,Granuloma or granuloma-like lesions of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA012Y,Other specified granuloma or granuloma-like lesions of oral mucosa,,Granuloma or granuloma-like lesions of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA012Z,"Granuloma or granuloma-like lesions of oral mucosa, unspecified",,Granuloma or granuloma-like lesions of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA013,Infections of lips or oral mucosa,,,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0130,Cellulitis or abscess of soft tissues of the mouth,,Infections of lips or oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA013Y,Other specified infections of lips or oral mucosa,,Infections of lips or oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA013Z,"Infections of lips or oral mucosa, unspecified",,Infections of lips or oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA014,Irritative hyperplasia of oral mucosa,,,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0140,Papillary hyperplasia of oral mucosa,,Irritative hyperplasia of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0141,Denture hyperplasia,,Irritative hyperplasia of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0142,Oral fibroepithelial polyp,,Irritative hyperplasia of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA014Z,"Irritative hyperplasia of oral mucosa, unspecified",,Irritative hyperplasia of oral mucosa,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA01Y,Other specified disorders of oral mucosa,,,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA01Z,"Disorder of oral mucosa, unspecified",,,Disorders of oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA02,Miscellaneous specified disorders of lips or oral mucosa,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA020,Genetic or developmental disorders involving lips or oral mucosa,,,Miscellaneous specified disorders of lips or oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA021,Xerostomia,,,Miscellaneous specified disorders of lips or oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA022,Oral submucous fibrosis,,,Miscellaneous specified disorders of lips or oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA023,Contact gingivostomatitis,,,Miscellaneous specified disorders of lips or oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0230,Allergic contact gingivostomatitis,,Contact gingivostomatitis,Miscellaneous specified disorders of lips or oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0231,Irritant contact gingivostomatitis,,Contact gingivostomatitis,Miscellaneous specified disorders of lips or oral mucosa,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA03,Diseases of tongue,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA030,Glossitis,,,Diseases of tongue,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA031,Geographic tongue,,,Diseases of tongue,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA032,Atrophy of tongue papillae,,,Diseases of tongue,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA033,Median rhomboid glossitis,,,Diseases of tongue,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA034,Hypertrophy of tongue papillae,,,Diseases of tongue,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA035,Macroglossia,,,Diseases of tongue,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA03Y,Other specified diseases of tongue,,,Diseases of tongue,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA03Z,"Diseases of tongue, unspecified",,,Diseases of tongue,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA04,Diseases of salivary glands,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA040,Atrophy of salivary gland,,,Diseases of salivary glands,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA041,Hypertrophy of salivary gland,,,Diseases of salivary glands,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA042,Sialoadenitis,,,Diseases of salivary glands,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA043,Abscess of salivary gland,,,Diseases of salivary glands,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA044,Sialolithiasis,,,Diseases of salivary glands,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA045,Mucocele of salivary gland,,,Diseases of salivary glands,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA046,Disturbances of salivary secretion,,,Diseases of salivary glands,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA047,Sialophagia,,,Diseases of salivary glands,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA048,Sialoschesis,,,Diseases of salivary glands,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA04Y,Other specified diseases of salivary glands,,,Diseases of salivary glands,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA04Z,"Diseases of salivary glands, unspecified",,,Diseases of salivary glands,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA05,Cysts of oral or facial-neck region,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA050,Developmental odontogenic cysts,,,Cysts of oral or facial-neck region,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA051,Developmental nonodontogenic cysts of oral region,,,Cysts of oral or facial-neck region,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA05Y,Other specified cysts of oral or facial-neck region,,,Cysts of oral or facial-neck region,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA05Z,"Cysts of oral or facial-neck region, unspecified",,,Cysts of oral or facial-neck region,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA06,Diseases of jaws,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA060,Inflammatory conditions of jaws,,,Diseases of jaws,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA061,Alveolitis of jaw,,,Diseases of jaws,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA062,Exostosis of jaw,,,Diseases of jaws,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA063,Stafne mandibular bone cavity,,,Diseases of jaws,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA06Y,Other specified diseases of jaws,,,Diseases of jaws,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA06Z,"Diseases of jaws, unspecified",,,Diseases of jaws,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA07,Disorders of tooth development or eruption,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA070,Fluoride related opacities or lesions,,,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA071,Nonfluoride enamel opacities,,,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA073,Disturbances in tooth formation,,,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA074,Root anomaly,,,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA075,Cementum dysplasia,,,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA076,Disturbances in tooth eruption,,,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0760,Teething syndrome,,Disturbances in tooth eruption,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0761,Ankylosis of teeth,,Disturbances in tooth eruption,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA076Y,Other specified disturbances in tooth eruption,,Disturbances in tooth eruption,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA076Z,"Disturbances in tooth eruption, unspecified",,Disturbances in tooth eruption,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA077,Embedded teeth,,,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA078,Impacted teeth,,,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA07Y,Other specified disorders of tooth development or eruption,,,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA07Z,"Disorders of tooth development or eruption, unspecified",,,Disorders of tooth development or eruption,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA08,Diseases of hard tissues of teeth,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA080,Dental caries,,,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA081,Certain specified diseases of hard tissues of teeth,,,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0810,Excessive attrition of teeth,,Certain specified diseases of hard tissues of teeth,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0811,Abrasion of teeth,,Certain specified diseases of hard tissues of teeth,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0812,Erosion of teeth,,Certain specified diseases of hard tissues of teeth,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0813,Abfraction,,Certain specified diseases of hard tissues of teeth,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0814,Pathological resorption of teeth,,Certain specified diseases of hard tissues of teeth,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0815,Posteruptive colour changes of dental hard tissues,,Certain specified diseases of hard tissues of teeth,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA082,Chronic dental injuries,,,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA083,Nontraumatic fracture of tooth,,,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA084,Deposits on teeth,,,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA08Y,Other specified diseases of hard tissues of teeth,,,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA08Z,"Diseases of hard tissues of teeth, unspecified",,,Diseases of hard tissues of teeth,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA09,Diseases of pulp or periapical tissues,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA090,Pulpitis,,,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA091,Necrosis of pulp,,,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA092,Pulp abscess,,,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA093,Phoenix abscess,,,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA094,Pulp degeneration,,,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA095,Abnormal hard tissue formation in pulp,,,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA096,Periapical abscess,,,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0960,Periapical abscess with facial involvement,,Periapical abscess,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0961,Periapical abscess with sinus,,Periapical abscess,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0962,Periapical abscess without sinus,,Periapical abscess,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA096Y,Other specified periapical abscess,,Periapical abscess,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA096Z,"Periapical abscess, unspecified",,Periapical abscess,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA097,Periapical periodontitis,,,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0970,Acute apical periodontitis of pulpal origin,,Periapical periodontitis,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0971,Chronic apical periodontitis,,Periapical periodontitis,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA097Y,Other specified periapical periodontitis,,Periapical periodontitis,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA097Z,"Periapical periodontitis, unspecified",,Periapical periodontitis,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA098,Radicular cyst,,,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA09Y,Other specified diseases of pulp or periapical tissues,,,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA09Z,"Diseases of pulp or periapical tissues, unspecified",,,Diseases of pulp or periapical tissues,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0A,Certain specified disorders of teeth or supporting structures,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0A0,Exfoliation of teeth due to systemic causes,,,Certain specified disorders of teeth or supporting structures,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0A1,"Loss of teeth due to accident, extraction or local periodontal disease",,,Certain specified disorders of teeth or supporting structures,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0A2,Atrophy of edentulous alveolar ridge,,,Certain specified disorders of teeth or supporting structures,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0A3,Retained dental root,,,Certain specified disorders of teeth or supporting structures,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0AY,Other specified disorders of teeth and supporting structures,,,Certain specified disorders of teeth or supporting structures,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0AZ,Unspecified disorders of teeth and supporting structures,,,Certain specified disorders of teeth or supporting structures,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0B,Gingival diseases,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0B0,Allergic gingivitis,,,Gingival diseases,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0B1,Catarrhal gingivitis,,,Gingival diseases,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0B2,Eruptive gingivitis,,,Gingival diseases,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0B3,Atrophic senile gingivitis,,,Gingival diseases,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0B4,Acute multiple gingival abscesses,,,Gingival diseases,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0B5,Developmental or acquired deformities or conditions of gingiva,,,Gingival diseases,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0B6,Pericoronitis,,,Gingival diseases,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0BY,Other specified gingival diseases,,,Gingival diseases,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0BZ,"Gingival diseases, unspecified",,,Gingival diseases,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0C,Periodontal disease,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0C0,Acute periodontitis,,,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0C1,Aggressive periodontitis,,,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0C2,Periodontosis,,,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0C3,Necrotising periodontal diseases,,,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0C30,Necrotising ulcerative periodontitis,,Necrotising periodontal diseases,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0C31,Noma,,Necrotising periodontal diseases,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0C3Y,Other specified necrotising periodontal diseases,,Necrotising periodontal diseases,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0C3Z,"Necrotising periodontal diseases, unspecified",,Necrotising periodontal diseases,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0C4,Abscess of periodontium,,,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0C5,Linear gingival erythema,,,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0CY,Other specified periodontal disease,,,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0CZ,"Periodontal disease, unspecified",,,Periodontal disease,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0D,Certain specified disorders of gingiva or edentulous alveolar ridge,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0D0,Gingival recession,,,Certain specified disorders of gingiva or edentulous alveolar ridge,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0D1,Gingival enlargement,,,Certain specified disorders of gingiva or edentulous alveolar ridge,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0D2,Gingival or edentulous alveolar ridge lesions associated with trauma,,,Certain specified disorders of gingiva or edentulous alveolar ridge,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0D3,Hypoplasminogenaemia,,,Certain specified disorders of gingiva or edentulous alveolar ridge,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0D4,Cotton-roll gingivitis,,,Certain specified disorders of gingiva or edentulous alveolar ridge,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0D5,Gingival ulceration,,,Certain specified disorders of gingiva or edentulous alveolar ridge,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0DY,Other specified disorders of gingival or edentulous alveolar ridge,,,Certain specified disorders of gingiva or edentulous alveolar ridge,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E,Dentofacial anomalies,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E0,Major anomalies of jaw size,,,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E00,Micrognathia,,Major anomalies of jaw size,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E0Y,Other specified major anomalies of jaw size,,Major anomalies of jaw size,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E0Z,"Major anomalies of jaw size, unspecified",,Major anomalies of jaw size,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E1,Anomalies of jaw-cranial base relationship,,,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E2,Anomalies of dental arch relationship,,,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E3,Anomalies of tooth position,,,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E4,Food impaction,,,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E5,Malocclusion,,,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E50,Class II division 2 malocclusion,,Malocclusion,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E51,Angle class I malocclusion,,Malocclusion,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E5Y,Other specified malocclusion,,Malocclusion,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E5Z,"Malocclusion, unspecified",,Malocclusion,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E6,Dentofacial functional abnormalities,,,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E7,Dentofacial parafunctional disorders,,,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0E8,Temporomandibular joint disorders,,,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0EY,Other specified dentofacial anomalies,,,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0EZ,"Dentofacial anomalies, unspecified",,,Dentofacial anomalies,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0F,Sensory disturbances affecting orofacial complex,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0F0,Burning mouth syndrome,,,Sensory disturbances affecting orofacial complex,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0FY,Other specified sensory disturbances affecting orofacial complex,,,Sensory disturbances affecting orofacial complex,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0FZ,"Sensory disturbances affecting orofacial complex, unspecified",,,Sensory disturbances affecting orofacial complex,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0Y,Other specified diseases or disorders of orofacial complex,,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA0Z,"Diseases or disorders of orofacial complex, unspecified",,,,Diseases or disorders of orofacial complex,Diseases of the digestive system
+DA20,Acquired anatomical alterations of the oesophagus,,,,Diseases of oesophagus,Diseases of the digestive system
+DA200,Oesophageal obstruction,,,Acquired anatomical alterations of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA201,"Diverticulum of oesophagus, acquired",,,Acquired anatomical alterations of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA202,Oesophageal web,,,Acquired anatomical alterations of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA203,Perforation of oesophagus,,,Acquired anatomical alterations of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA2030,Spontaneous rupture of oesophagus,,Perforation of oesophagus,Acquired anatomical alterations of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA203Y,Other specified perforation of oesophagus,,Perforation of oesophagus,Acquired anatomical alterations of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA203Z,"Perforation of oesophagus, unspecified",,Perforation of oesophagus,Acquired anatomical alterations of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA20Y,Other specified acquired anatomical alterations of the oesophagus,,,Acquired anatomical alterations of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA20Z,"Acquired anatomical alterations of the oesophagus, unspecified",,,Acquired anatomical alterations of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA21,Motility disorders of oesophagus,,,,Diseases of oesophagus,Diseases of the digestive system
+DA210,Achalasia,,,Motility disorders of oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA211,Motility disorder of cervical or upper oesophagus,,,Motility disorders of oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA212,Disorder of oesophageal peristalsis,,,Motility disorders of oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA2120,Hypertensive peristalsis,,Disorder of oesophageal peristalsis,Motility disorders of oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA2121,Hypotensive peristalsis,,Disorder of oesophageal peristalsis,Motility disorders of oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA2122,Spastic peristalsis,,Disorder of oesophageal peristalsis,Motility disorders of oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA212Y,Other specified disorder of oesophageal peristalsis,,Disorder of oesophageal peristalsis,Motility disorders of oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA212Z,"Disorder of oesophageal peristalsis, unspecified",,Disorder of oesophageal peristalsis,Motility disorders of oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA213,Disorder of lower oesophageal sphincter function,,,Motility disorders of oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA21Y,Other specified motility disorders of oesophagus,,,Motility disorders of oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA21Z,"Motility disorders of oesophagus, unspecified",,,Motility disorders of oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA22,Gastro-oesophageal reflux disease,,,,Diseases of oesophagus,Diseases of the digestive system
+DA220,Non-erosive gastro-oesophageal reflux disease,,,Gastro-oesophageal reflux disease,Diseases of oesophagus,Diseases of the digestive system
+DA221,Erosive gastro-oesophageal reflux disease,,,Gastro-oesophageal reflux disease,Diseases of oesophagus,Diseases of the digestive system
+DA22Z,"Gastro-oesophageal reflux disease, unspecified",,,Gastro-oesophageal reflux disease,Diseases of oesophagus,Diseases of the digestive system
+DA23,Columnar metaplastic epithelium of the oesophagus,,,,Diseases of oesophagus,Diseases of the digestive system
+DA230,Barrett epithelium,,,Columnar metaplastic epithelium of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA231,Dysplasia of Barrett epithelium,,,Columnar metaplastic epithelium of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA232,Barrett ulcer,,,Columnar metaplastic epithelium of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA23Y,Other specified columnar metaplastic epithelium of the oesophagus,,,Columnar metaplastic epithelium of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA23Z,"Columnar metaplastic epithelium of the oesophagus, unspecified",,,Columnar metaplastic epithelium of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA24,Oesophagitis,,,,Diseases of oesophagus,Diseases of the digestive system
+DA240,Infectious oesophagitis,,,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA2400,Oesophageal phlegmon,,Infectious oesophagitis,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA240Y,Other specified infectious oesophagitis,,Infectious oesophagitis,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA240Z,"Infectious oesophagitis, unspecified",,Infectious oesophagitis,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA241,Eosinophilic oesophagitis,,,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA242,Oesophagitis due to external causes,,,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA2420,Chemical oesophagitis,,Oesophagitis due to external causes,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA2421,Drug-induced oesophagitis,,Oesophagitis due to external causes,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA2422,Radiation oesophagitis,,Oesophagitis due to external causes,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA242Z,"Oesophagitis due to external causes, unspecified",,Oesophagitis due to external causes,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA24Y,Other specified oesophagitis,,,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA24Z,"Oesophagitis, unspecified",,,Oesophagitis,Diseases of oesophagus,Diseases of the digestive system
+DA25,Oesophageal ulcer,,,,Diseases of oesophagus,Diseases of the digestive system
+DA250,Oesophageal erosion,,,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA251,Infectious oesophageal ulcer,,,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA2510,Bacterial oesophageal ulcer,,Infectious oesophageal ulcer,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA2511,Fungal oesophageal ulcer,,Infectious oesophageal ulcer,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA2512,Parasitic oesophageal ulcer,,Infectious oesophageal ulcer,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA2513,Viral oesophageal ulcer,,Infectious oesophageal ulcer,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA251Y,Other specified infectious oesophageal ulcer,,Infectious oesophageal ulcer,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA251Z,"Infectious oesophageal ulcer, unspecified",,Infectious oesophageal ulcer,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA252,Oesophageal ulcer due to allergic or immunologic disorder,,,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA253,Oesophageal ulcer due to external causes,,,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA2530,Chemical oesophageal ulcer,,Oesophageal ulcer due to external causes,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA2531,Drug-induced oesophageal ulcer,,Oesophageal ulcer due to external causes,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA2532,Radiation oesophageal ulcer,,Oesophageal ulcer due to external causes,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA253Y,Oesophageal ulcer due to other specified external causes,,Oesophageal ulcer due to external causes,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA253Z,"Oesophageal ulcer due to external causes, unspecified",,Oesophageal ulcer due to external causes,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA25Y,Other specified oesophageal ulcer,,,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA25Z,"Oesophageal ulcer, unspecified",,,Oesophageal ulcer,Diseases of oesophagus,Diseases of the digestive system
+DA26,Vascular disorders of the oesophagus,,,,Diseases of oesophagus,Diseases of the digestive system
+DA260,Oesophageal varices,,,Vascular disorders of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA2600,Oesophageal varices with bleeding,,Oesophageal varices,Vascular disorders of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA2601,Oesophageal varices without bleeding,,Oesophageal varices,Vascular disorders of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA260Z,"Oesophageal varices, unspecified",,Oesophageal varices,Vascular disorders of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA261,Angiodysplasia or arteriovenous malformation of oesophagus,,,Vascular disorders of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA262,Intramural haemorrhage of oesophagus,,,Vascular disorders of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA263,Gastro-oesophageal laceration-haemorrhage syndrome,,,Vascular disorders of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA26Y,Other specified vascular disorders of the oesophagus,,,Vascular disorders of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA26Z,"Vascular disorders of the oesophagus, unspecified",,,Vascular disorders of the oesophagus,Diseases of oesophagus,Diseases of the digestive system
+DA2Y,Other specified diseases of oesophagus,,,,Diseases of oesophagus,Diseases of the digestive system
+DA2Z,"Diseases of oesophagus, unspecified",,,,Diseases of oesophagus,Diseases of the digestive system
+DA40,Acquired anatomical alterations of the stomach,,,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA400,Gastric outlet obstruction,,Acquired anatomical alterations of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA401,"Gastric fistula, acquired",,Acquired anatomical alterations of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA402,Gastric volvulus,,Acquired anatomical alterations of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA403,Gastric diverticulum,,Acquired anatomical alterations of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA404,Hourglass stricture and stenosis of stomach,,Acquired anatomical alterations of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA405,Gastroptosis,,Acquired anatomical alterations of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA40Y,Other specified acquired anatomical alterations of the stomach,,Acquired anatomical alterations of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA40Z,"Acquired anatomical alterations of the stomach, unspecified",,Acquired anatomical alterations of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA41,Gastroduodenal motor or secretory disorders,,,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA410,Abnormal gastric motility,,Gastroduodenal motor or secretory disorders,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4100,Gastroparesis,Abnormal gastric motility,Gastroduodenal motor or secretory disorders,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA410Y,Other specified abnormal gastric motility,Abnormal gastric motility,Gastroduodenal motor or secretory disorders,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA410Z,"Abnormal gastric motility, unspecified",Abnormal gastric motility,Gastroduodenal motor or secretory disorders,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA411,Acute dilatation of stomach,,Gastroduodenal motor or secretory disorders,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA412,Acid hypersecretion,,Gastroduodenal motor or secretory disorders,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA413,Achlorhydria,,Gastroduodenal motor or secretory disorders,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA41Y,Other specified gastroduodenal motor or secretory disorders,,Gastroduodenal motor or secretory disorders,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA41Z,"Gastroduodenal motor or secretory disorders, unspecified",,Gastroduodenal motor or secretory disorders,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA42,Gastritis,,,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA420,Autoimmune gastritis,,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA421,Helicobacter pylori induced gastritis,,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA422,Eosinophilic gastritis,,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA423,Lymphocytic gastritis,,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA424,Allergic gastritis,,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4240,Allergic gastritis due to IgE-mediated hypersensitivity,Allergic gastritis,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4241,Allergic gastritis due to non-IgE-mediated hypersensitivity,Allergic gastritis,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA424Y,Other specified allergic gastritis,Allergic gastritis,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA424Z,"Allergic gastritis, unspecified",Allergic gastritis,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA425,Gastritis due to duodenogastric reflux,,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA426,Menetrier disease,,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA427,Gastritis of unknown aetiology with specific endoscopic or pathological features,,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4270,Acute superficial gastritis of unknown aetiology,Gastritis of unknown aetiology with specific endoscopic or pathological features,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4271,Chronic superficial gastritis of unknown aetiology,Gastritis of unknown aetiology with specific endoscopic or pathological features,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4272,Acute haemorrhagic gastritis of unknown aetiology,Gastritis of unknown aetiology with specific endoscopic or pathological features,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4273,Chronic atrophic gastritis of unknown aetiology,Gastritis of unknown aetiology with specific endoscopic or pathological features,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4274,Metaplastic gastritis of unknown aetiology,Gastritis of unknown aetiology with specific endoscopic or pathological features,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4275,Granulomatous gastritis of unknown aetiology,Gastritis of unknown aetiology with specific endoscopic or pathological features,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4276,Hypertrophic gastritis of unknown aetiology,Gastritis of unknown aetiology with specific endoscopic or pathological features,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA427Y,Other specified gastritis of unknown aetiology with specific endoscopic or pathological features,Gastritis of unknown aetiology with specific endoscopic or pathological features,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA428,Gastritis due to external causes,,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4280,Alcoholic gastritis,Gastritis due to external causes,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4281,Radiation gastritis,Gastritis due to external causes,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4282,Chemical gastritis,Gastritis due to external causes,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4283,Drug-induced gastritis,Gastritis due to external causes,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA428Z,"Gastritis due to external causes, unspecified",Gastritis due to external causes,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA429,Gastric phlegmon,,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA42Y,Other specified gastritis,,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA42Z,"Gastritis, unspecified",,Gastritis,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA43,Vascular disorders of the stomach,,,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA430,Gastric varices,,Vascular disorders of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA431,Angiodysplasia of stomach,,Vascular disorders of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA432,Arteriovenous malformation of stomach,,Vascular disorders of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA433,Portal hypertensive gastropathy,,Vascular disorders of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA434,Diffuse vascular ectasia of stomach,,Vascular disorders of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA43Y,Other specified vascular disorders of the stomach,,Vascular disorders of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA43Z,"Vascular disorders of the stomach, unspecified",,Vascular disorders of the stomach,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA44,Gastric polyp,,,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA440,Hyperplastic polyp of stomach,,Gastric polyp,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA441,Fundic gland polyp of stomach,,Gastric polyp,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA442,Hamartomatous polyp of stomach,,Gastric polyp,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA44Y,Other specified gastric polyp,,Gastric polyp,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA44Z,"Gastric polyp, unspecified",,Gastric polyp,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4Y,Other specified diseases of stomach,,,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA4Z,"Diseases of stomach, unspecified",,,Diseases of stomach,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA50,Acquired anatomical alterations of the duodenum,,,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA500,Obstruction of duodenum,,Acquired anatomical alterations of the duodenum,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA501,Diverticulum of duodenum,,Acquired anatomical alterations of the duodenum,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA502,Fistula of duodenum,,Acquired anatomical alterations of the duodenum,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA503,"Deformity of duodenum, acquired",,Acquired anatomical alterations of the duodenum,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA50Y,Other specified acquired anatomical alterations of the duodenum,,Acquired anatomical alterations of the duodenum,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA50Z,"Acquired anatomical alterations of the duodenum, unspecified",,Acquired anatomical alterations of the duodenum,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA51,Duodenitis,,,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA510,Helicobacter-pylori associated duodenitis,,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA511,Eosinophilic duodenitis,,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA512,Lymphocytic duodenitis,,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA513,Allergic duodenitis,,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA514,Duodenitis of unknown aetiology with specific endoscopic or pathologic features,,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA5140,Acute haemorrhagic duodenitis of unknown aetiology,Duodenitis of unknown aetiology with specific endoscopic or pathologic features,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA5141,Granulomatous duodenitis of unknown aetiology,Duodenitis of unknown aetiology with specific endoscopic or pathologic features,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA514Z,"Duodenitis of unknown aetiology with specific endoscopic or pathologic features, unspecified",Duodenitis of unknown aetiology with specific endoscopic or pathologic features,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA515,Duodenitis due to external causes,,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA5150,Alcoholic duodenitis,Duodenitis due to external causes,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA5151,Drug-induced duodenitis,Duodenitis due to external causes,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA5152,Chemical duodenitis,Duodenitis due to external causes,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA5153,Radiation duodenitis,Duodenitis due to external causes,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA515Y,Duodenitis due to other specified external causes,Duodenitis due to external causes,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA515Z,"Duodenitis due to external causes, unspecified",Duodenitis due to external causes,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA516,Infectious duodenitis,,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA5160,Duodenal phlegmon,Infectious duodenitis,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA516Y,Other specified infectious duodenitis,Infectious duodenitis,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA516Z,"Infectious duodenitis, unspecified",Infectious duodenitis,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA51Y,Other specified duodenitis,,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA51Z,"Duodenitis, unspecified",,Duodenitis,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA52,Vascular disorders of the duodenum,,,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA520,Duodenal varices,,Vascular disorders of the duodenum,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA521,Angiodysplasia of duodenum,,Vascular disorders of the duodenum,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA522,Arteriovenous malformation of duodenum,,Vascular disorders of the duodenum,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA52Y,Other specified vascular disorders of the duodenum,,Vascular disorders of the duodenum,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA52Z,"Vascular disorders of the duodenum, unspecified",,Vascular disorders of the duodenum,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA53,Duodenal polyp,,,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA530,Hyperplastic duodenal polyp,,Duodenal polyp,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA53Y,Other specified duodenal polyp,,Duodenal polyp,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA53Z,"Duodenal polyp, unspecified",,Duodenal polyp,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA5Y,Other specified diseases of duodenum,,,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA5Z,"Diseases of duodenum, unspecified",,,Diseases of duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA60,Gastric ulcer,,,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA600,Gastric erosion,,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA601,Helicobacter pylori associated gastric ulcer,,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA602,Helicobacter pylori associated and drug-induced gastric ulcer,,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA603,Stress ulcer of stomach,,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA604,Eosinophilic gastric ulcer,,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA605,Lymphocytic gastric ulcer,,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA606,Gastric ulcer due to external causes,,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA6060,Alcohol-induced gastric ulcer,Gastric ulcer due to external causes,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA6061,Chemical gastric ulcer,Gastric ulcer due to external causes,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA6062,Drug-induced gastric ulcer,Gastric ulcer due to external causes,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA6063,Radiation gastric ulcer,Gastric ulcer due to external causes,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA606Y,Other specified gastric ulcer due to external causes,Gastric ulcer due to external causes,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA606Z,"Gastric ulcer due to external causes, unspecified",Gastric ulcer due to external causes,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA607,Infectious secondary gastric ulcer,,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA60Y,Other specified gastric ulcer,,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA60Z,"Gastric ulcer, unspecified",,Gastric ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA61,"Peptic ulcer, site unspecified",,,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA62,Anastomotic ulcer,,,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA620,Anastomotic erosion,,Anastomotic ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA621,Helicobacter pylori associated anastomotic ulcer,,Anastomotic ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA622,Drug-induced anastomotic ulcer,,Anastomotic ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA623,Peptic anastomotic ulcer,,Anastomotic ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA62Y,Other specified anastomotic ulcer,,Anastomotic ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA62Z,"Anastomotic ulcer, unspecified",,Anastomotic ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA63,Duodenal ulcer,,,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA630,Duodenal erosion,,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA631,Helicobacter-pylori associated duodenal ulcer,,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA632,Helicobacter-pylori associated and drug-induced duodenal ulcer,,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA633,Stress ulcer of duodenum,,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA634,Eosinophilic duodenal ulcer,,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA635,Duodenal ulcer due to external causes,,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA6350,Drug-induced duodenal ulcer,Duodenal ulcer due to external causes,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA6351,Radiation duodenal ulcer,Duodenal ulcer due to external causes,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA6352,Chemical duodenal ulcer,Duodenal ulcer due to external causes,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA635Y,Duodenal ulcer due to other specified external causes,Duodenal ulcer due to external causes,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA635Z,"Duodenal ulcer due to external causes, unspecified",Duodenal ulcer due to external causes,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA636,Infectious duodenal ulcer,,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA6360,Bacterial duodenal ulcer,Infectious duodenal ulcer,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA6361,Viral duodenal ulcer,Infectious duodenal ulcer,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA6362,Fungal duodenal ulcer,Infectious duodenal ulcer,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA6363,Parasitic duodenal ulcer,Infectious duodenal ulcer,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA636Z,"Infectious duodenal ulcer, unspecified",Infectious duodenal ulcer,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA63Y,Other specified duodenal ulcer,,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA63Z,"Duodenal ulcer, unspecified",,Duodenal ulcer,Ulcer of stomach or duodenum,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA7Z,"Diseases of the stomach or the duodenum, unspecified",,,,Diseases of the stomach or the duodenum,Diseases of the digestive system
+DA90,Nonstructural developmental anomalies of small intestine,,,,Diseases of small intestine,Diseases of the digestive system
+DA900,Syndromic diarrhoea,,,Nonstructural developmental anomalies of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA901,Congenital intestinal transport defect,,,Nonstructural developmental anomalies of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA902,Congenital intestinal motility disorders,,,Nonstructural developmental anomalies of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA90Y,Other specified nonstructural developmental anomalies of small intestine,,,Nonstructural developmental anomalies of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA90Z,"Nonstructural developmental anomalies of small intestine, unspecified",,,Nonstructural developmental anomalies of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA91,Obstruction of small intestine,,,,Diseases of small intestine,Diseases of the digestive system
+DA910,Intussusception of small intestine,,,Obstruction of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA911,Volvulus of small intestine,,,Obstruction of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA912,Intestinal adhesions or bands of small intestine with obstruction,,,Obstruction of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA913,Obstructive ileus of small intestine due to impaction,,,Obstruction of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9130,Gallstone ileus of small intestine,,Obstructive ileus of small intestine due to impaction,Obstruction of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9131,Enterolith of small intestine,,Obstructive ileus of small intestine due to impaction,Obstruction of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA913Y,Other specified obstructive ileus of small intestine due to impaction,,Obstructive ileus of small intestine due to impaction,Obstruction of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA913Z,"Obstructive ileus of small intestine due to impaction, unspecified",,Obstructive ileus of small intestine due to impaction,Obstruction of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA91Y,Other specified obstruction of small intestine,,,Obstruction of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA91Z,"Obstruction of small intestine, unspecified",,,Obstruction of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA92,Other acquired anatomical alterations of small intestine,,,,Diseases of small intestine,Diseases of the digestive system
+DA920,Fistula of small intestine,,,Other acquired anatomical alterations of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA921,Pneumatosis intestinalis of small intestine,,,Other acquired anatomical alterations of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA92Y,Other specified acquired anatomical alterations of small intestine,,,Other acquired anatomical alterations of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA92Z,"Acquired anatomical alterations of small intestine, unspecified",,,Other acquired anatomical alterations of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA93,Motility disorders of small intestine,,,,Diseases of small intestine,Diseases of the digestive system
+DA930,Paralytic ileus,,,Motility disorders of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA93Y,Other specified motility disorders of small intestine,,,Motility disorders of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA93Z,"Motility disorders of small intestine, unspecified",,,Motility disorders of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA94,Noninfectious enteritis or ulcer of small intestine,,,,Diseases of small intestine,Diseases of the digestive system
+DA940,Primary ulcer of small intestine,,,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9400,Primary nonspecific ulceration of small intestine,,Primary ulcer of small intestine,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9401,Chronic non-specific multiple ulcers of small intestine,,Primary ulcer of small intestine,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9402,Cryptogenic multifocal ulcerous stenosing enteritis,,Primary ulcer of small intestine,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA940Y,Other specified primary ulcer of small intestine,,Primary ulcer of small intestine,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA940Z,"Primary ulcer of small intestine, unspecified",,Primary ulcer of small intestine,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA941,Drug-induced or toxic enteritis of small intestine,,,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA942,Allergic or dietetic enteritis of small intestine,,,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9420,IgE mediated allergic enteritis of small intestine,,Allergic or dietetic enteritis of small intestine,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9421,Eosinophilic enteritis,,Allergic or dietetic enteritis of small intestine,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9422,Food protein-induced enterocolitis syndrome,,Allergic or dietetic enteritis of small intestine,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA942Y,Other specified allergic or dietetic enteritis of small intestine,,Allergic or dietetic enteritis of small intestine,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA942Z,"Allergic or dietetic enteritis of small intestine, unspecified",,Allergic or dietetic enteritis of small intestine,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA943,Enteritis or ulcer of small intestine due to other external causes,,,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9430,Enteritis or ulcer of small intestine due to foreign body,,Enteritis or ulcer of small intestine due to other external causes,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9431,Enteritis or ulcer of small intestine due to radiation,,Enteritis or ulcer of small intestine due to other external causes,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9432,Enteritis or ulcer of small intestine due to trauma,,Enteritis or ulcer of small intestine due to other external causes,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA943Z,"Enteritis or ulcer of small intestine due to other external causes, unspecified",,Enteritis or ulcer of small intestine due to other external causes,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA94Y,Other specified noninfectious enteritis or ulcer of small intestine,,,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA94Z,"Noninfectious enteritis or ulcer of small intestine, unspecified",,,Noninfectious enteritis or ulcer of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA95,Coeliac disease,,,,Diseases of small intestine,Diseases of the digestive system
+DA96,Intestinal malabsorption or protein-losing enteropathy,,,,Diseases of small intestine,Diseases of the digestive system
+DA960,Intestinal malabsorption,,,Intestinal malabsorption or protein-losing enteropathy,Diseases of small intestine,Diseases of the digestive system
+DA9600,Bacterial overgrowth syndrome,,Intestinal malabsorption,Intestinal malabsorption or protein-losing enteropathy,Diseases of small intestine,Diseases of the digestive system
+DA9601,Tropical sprue,,Intestinal malabsorption,Intestinal malabsorption or protein-losing enteropathy,Diseases of small intestine,Diseases of the digestive system
+DA9602,Malabsorption or intolerance of specific nutrients,,Intestinal malabsorption,Intestinal malabsorption or protein-losing enteropathy,Diseases of small intestine,Diseases of the digestive system
+DA9604,Short bowel syndrome,,Intestinal malabsorption,Intestinal malabsorption or protein-losing enteropathy,Diseases of small intestine,Diseases of the digestive system
+DA9605,Intestinal failure,,Intestinal malabsorption,Intestinal malabsorption or protein-losing enteropathy,Diseases of small intestine,Diseases of the digestive system
+DA960Y,Other specified intestinal malabsorption,,Intestinal malabsorption,Intestinal malabsorption or protein-losing enteropathy,Diseases of small intestine,Diseases of the digestive system
+DA960Z,"Intestinal malabsorption, unspecified",,Intestinal malabsorption,Intestinal malabsorption or protein-losing enteropathy,Diseases of small intestine,Diseases of the digestive system
+DA961,Protein-losing enteropathy,,,Intestinal malabsorption or protein-losing enteropathy,Diseases of small intestine,Diseases of the digestive system
+DA96Y,Other specified intestinal malabsorption or protein-losing enteropathy,,,Intestinal malabsorption or protein-losing enteropathy,Diseases of small intestine,Diseases of the digestive system
+DA96Z,"Intestinal malabsorption or protein-losing enteropathy, unspecified",,,Intestinal malabsorption or protein-losing enteropathy,Diseases of small intestine,Diseases of the digestive system
+DA97,Certain vascular disorders of small intestine,,,,Diseases of small intestine,Diseases of the digestive system
+DA970,Angiodysplasia of small intestine,,,Certain vascular disorders of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA971,Arteriovenous malformation of small intestine,,,Certain vascular disorders of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA972,Vasculitis of mesenteric arteries,,,Certain vascular disorders of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA973,Varices of small intestine,,,Certain vascular disorders of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA97Z,"Certain vascular disorders of small intestine, unspecified",,,Certain vascular disorders of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA98,Polyps of small intestine,,,,Diseases of small intestine,Diseases of the digestive system
+DA980,Hamartoma of small intestine,,,Polyps of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA981,Hyperplastic polyp of small intestine,,,Polyps of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA982,Inflammatory fibroid polyp of small intestine,,,Polyps of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA983,Lymphoid hyperplasia of small intestine,,,Polyps of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA98Y,Other specified polyps of small intestine,,,Polyps of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA98Z,"Polyps of small intestine, unspecified",,,Polyps of small intestine,Diseases of small intestine,Diseases of the digestive system
+DA9Y,Other specified diseases of small intestine,,,,Diseases of small intestine,Diseases of the digestive system
+DA9Z,"Diseases of small intestine, unspecified",,,,Diseases of small intestine,Diseases of the digestive system
+DB10,Appendicitis,,,,Diseases of appendix,Diseases of the digestive system
+DB100,Acute appendicitis,,,Appendicitis,Diseases of appendix,Diseases of the digestive system
+DB1000,Acute appendicitis with generalised peritonitis,,Acute appendicitis,Appendicitis,Diseases of appendix,Diseases of the digestive system
+DB1001,Acute appendicitis with localised peritonitis,,Acute appendicitis,Appendicitis,Diseases of appendix,Diseases of the digestive system
+DB1002,Acute appendicitis without localised or generalised peritonitis,,Acute appendicitis,Appendicitis,Diseases of appendix,Diseases of the digestive system
+DB101,Chronic appendicitis,,,Appendicitis,Diseases of appendix,Diseases of the digestive system
+DB10Y,Other specified appendicitis,,,Appendicitis,Diseases of appendix,Diseases of the digestive system
+DB10Z,"Appendicitis, unspecified",,,Appendicitis,Diseases of appendix,Diseases of the digestive system
+DB11,Certain specified diseases of appendix,,,,Diseases of appendix,Diseases of the digestive system
+DB110,Megaloappendix,,,Certain specified diseases of appendix,Diseases of appendix,Diseases of the digestive system
+DB111,Hyperplasia of appendix,,,Certain specified diseases of appendix,Diseases of appendix,Diseases of the digestive system
+DB112,Appendicular concretions,,,Certain specified diseases of appendix,Diseases of appendix,Diseases of the digestive system
+DB113,"Diverticulum of appendix, acquired",,,Certain specified diseases of appendix,Diseases of appendix,Diseases of the digestive system
+DB114,Fistula of appendix,,,Certain specified diseases of appendix,Diseases of appendix,Diseases of the digestive system
+DB115,Intussusception of appendix,,,Certain specified diseases of appendix,Diseases of appendix,Diseases of the digestive system
+DB116,Mucocele of appendix,,,Certain specified diseases of appendix,Diseases of appendix,Diseases of the digestive system
+DB1Y,Other specified diseases of appendix,,,,Diseases of appendix,Diseases of the digestive system
+DB1Z,"Diseases of appendix, unspecified",,,,Diseases of appendix,Diseases of the digestive system
+DB30,Obstruction of large intestine,,,,Diseases of large intestine,Diseases of the digestive system
+DB300,Intussusception of the large intestine,,,Obstruction of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB301,Volvulus of large intestine,,,Obstruction of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB302,Adhesions of large intestine with obstruction,,,Obstruction of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB303,Impaction of large intestine,,,Obstruction of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB304,Stenosis of the rectum,,,Obstruction of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB30Y,Other specified obstruction of large intestine,,,Obstruction of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB30Z,"Obstruction of large intestine, unspecified",,,Obstruction of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB31,Other acquired anatomical alterations of large intestine,,,,Diseases of large intestine,Diseases of the digestive system
+DB310,Fistula of large intestine,,,Other acquired anatomical alterations of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB311,Pneumatosis intestinalis of large intestine,,,Other acquired anatomical alterations of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB312,Rectal prolapse,,,Other acquired anatomical alterations of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB31Y,Other specified acquired anatomical alterations of large intestine,,,Other acquired anatomical alterations of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB31Z,"Acquired anatomical alterations of large intestine, unspecified",,,Other acquired anatomical alterations of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB32,Motility disorders of large intestine,,,,Diseases of large intestine,Diseases of the digestive system
+DB320,Pseudo-obstruction of colon,,,Motility disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB321,Slow transit constipation,,,Motility disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB322,Megacolon,,,Motility disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB3220,Toxic megacolon,,Megacolon,Motility disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB322Y,Other specified megacolon,,Megacolon,Motility disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB322Z,"Megacolon, unspecified",,Megacolon,Motility disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB323,Acquired hypoganglionosis of large intestine,,,Motility disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB32Y,Other specified motility disorders of large intestine,,,Motility disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB32Z,"Motility disorders of large intestine, unspecified",,,Motility disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB33,Certain noninfectious colitis or proctitis,,,,Diseases of large intestine,Diseases of the digestive system
+DB330,Primary ulcer of colon,,,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB331,Microscopic colitis,,,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB3310,Collagenous colitis,,Microscopic colitis,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB3311,Lymphocytic colitis,,Microscopic colitis,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB331Y,Other specified microscopic colitis,,Microscopic colitis,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB331Z,"Microscopic colitis, unspecified",,Microscopic colitis,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB332,Allergic or dietetic colitis,,,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB3320,Food protein-induced proctitis or colitis of infants,,Allergic or dietetic colitis,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB332Y,Other specified allergic or dietetic colitis,,Allergic or dietetic colitis,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB332Z,"Allergic or dietetic colitis, unspecified",,Allergic or dietetic colitis,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB333,Diversion colitis,,,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB334,Colitis or proctitis due to external causes,,,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB3340,Chemical colitis or proctitis,,Colitis or proctitis due to external causes,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB3341,Radiation-induced colitis,,Colitis or proctitis due to external causes,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB3342,Radiation proctitis,,Colitis or proctitis due to external causes,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB3343,Drug-induced colitis,,Colitis or proctitis due to external causes,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB334Y,Other specified colitis or proctitis due to external causes,,Colitis or proctitis due to external causes,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB334Z,"Colitis or proctitis due to external causes, unspecified",,Colitis or proctitis due to external causes,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB33Y,Other specified noninfectious colitis or proctitis,,,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB33Z,"Noninfectious colitis or proctitis, unspecified",,,Certain noninfectious colitis or proctitis,Diseases of large intestine,Diseases of the digestive system
+DB34,Certain vascular disorders of large intestine,,,,Diseases of large intestine,Diseases of the digestive system
+DB340,Angiodysplasia of colon,,,Certain vascular disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB341,Arteriovenous malformation of large intestine,,,Certain vascular disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB342,Vasculitis of large intestine,,,Certain vascular disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB343,Varices of large intestine,,,Certain vascular disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB344,Acute haemorrhagic rectal ulcer,,,Certain vascular disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB34Y,Other specified vascular disorders of large intestine,,,Certain vascular disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB34Z,"Vascular disorders of large intestine, unspecified",,,Certain vascular disorders of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB35,Polyp of large intestine,,,,Diseases of large intestine,Diseases of the digestive system
+DB350,Hyperplastic polyp of large intestine,,,Polyp of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB351,Inflammatory polyp of large intestine,,,Polyp of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB352,Benign lymphoid polyp of large intestine,,,Polyp of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB353,Hamartomatous polyp of large intestine,,,Polyp of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB354,Inflammatory fibroid polyp of large intestine,,,Polyp of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB35Y,Other specified polyp of large intestine,,,Polyp of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB35Z,"Polyp of large intestine, unspecified",,,Polyp of large intestine,Diseases of large intestine,Diseases of the digestive system
+DB36,Certain infections of the large intestine,,,,Diseases of large intestine,Diseases of the digestive system
+DB360,Colonic abscess,,,Certain infections of the large intestine,Diseases of large intestine,Diseases of the digestive system
+DB361,Rectal abscess,,,Certain infections of the large intestine,Diseases of large intestine,Diseases of the digestive system
+DB3610,Perirectal abscess,,Rectal abscess,Certain infections of the large intestine,Diseases of large intestine,Diseases of the digestive system
+DB3611,Ischiorectal abscess,,Rectal abscess,Certain infections of the large intestine,Diseases of large intestine,Diseases of the digestive system
+DB3612,Rectal cellulitis,,Rectal abscess,Certain infections of the large intestine,Diseases of large intestine,Diseases of the digestive system
+DB36Y,Other specified infections of the large intestine,,,Certain infections of the large intestine,Diseases of large intestine,Diseases of the digestive system
+DB36Z,"Infections of the large intestine, unspecified",,,Certain infections of the large intestine,Diseases of large intestine,Diseases of the digestive system
+DB3Y,Other specified diseases of large intestine,,,,Diseases of large intestine,Diseases of the digestive system
+DB3Z,"Diseases of large intestine, unspecified",,,,Diseases of large intestine,Diseases of the digestive system
+DB50,Fissure or fistula of anal regions,,,Acquired anatomical alterations of the anal canal,Diseases of anal canal,Diseases of the digestive system
+DB500,Anal fissure,,Fissure or fistula of anal regions,Acquired anatomical alterations of the anal canal,Diseases of anal canal,Diseases of the digestive system
+DB501,Anal fistula,,Fissure or fistula of anal regions,Acquired anatomical alterations of the anal canal,Diseases of anal canal,Diseases of the digestive system
+DB502,Anorectal fistula,,Fissure or fistula of anal regions,Acquired anatomical alterations of the anal canal,Diseases of anal canal,Diseases of the digestive system
+DB50Y,Other specified fissure or fistula of anal regions,,Fissure or fistula of anal regions,Acquired anatomical alterations of the anal canal,Diseases of anal canal,Diseases of the digestive system
+DB50Z,"Fissure or fistula of anal regions, unspecified",,Fissure or fistula of anal regions,Acquired anatomical alterations of the anal canal,Diseases of anal canal,Diseases of the digestive system
+DB51,Stenosis of anal canal,,,Acquired anatomical alterations of the anal canal,Diseases of anal canal,Diseases of the digestive system
+DB52,Ulcer of anus,,,Acquired anatomical alterations of the anal canal,Diseases of anal canal,Diseases of the digestive system
+DB53,Anal prolapse,,,Acquired anatomical alterations of the anal canal,Diseases of anal canal,Diseases of the digestive system
+DB5Y,Other specified acquired anatomical alterations of the anal canal,,,Acquired anatomical alterations of the anal canal,Diseases of anal canal,Diseases of the digestive system
+DB5Z,"Acquired anatomical alterations of the anal canal, unspecified",,,Acquired anatomical alterations of the anal canal,Diseases of anal canal,Diseases of the digestive system
+DB60,Haemorrhoids,,,Haemorrhoids or perianal venous conditions,Diseases of anal canal,Diseases of the digestive system
+DB600,First degree haemorrhoids,,Haemorrhoids,Haemorrhoids or perianal venous conditions,Diseases of anal canal,Diseases of the digestive system
+DB601,Second degree haemorrhoids,,Haemorrhoids,Haemorrhoids or perianal venous conditions,Diseases of anal canal,Diseases of the digestive system
+DB602,Third degree haemorrhoids,,Haemorrhoids,Haemorrhoids or perianal venous conditions,Diseases of anal canal,Diseases of the digestive system
+DB603,Fourth degree haemorrhoids,,Haemorrhoids,Haemorrhoids or perianal venous conditions,Diseases of anal canal,Diseases of the digestive system
+DB60Z,"Haemorrhoids, unspecified",,Haemorrhoids,Haemorrhoids or perianal venous conditions,Diseases of anal canal,Diseases of the digestive system
+DB61,Perianal venous thrombosis,,,Haemorrhoids or perianal venous conditions,Diseases of anal canal,Diseases of the digestive system
+DB62,Residual haemorrhoidal skin tags,,,Haemorrhoids or perianal venous conditions,Diseases of anal canal,Diseases of the digestive system
+DB6Y,Other specified haemorrhoids or perianal venous conditions,,,Haemorrhoids or perianal venous conditions,Diseases of anal canal,Diseases of the digestive system
+DB6Z,"Haemorrhoids or perianal venous conditions, unspecified",,,Haemorrhoids or perianal venous conditions,Diseases of anal canal,Diseases of the digestive system
+DB70,Infections of the anal region,,,,Diseases of anal canal,Diseases of the digestive system
+DB700,Abscess of anal region,,,Infections of the anal region,Diseases of anal canal,Diseases of the digestive system
+DB7000,Anal abscess,,Abscess of anal region,Infections of the anal region,Diseases of anal canal,Diseases of the digestive system
+DB7001,Anorectal abscess,,Abscess of anal region,Infections of the anal region,Diseases of anal canal,Diseases of the digestive system
+DB7002,Intrasphincteric abscess,,Abscess of anal region,Infections of the anal region,Diseases of anal canal,Diseases of the digestive system
+DB700Y,Other specified abscess of anal region,,Abscess of anal region,Infections of the anal region,Diseases of anal canal,Diseases of the digestive system
+DB700Z,"Abscess of anal region, unspecified",,Abscess of anal region,Infections of the anal region,Diseases of anal canal,Diseases of the digestive system
+DB70Y,Other specified infections of the anal region,,,Infections of the anal region,Diseases of anal canal,Diseases of the digestive system
+DB70Z,"Infections of the anal region, unspecified",,,Infections of the anal region,Diseases of anal canal,Diseases of the digestive system
+DB71,Anal polyp,,,,Diseases of anal canal,Diseases of the digestive system
+DB710,Inflammatory anal polyp,,,Anal polyp,Diseases of anal canal,Diseases of the digestive system
+DB711,Lymphoid polyp,,,Anal polyp,Diseases of anal canal,Diseases of the digestive system
+DB712,Hypertrophied anal papillae,,,Anal polyp,Diseases of anal canal,Diseases of the digestive system
+DB71Y,Other specified anal polyp,,,Anal polyp,Diseases of anal canal,Diseases of the digestive system
+DB71Z,"Anal polyp, unspecified",,,Anal polyp,Diseases of anal canal,Diseases of the digestive system
+DB72,Certain specified diseases of anal canal,,,,Diseases of anal canal,Diseases of the digestive system
+DB720,Anal spasm,,,Certain specified diseases of anal canal,Diseases of anal canal,Diseases of the digestive system
+DB7Y,Other specified diseases of anal canal,,,,Diseases of anal canal,Diseases of the digestive system
+DB7Z,"Diseases of anal canal, unspecified",,,,Diseases of anal canal,Diseases of the digestive system
+DB90,Infectious liver disease,,,,Diseases of liver,Diseases of the digestive system
+DB900,Abscess of liver,,,Infectious liver disease,Diseases of liver,Diseases of the digestive system
+DB90Y,Other specified infectious liver disease,,,Infectious liver disease,Diseases of liver,Diseases of the digestive system
+DB90Z,"Infectious liver disease, unspecified",,,Infectious liver disease,Diseases of liver,Diseases of the digestive system
+DB91,Acute or subacute hepatic failure,,,,Diseases of liver,Diseases of the digestive system
+DB910,Acute or subacute hepatic failure due to hepatitis virus,,,Acute or subacute hepatic failure,Diseases of liver,Diseases of the digestive system
+DB911,Other acute or subacute hepatic failure,,,Acute or subacute hepatic failure,Diseases of liver,Diseases of the digestive system
+DB91Z,"Acute or subacute hepatic failure, unspecified",,,Acute or subacute hepatic failure,Diseases of liver,Diseases of the digestive system
+DB92,Non-alcoholic fatty liver disease,,,,Diseases of liver,Diseases of the digestive system
+DB920,Non-alcoholic fatty liver disease without non-alcoholic steatohepatitis,,,Non-alcoholic fatty liver disease,Diseases of liver,Diseases of the digestive system
+DB921,Non-alcoholic steatohepatitis,,,Non-alcoholic fatty liver disease,Diseases of liver,Diseases of the digestive system
+DB92Y,Other specified non-alcoholic fatty liver disease,,,Non-alcoholic fatty liver disease,Diseases of liver,Diseases of the digestive system
+DB92Z,"Non-alcoholic fatty liver disease, unspecified",,,Non-alcoholic fatty liver disease,Diseases of liver,Diseases of the digestive system
+DB93,Hepatic fibrosis or cirrhosis,,,,Diseases of liver,Diseases of the digestive system
+DB930,Hepatic fibrosis,,,Hepatic fibrosis or cirrhosis,Diseases of liver,Diseases of the digestive system
+DB931,Hepatic cirrhosis,,,Hepatic fibrosis or cirrhosis,Diseases of liver,Diseases of the digestive system
+DB932,Certain specified fibrosis or cirrhosis of liver,,,Hepatic fibrosis or cirrhosis,Diseases of liver,Diseases of the digestive system
+DB9320,Hereditary North American Indian childhood cirrhosis,,Certain specified fibrosis or cirrhosis of liver,Hepatic fibrosis or cirrhosis,Diseases of liver,Diseases of the digestive system
+DB9321,Idiopathic copper-associated cirrhosis,,Certain specified fibrosis or cirrhosis of liver,Hepatic fibrosis or cirrhosis,Diseases of liver,Diseases of the digestive system
+DB93Y,Other specified hepatic fibrosis or cirrhosis,,,Hepatic fibrosis or cirrhosis,Diseases of liver,Diseases of the digestive system
+DB94,Alcoholic liver disease,,,,Diseases of liver,Diseases of the digestive system
+DB940,Alcoholic fatty liver,,,Alcoholic liver disease,Diseases of liver,Diseases of the digestive system
+DB941,Alcoholic hepatitis,,,Alcoholic liver disease,Diseases of liver,Diseases of the digestive system
+DB9410,Alcoholic hepatitis with cirrhosis,,Alcoholic hepatitis,Alcoholic liver disease,Diseases of liver,Diseases of the digestive system
+DB941Y,Other specified alcoholic hepatitis,,Alcoholic hepatitis,Alcoholic liver disease,Diseases of liver,Diseases of the digestive system
+DB941Z,"Alcoholic hepatitis, unspecified",,Alcoholic hepatitis,Alcoholic liver disease,Diseases of liver,Diseases of the digestive system
+DB942,Alcoholic liver fibrosis,,,Alcoholic liver disease,Diseases of liver,Diseases of the digestive system
+DB943,Alcoholic cirrhosis of liver without hepatitis,,,Alcoholic liver disease,Diseases of liver,Diseases of the digestive system
+DB94Y,Other specified alcoholic liver disease,,,Alcoholic liver disease,Diseases of liver,Diseases of the digestive system
+DB94Z,"Alcoholic liver disease, unspecified",,,Alcoholic liver disease,Diseases of liver,Diseases of the digestive system
+DB95,Drug-induced or toxic liver disease,,,,Diseases of liver,Diseases of the digestive system
+DB950,Drug-induced or toxic liver disease with acute hepatic necrosis or acute hepatitis,,,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB951,Drug-induced or toxic liver disease with chronic hepatitis,,,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB9510,Drug-induced or toxic liver disease with chronic hepatitis with cirrhosis,,Drug-induced or toxic liver disease with chronic hepatitis,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB9511,Drug-induced or toxic liver disease with chronic hepatitis without cirrhosis,,Drug-induced or toxic liver disease with chronic hepatitis,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB951Z,"Drug-induced or toxic liver disease with chronic hepatitis, unspecified",,Drug-induced or toxic liver disease with chronic hepatitis,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB952,Drug-induced or toxic liver disease with cholestasis,,,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB9520,Chronic drug-induced or toxic liver disease with cholestasis,,Drug-induced or toxic liver disease with cholestasis,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB952Y,Other specified drug-induced or toxic liver disease with cholestasis,,Drug-induced or toxic liver disease with cholestasis,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB952Z,"Drug-induced or toxic liver disease with cholestasis, unspecified",,Drug-induced or toxic liver disease with cholestasis,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB953,Drug-induced or toxic liver disease with fatty liver,,,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB9530,Drug-induced or toxic liver disease with chronic fatty liver disease,,Drug-induced or toxic liver disease with fatty liver,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB953Y,Other specified drug-induced or toxic liver disease with fatty liver,,Drug-induced or toxic liver disease with fatty liver,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB953Z,"Drug-induced or toxic liver disease with fatty liver, unspecified",,Drug-induced or toxic liver disease with fatty liver,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB954,Drug-induced or toxic liver disease with granulomatous hepatitis,,,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB955,Drug-induced or toxic liver disease with fibrosis or cirrhosis of liver,,,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB956,Drug-induced or toxic liver disease with vascular disorders of the liver,,,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB957,Drug-induced or toxic liver disease with liver tumours,,,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB95Y,Other specified drug-induced or toxic liver disease,,,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB95Z,"Drug-induced or toxic liver disease, unspecified",,,Drug-induced or toxic liver disease,Diseases of liver,Diseases of the digestive system
+DB96,Autoimmune liver disease,,,,Diseases of liver,Diseases of the digestive system
+DB960,Autoimmune hepatitis,,,Autoimmune liver disease,Diseases of liver,Diseases of the digestive system
+DB961,Primary biliary cholangitis,,,Autoimmune liver disease,Diseases of liver,Diseases of the digestive system
+DB9610,Primary biliary cholangitis with overlap syndrome,,Primary biliary cholangitis,Autoimmune liver disease,Diseases of liver,Diseases of the digestive system
+DB961Y,Other specified primary biliary cholangitis,,Primary biliary cholangitis,Autoimmune liver disease,Diseases of liver,Diseases of the digestive system
+DB961Z,"Primary biliary cholangitis, unspecified",,Primary biliary cholangitis,Autoimmune liver disease,Diseases of liver,Diseases of the digestive system
+DB962,Primary sclerosing cholangitis,,,Autoimmune liver disease,Diseases of liver,Diseases of the digestive system
+DB9620,Primary sclerosing cholangitis with cirrhosis,,Primary sclerosing cholangitis,Autoimmune liver disease,Diseases of liver,Diseases of the digestive system
+DB962Y,Other specified primary sclerosing cholangitis,,Primary sclerosing cholangitis,Autoimmune liver disease,Diseases of liver,Diseases of the digestive system
+DB962Z,"Primary sclerosing cholangitis, unspecified",,Primary sclerosing cholangitis,Autoimmune liver disease,Diseases of liver,Diseases of the digestive system
+DB96Y,Other specified autoimmune liver disease,,,Autoimmune liver disease,Diseases of liver,Diseases of the digestive system
+DB96Z,"Autoimmune liver disease, unspecified",,,Autoimmune liver disease,Diseases of liver,Diseases of the digestive system
+DB97,Certain specified inflammatory liver diseases,,,,Diseases of liver,Diseases of the digestive system
+DB970,Idiopathic granulomatous hepatitis,,,Certain specified inflammatory liver diseases,Diseases of liver,Diseases of the digestive system
+DB971,Hepatic berylliosis,,,Certain specified inflammatory liver diseases,Diseases of liver,Diseases of the digestive system
+DB972,"Chronic hepatitis, not elsewhere classified",,,Certain specified inflammatory liver diseases,Diseases of liver,Diseases of the digestive system
+DB97Y,Other specified inflammatory liver disease,,,Certain specified inflammatory liver diseases,Diseases of liver,Diseases of the digestive system
+DB97Z,"Inflammatory liver disease, unspecified",,,Certain specified inflammatory liver diseases,Diseases of liver,Diseases of the digestive system
+DB98,Vascular disorders of the liver,,,,Diseases of liver,Diseases of the digestive system
+DB980,Infarction of liver,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB981,Peliosis hepatis,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB982,Nodular regenerative hyperplasia of liver,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB983,Portal vein thrombosis,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB984,Splenic vein thrombosis,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB985,Budd-Chiari syndrome,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB986,Hepatic veno-occlusive disease,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB987,Portal hypertension,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB9870,Idiopathic portal hypertension,,Portal hypertension,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB9871,Non-cirrhotic portal fibrosis,,Portal hypertension,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB9872,Partial nodular transformation of liver,,Portal hypertension,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB9873,Splanchnic arteriovenous fistula,,Portal hypertension,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB9874,Secondary portal hypertension,,Portal hypertension,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB987Y,Other specified portal hypertension,,Portal hypertension,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB987Z,"Portal hypertension, unspecified",,Portal hypertension,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB988,Passive congestion of liver,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB989,Hepatic artery aneurysm,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB98A,Hepatic haemorrhage,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB98B,Ischaemia reperfusion injury of liver,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB98Y,Other specified vascular disorders of the liver,,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB98Z,"Vascular disorders of the liver, unspecified",,,Vascular disorders of the liver,Diseases of liver,Diseases of the digestive system
+DB99,Certain specified diseases of liver,,,,Diseases of liver,Diseases of the digestive system
+DB990,Chronic liver disease,,,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB991,Hepatic cyst,,,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB9910,Polycystic liver disease,,Hepatic cyst,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB991Y,Other specified hepatic cyst,,Hepatic cyst,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB991Z,"Hepatic cyst, unspecified",,Hepatic cyst,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB992,Hepatorenal syndrome,,,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB993,Portopulmonary hypertension,,,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB994,Hepatopulmonary syndrome,,,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB995,Hepatic encephalopathy,,,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB996,"Intrahepatic cholestasis, not elsewhere classified",,,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB9960,Cholestasis of parenteral nutrition,,"Intrahepatic cholestasis, not elsewhere classified",Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB996Y,Other specified intrahepatic cholestasis,,"Intrahepatic cholestasis, not elsewhere classified",Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB996Z,"Intrahepatic cholestasis, unspecified",,"Intrahepatic cholestasis, not elsewhere classified",Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB997,Hepatic failure without mention whether acute or chronic,,,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB998,Chronic hepatic failure,,,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB99Y,Other specified diseases of liver,,,Certain specified diseases of liver,Diseases of liver,Diseases of the digestive system
+DB9Z,"Diseases of liver, unspecified",,,,Diseases of liver,Diseases of the digestive system
+DC10,Acquired anatomical alterations of gallbladder or bile ducts,,,,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC100,Obstruction of gallbladder or bile ducts,,,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC1000,Obstruction of cystic duct,,Obstruction of gallbladder or bile ducts,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC1001,Obstruction of gall bladder,,Obstruction of gallbladder or bile ducts,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC1002,Obstruction of bile duct,,Obstruction of gallbladder or bile ducts,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC100Y,Other specified obstruction of gallbladder or bile ducts,,Obstruction of gallbladder or bile ducts,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC100Z,"Obstruction of gallbladder or bile ducts, unspecified",,Obstruction of gallbladder or bile ducts,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC101,Hydrops of gallbladder,,,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC102,Fistula of gallbladder or bile duct,,,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC103,Polyp of gallbladder,,,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC104,Cholesterolosis of gallbladder,,,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC10Y,Other specified acquired anatomical alterations of gallbladder or bile ducts,,,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC10Z,"Acquired anatomical alterations of gallbladder or bile ducts, unspecified",,,Acquired anatomical alterations of gallbladder or bile ducts,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC11,Cholelithiasis,,,,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC110,Calculus of gallbladder or cystic duct with acute cholecystitis,,,Cholelithiasis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC111,Calculus of gallbladder or cystic duct with other cholecystitis,,,Cholelithiasis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC112,Calculus of gallbladder or cystic duct with cholangitis,,,Cholelithiasis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC113,Calculus of gallbladder or cystic duct without cholecystitis or cholangitis,,,Cholelithiasis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC114,Calculus of bile duct with cholangitis,,,Cholelithiasis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC115,Calculus of bile duct with cholecystitis,,,Cholelithiasis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC116,Calculus of bile duct without cholangitis or cholecystitis,,,Cholelithiasis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC117,Intrahepatic cholelithiasis,,,Cholelithiasis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC11Y,Other specified cholelithiasis,,,Cholelithiasis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC11Z,"Cholelithiasis, unspecified",,,Cholelithiasis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC12,Cholecystitis,,,,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC120,Acute cholecystitis,,,Cholecystitis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC1200,Acute on chronic cholecystitis,,Acute cholecystitis,Cholecystitis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC120Y,Other specified acute cholecystitis,,Acute cholecystitis,Cholecystitis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC120Z,"Acute cholecystitis, unspecified",,Acute cholecystitis,Cholecystitis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC121,Chronic cholecystitis,,,Cholecystitis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC12Y,Other specified cholecystitis,,,Cholecystitis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC12Z,"Cholecystitis, unspecified",,,Cholecystitis,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC13,Cholangitis,,,,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC14,Certain specified biliary diseases,,,,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC140,Haemorrhage of bile duct,,,Certain specified biliary diseases,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC141,Postcholecystectomy syndrome,,,Certain specified biliary diseases,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC142,Dyskinesia of sphincter of Oddi,,,Certain specified biliary diseases,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC143,Adenomyomatosis of gallbladder,,,Certain specified biliary diseases,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC1Y,Other specified diseases of gallbladder or biliary tract,,,,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC1Z,"Diseases of gallbladder or biliary tract, unspecified",,,,Diseases of gallbladder or biliary tract,Diseases of the digestive system
+DC30,Cystic diseases of the pancreas,,,,Diseases of pancreas,Diseases of the digestive system
+DC300,Cyst of pancreas,,,Cystic diseases of the pancreas,Diseases of pancreas,Diseases of the digestive system
+DC301,Pseudocyst of pancreas,,,Cystic diseases of the pancreas,Diseases of pancreas,Diseases of the digestive system
+DC30Y,Other specified cystic diseases of the pancreas,,,Cystic diseases of the pancreas,Diseases of pancreas,Diseases of the digestive system
+DC30Z,"Cystic diseases of the pancreas, unspecified",,,Cystic diseases of the pancreas,Diseases of pancreas,Diseases of the digestive system
+DC31,Acute pancreatitis,,,,Diseases of pancreas,Diseases of the digestive system
+DC310,Acute idiopathic pancreatitis,,,Acute pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC311,Acute alcohol-induced pancreatitis,,,Acute pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC312,Acute biliary pancreatitis,,,Acute pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC313,Acute drug-induced pancreatitis,,,Acute pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC314,Hereditary acute pancreatitis,,,Acute pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC315,Acute exacerbation of chronic pancreatitis,,,Acute pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC31Y,Other specified acute pancreatitis,,,Acute pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC31Z,"Acute pancreatitis, unspecified",,,Acute pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC32,Chronic pancreatitis,,,,Diseases of pancreas,Diseases of the digestive system
+DC320,Calcific pancreatitis,,,Chronic pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC321,Groove pancreatitis,,,Chronic pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC322,Hereditary chronic pancreatitis,,,Chronic pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC323,Chronic alcohol-induced pancreatitis,,,Chronic pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC324,Chronic idiopathic pancreatitis,,,Chronic pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC325,Tropical pancreatitis,,,Chronic pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC32Y,Other specified chronic pancreatitis,,,Chronic pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC32Z,"Chronic pancreatitis, unspecified",,,Chronic pancreatitis,Diseases of pancreas,Diseases of the digestive system
+DC33,Autoimmune pancreatitis,,,,Diseases of pancreas,Diseases of the digestive system
+DC34,Obstructive pancreatitis,,,,Diseases of pancreas,Diseases of the digestive system
+DC35,Certain specified diseases of pancreas,,,,Diseases of pancreas,Diseases of the digestive system
+DC350,Atrophy of pancreas,,,Certain specified diseases of pancreas,Diseases of pancreas,Diseases of the digestive system
+DC351,Secondary pancreatic insufficiency,,,Certain specified diseases of pancreas,Diseases of pancreas,Diseases of the digestive system
+DC352,Pancreatic steatorrhoea,,,Certain specified diseases of pancreas,Diseases of pancreas,Diseases of the digestive system
+DC3Y,Other specified diseases of pancreas,,,,Diseases of pancreas,Diseases of the digestive system
+DC3Z,"Diseases of pancreas, unspecified",,,,Diseases of pancreas,Diseases of the digestive system
+DC50,Peritonitis,,,,Diseases of peritoneum,Diseases of the digestive system
+DC500,Primary peritonitis,,,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC5000,Spontaneous bacterial peritonitis,,Primary peritonitis,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC5001,Other specified primary peritonitis,,Primary peritonitis,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC501,Secondary peritonitis,,,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC5010,Eosinophilic peritonitis,,Secondary peritonitis,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC5011,Mesenteric peritonitis,,Secondary peritonitis,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC5012,Chronic proliferative peritonitis,,Secondary peritonitis,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC5013,Peritonitis due to Streptococcus pneumoniae,,Secondary peritonitis,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC501Y,Other specified secondary peritonitis,,Secondary peritonitis,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC501Z,"Secondary peritonitis, unspecified",,Secondary peritonitis,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC502,Peritoneal abscess,,,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC50Z,"Peritonitis, unspecified",,,Peritonitis,Diseases of peritoneum,Diseases of the digestive system
+DC51,Certain specified disorders of peritoneum or retroperitoneum,,,,Diseases of peritoneum,Diseases of the digestive system
+DC510,Chylous ascites,,,Certain specified disorders of peritoneum or retroperitoneum,Diseases of peritoneum,Diseases of the digestive system
+DC511,Peritoneal adhesions,,,Certain specified disorders of peritoneum or retroperitoneum,Diseases of peritoneum,Diseases of the digestive system
+DC512,Haemoperitoneum,,,Certain specified disorders of peritoneum or retroperitoneum,Diseases of peritoneum,Diseases of the digestive system
+DC51Y,Other specified disorders of peritoneum or retroperitoneum,,,Certain specified disorders of peritoneum or retroperitoneum,Diseases of peritoneum,Diseases of the digestive system
+DC5Z,"Diseases of peritoneum, unspecified",,,,Diseases of peritoneum,Diseases of the digestive system
+DC70,Diverticulitis of small intestine,,,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC700,Diverticulitis of small intestine with complication,,Diverticulitis of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC7000,Diverticulitis of small intestine with perforation or abscess,Diverticulitis of small intestine with complication,Diverticulitis of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC700Y,Diverticulitis of small intestine with other specified complication,Diverticulitis of small intestine with complication,Diverticulitis of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC700Z,Diverticulitis of small intestine with unspecified complication,Diverticulitis of small intestine with complication,Diverticulitis of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC701,Diverticulitis of small intestine without complication,,Diverticulitis of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC70Z,Diverticulitis of small intestine without specification of presence of complications,,Diverticulitis of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC71,Diverticulosis of small intestine,,,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC710,Diverticulosis of small intestine with haemorrhage,,Diverticulosis of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC711,Diverticulosis of small intestine without haemorrhage,,Diverticulosis of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC71Z,"Diverticulosis of small intestine, unspecified",,Diverticulosis of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC72,Diverticulum of small intestine,,,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC720,Diverticulum of small intestine with haemorrhage,,Diverticulum of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC721,Diverticulum of small intestine without haemorrhage,,Diverticulum of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC72Z,"Diverticulum of small intestine, no specification about presence or absence of haemorrhage",,Diverticulum of small intestine,Diverticular disease of small intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC80,Diverticulitis of large intestine,,,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC800,Diverticulitis of large intestine with complication,,Diverticulitis of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC8000,Diverticulitis of large intestine with perforation or abscess,Diverticulitis of large intestine with complication,Diverticulitis of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC800Y,Diverticulitis of large intestine with other specified complication,Diverticulitis of large intestine with complication,Diverticulitis of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC800Z,Diverticulitis of large intestine with unspecified complication,Diverticulitis of large intestine with complication,Diverticulitis of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC801,Diverticulitis of large intestine without complication,,Diverticulitis of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC80Z,Diverticulitis of large intestine without specification of presence of complications,,Diverticulitis of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC81,Diverticulosis of large intestine,,,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC810,Diverticulosis of large intestine with haemorrhage,,Diverticulosis of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC811,Diverticulosis of large intestine without haemorrhage,,Diverticulosis of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC81Z,"Diverticulosis of large intestine, unspecified",,Diverticulosis of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC82,Diverticulum of large intestine,,,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC820,Diverticulum of large intestine with haemorrhage,,Diverticulum of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC821,Diverticulum of large intestine without haemorrhage,,Diverticulum of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC82Z,"Diverticulum of large intestine, unspecified",,Diverticulum of large intestine,Diverticular disease of large intestine,Diverticular disease of intestine,Diseases of the digestive system
+DC90,Diverticular disease of small and large intestine,,,Diverticular disease of intestine of overlapping sites,Diverticular disease of intestine,Diseases of the digestive system
+DD00,Diverticulitis of unspecified part of intestine,,,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD000,Diverticulitis of unspecified part of intestine with complication,,Diverticulitis of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD0000,Diverticulitis of unspecified part of intestine with perforation or abscess,Diverticulitis of unspecified part of intestine with complication,Diverticulitis of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD000Y,Diverticulitis of unspecified part of intestine with other specified complication,Diverticulitis of unspecified part of intestine with complication,Diverticulitis of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD000Z,Diverticulitis of unspecified part of intestine with unspecified complication,Diverticulitis of unspecified part of intestine with complication,Diverticulitis of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD001,Diverticulitis of unspecified part of intestine without complication,,Diverticulitis of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD00Z,Diverticulitis of unspecified part of intestine without specification of presence or absence of complications,,Diverticulitis of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD01,Diverticulosis of unspecified part of intestine,,,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD010,Diverticulosis of unspecified part of intestine with haemorrhage,,Diverticulosis of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD011,Diverticulosis of unspecified part of intestine without haemorrhage,,Diverticulosis of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD01Z,"Diverticulosis of unspecified part of intestine, unspecified",,Diverticulosis of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD02,Diverticulum of unspecified part of intestine,,,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD020,Diverticular disease of unspecified part of intestine with haemorrhage,,Diverticulum of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD021,Diverticulum of unspecified part of intestine without complication,,Diverticulum of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD02Z,"Diverticulum of unspecified part of intestine, unspecified",,Diverticulum of unspecified part of intestine,Diverticular disease of unspecified part of intestine,Diverticular disease of intestine,Diseases of the digestive system
+DD1Z,"Diverticular disease of intestine, unspecified",,,,Diverticular disease of intestine,Diseases of the digestive system
+DD30,Acute vascular disorders of intestine,,,,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD300,Acute mesenteric arterial infarction,,,Acute vascular disorders of intestine,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD301,Acute mesenteric arterial ischaemia,,,Acute vascular disorders of intestine,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD302,Acute mesenteric venous occlusion,,,Acute vascular disorders of intestine,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD30Y,Other specified acute vascular disorders of intestine,,,Acute vascular disorders of intestine,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD30Z,"Acute vascular disorders of intestine, unspecified",,,Acute vascular disorders of intestine,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD31,Chronic vascular disorders of intestine,,,,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD310,Non-occlusive mesenteric ischaemia,,,Chronic vascular disorders of intestine,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD3100,Ischaemic colitis,,Non-occlusive mesenteric ischaemia,Chronic vascular disorders of intestine,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD310Y,Other specified non-occlusive mesenteric ischaemia,,Non-occlusive mesenteric ischaemia,Chronic vascular disorders of intestine,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD310Z,"Non-occlusive mesenteric ischaemia, unspecified",,Non-occlusive mesenteric ischaemia,Chronic vascular disorders of intestine,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD31Y,Other specified chronic vascular disorders of intestine,,,Chronic vascular disorders of intestine,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD31Z,"Chronic vascular disorders of intestine, unspecified",,,Chronic vascular disorders of intestine,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD3Y,Other specified ischaemic vascular disorders of intestine,,,,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD3Z,"Ischaemic vascular disorders of intestine, unspecified",,,,Ischaemic vascular disorders of intestine,Diseases of the digestive system
+DD50,Non-abdominal wall hernia,,,,Hernias,Diseases of the digestive system
+DD500,Diaphragmatic hernia,,,Non-abdominal wall hernia,Hernias,Diseases of the digestive system
+DD501,Pelvic hernia,,,Non-abdominal wall hernia,Hernias,Diseases of the digestive system
+DD502,Intra-abdominal hernia,,,Non-abdominal wall hernia,Hernias,Diseases of the digestive system
+DD5020,Primary intra-abdominal hernia,,Intra-abdominal hernia,Non-abdominal wall hernia,Hernias,Diseases of the digestive system
+DD5021,Secondary intra-abdominal hernia,,Intra-abdominal hernia,Non-abdominal wall hernia,Hernias,Diseases of the digestive system
+DD502Y,Other specified intra-abdominal hernia,,Intra-abdominal hernia,Non-abdominal wall hernia,Hernias,Diseases of the digestive system
+DD502Z,"Intra-abdominal hernia, unspecified",,Intra-abdominal hernia,Non-abdominal wall hernia,Hernias,Diseases of the digestive system
+DD50Y,Other specified non-abdominal wall hernia,,,Non-abdominal wall hernia,Hernias,Diseases of the digestive system
+DD50Z,"Non-abdominal wall hernia, unspecified",,,Non-abdominal wall hernia,Hernias,Diseases of the digestive system
+DD51,Inguinal hernia,,,,Hernias,Diseases of the digestive system
+DD52,Femoral hernia,,,,Hernias,Diseases of the digestive system
+DD53,Umbilical hernia,,,,Hernias,Diseases of the digestive system
+DD54,Paraumbilical hernia,,,,Hernias,Diseases of the digestive system
+DD55,Epigastric hernia,,,,Hernias,Diseases of the digestive system
+DD56,Incisional hernia,,,,Hernias,Diseases of the digestive system
+DD57,Parastomal hernia,,,,Hernias,Diseases of the digestive system
+DD5Y,Other specified hernias,,,,Hernias,Diseases of the digestive system
+DD5Z,"Hernias, unspecified",,,,Hernias,Diseases of the digestive system
+DD70,Crohn disease,,,,Inflammatory bowel diseases,Diseases of the digestive system
+DD700,Crohn disease of upper gastrointestinal tract,,,Crohn disease,Inflammatory bowel diseases,Diseases of the digestive system
+DD701,Crohn disease of small intestine,,,Crohn disease,Inflammatory bowel diseases,Diseases of the digestive system
+DD702,Crohn disease of appendix,,,Crohn disease,Inflammatory bowel diseases,Diseases of the digestive system
+DD703,Crohn disease of large intestine,,,Crohn disease,Inflammatory bowel diseases,Diseases of the digestive system
+DD704,Crohn disease of anal region,,,Crohn disease,Inflammatory bowel diseases,Diseases of the digestive system
+DD705,Crohn disease of both small and large intestine,,,Crohn disease,Inflammatory bowel diseases,Diseases of the digestive system
+DD706,Crohn disease of anastomotic sites,,,Crohn disease,Inflammatory bowel diseases,Diseases of the digestive system
+DD70Y,Crohn disease of other specified site,,,Crohn disease,Inflammatory bowel diseases,Diseases of the digestive system
+DD70Z,"Crohn disease, unspecified site",,,Crohn disease,Inflammatory bowel diseases,Diseases of the digestive system
+DD71,Ulcerative colitis,,,,Inflammatory bowel diseases,Diseases of the digestive system
+DD710,Ulcerative pancolitis,,,Ulcerative colitis,Inflammatory bowel diseases,Diseases of the digestive system
+DD711,Left sided ulcerative colitis,,,Ulcerative colitis,Inflammatory bowel diseases,Diseases of the digestive system
+DD712,Ulcerative rectosigmoiditis,,,Ulcerative colitis,Inflammatory bowel diseases,Diseases of the digestive system
+DD713,Ulcerative proctitis,,,Ulcerative colitis,Inflammatory bowel diseases,Diseases of the digestive system
+DD71Y,Other specified ulcerative colitis,,,Ulcerative colitis,Inflammatory bowel diseases,Diseases of the digestive system
+DD71Z,"Ulcerative colitis, unspecified",,,Ulcerative colitis,Inflammatory bowel diseases,Diseases of the digestive system
+DD72,Indeterminate colitis,,,,Inflammatory bowel diseases,Diseases of the digestive system
+DD7Y,Other specified inflammatory bowel diseases,,,,Inflammatory bowel diseases,Diseases of the digestive system
+DD7Z,"Inflammatory bowel diseases, unspecified",,,,Inflammatory bowel diseases,Diseases of the digestive system
+DD90,Functional oesophageal or gastroduodenal disorders,,,,Functional gastrointestinal disorders,Diseases of the digestive system
+DD900,Globus,,,Functional oesophageal or gastroduodenal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD901,Functional swallowing disorder,,,Functional oesophageal or gastroduodenal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD902,Functional heartburn,,,Functional oesophageal or gastroduodenal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD903,Functional dyspepsia,,,Functional oesophageal or gastroduodenal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD904,Functional nausea or vomiting,,,Functional oesophageal or gastroduodenal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD905,Functional belching disorders,,,Functional oesophageal or gastroduodenal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD906,Adult rumination syndrome,,,Functional oesophageal or gastroduodenal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD90Y,Other specified functional oesophageal or gastroduodenal disorders,,,Functional oesophageal or gastroduodenal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD90Z,"Functional oesophageal or gastroduodenal disorders, unspecified",,,Functional oesophageal or gastroduodenal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD91,Irritable bowel syndrome or certain specified functional bowel disorders,,,,Functional gastrointestinal disorders,Diseases of the digestive system
+DD910,Irritable bowel syndrome,,,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD9100,"Irritable bowel syndrome, constipation predominant",,Irritable bowel syndrome,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD9101,"Irritable bowel syndrome, diarrhoea predominant",,Irritable bowel syndrome,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD9102,"Irritable bowel syndrome, mixed type",,Irritable bowel syndrome,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD9103,"Irritable bowel syndrome, unsubtyped",,Irritable bowel syndrome,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD910Z,"Irritable bowel syndrome, type unspecified",,Irritable bowel syndrome,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD911,Functional constipation,,,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD912,Functional diarrhoea,,,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD913,Functional bloating,,,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD914,Functional abdominal pain syndrome,,,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD91Y,Other specified irritable bowel syndrome or functional bowel disorders,,,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD91Z,"Irritable bowel syndrome or functional bowel disorders, unspecified",,,Irritable bowel syndrome or certain specified functional bowel disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD92,Functional anorectal disorders,,,,Functional gastrointestinal disorders,Diseases of the digestive system
+DD920,Functional faecal incontinence,,,Functional anorectal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD921,Functional anorectal pain,,,Functional anorectal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD922,Functional defaecation disorders,,,Functional anorectal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD92Y,Other specified functional anorectal disorders,,,Functional anorectal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD92Z,"Functional anorectal disorders, unspecified",,,Functional anorectal disorders,Functional gastrointestinal disorders,Diseases of the digestive system
+DD93,"Functional digestive disorders of infants, toddlers or children",,,,Functional gastrointestinal disorders,Diseases of the digestive system
+DD930,Infant regurgitation,,,"Functional digestive disorders of infants, toddlers or children",Functional gastrointestinal disorders,Diseases of the digestive system
+DD931,Infantile colic,,,"Functional digestive disorders of infants, toddlers or children",Functional gastrointestinal disorders,Diseases of the digestive system
+DD932,Infant dyschezia,,,"Functional digestive disorders of infants, toddlers or children",Functional gastrointestinal disorders,Diseases of the digestive system
+DD93Y,"Other functional digestive disorders of infants, neonates or toddlers",,,"Functional digestive disorders of infants, toddlers or children",Functional gastrointestinal disorders,Diseases of the digestive system
+DD93Z,"Functional digestive disorders of infants, toddlers or children, unspecified",,,"Functional digestive disorders of infants, toddlers or children",Functional gastrointestinal disorders,Diseases of the digestive system
+DD94,Functional gallbladder disorder,,,,Functional gastrointestinal disorders,Diseases of the digestive system
+DD95,Functional sphincter of Oddi disorder,,,,Functional gastrointestinal disorders,Diseases of the digestive system
+DD9Y,Other specified functional gastrointestinal disorders,,,,Functional gastrointestinal disorders,Diseases of the digestive system
+DD9Z,"Functional gastrointestinal disorders, unspecified",,,,Functional gastrointestinal disorders,Diseases of the digestive system
+DE10,Vomiting following gastrointestinal surgery,,,,Postprocedural disorders of digestive system,Diseases of the digestive system
+DE11,Dumping syndrome,,,,Postprocedural disorders of digestive system,Diseases of the digestive system
+DE12,Malfunction or complication of external stoma of digestive organs,,,,Postprocedural disorders of digestive system,Diseases of the digestive system
+DE120,Colostomy or enterostomy malfunction or complication,,,Malfunction or complication of external stoma of digestive organs,Postprocedural disorders of digestive system,Diseases of the digestive system
+DE121,Gastrostomy malfunction,,,Malfunction or complication of external stoma of digestive organs,Postprocedural disorders of digestive system,Diseases of the digestive system
+DE13,"Postsurgical malabsorption, not elsewhere classified",,,,Postprocedural disorders of digestive system,Diseases of the digestive system
+DE2Y,Other specified diseases of the digestive system,,,,,Diseases of the digestive system
+DE2Z,"Diseases of the digestive system, unspecified",,,,,Diseases of the digestive system

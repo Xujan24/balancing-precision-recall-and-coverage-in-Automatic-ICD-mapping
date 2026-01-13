@@ -1,0 +1,796 @@
+code,code_desc,p1,p2,p3,p4
+K000,Anodontia,,Disorders of tooth development and eruption,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K001,Supernumerary teeth,,Disorders of tooth development and eruption,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K002,Abnormalities of size and form of teeth,,Disorders of tooth development and eruption,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K003,Mottled teeth,,Disorders of tooth development and eruption,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K004,Disturbances in tooth formation,,Disorders of tooth development and eruption,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K005,Hereditary disturbances in tooth structure not elsewhere classified,,Disorders of tooth development and eruption,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K006,Disturbances in tooth eruption,,Disorders of tooth development and eruption,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K007,Teething syndrome,,Disorders of tooth development and eruption,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K008,Other disorders of tooth development,,Disorders of tooth development and eruption,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K009,Disorder of tooth development unspecified,,Disorders of tooth development and eruption,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K010,Embedded teeth,,Embedded and impacted teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K011,Impacted teeth,,Embedded and impacted teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K023,Arrested dental caries,,Dental caries,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0251,Dental caries on pit and fissure surface limited to enamel,Dental caries on pit and fissure surface,Dental caries,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0252,Dental caries on pit and fissure surface penetrating into dentin,Dental caries on pit and fissure surface,Dental caries,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0253,Dental caries on pit and fissure surface penetrating into pulp,Dental caries on pit and fissure surface,Dental caries,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K025,Dental caries on pit and fissure surface,,Dental caries,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0261,Dental caries on smooth surface limited to enamel,Dental caries on smooth surface,Dental caries,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0262,Dental caries on smooth surface penetrating into dentin,Dental caries on smooth surface,Dental caries,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0263,Dental caries on smooth surface penetrating into pulp,Dental caries on smooth surface,Dental caries,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K026,Dental caries on smooth surface,,Dental caries,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K027,Dental root caries,,Dental caries,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K029,Dental caries unspecified,,Dental caries,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K030,Excessive attrition of teeth,,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K031,Abrasion of teeth,,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K032,Erosion of teeth,,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K033,Pathological resorption of teeth,,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K034,Hypercementosis,,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K035,Ankylosis of teeth,,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K036,Deposits [accretions] on teeth,,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K037,Posteruptive color changes of dental hard tissues,,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0381,Cracked tooth,Other specified diseases of hard tissues of teeth,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0389,Other specified diseases of hard tissues of teeth,Other specified diseases of hard tissues of teeth,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K038,Other specified diseases of hard tissues of teeth,,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K039,Disease of hard tissues of teeth unspecified,,Other diseases of hard tissues of teeth,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0401,Reversible pulpitis,Pulpitis,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0402,Irreversible pulpitis,Pulpitis,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K040,Pulpitis,,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K041,Necrosis of pulp,,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K042,Pulp degeneration,,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K043,Abnormal hard tissue formation in pulp,,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K044,Acute apical periodontitis of pulpal origin,,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K045,Chronic apical periodontitis,,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K046,Periapical abscess with sinus,,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K047,Periapical abscess without sinus,,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K048,Radicular cyst,,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0490,Unspecified diseases of pulp and periapical tissues,Other and unspecified diseases of pulp and periapical tissues,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0499,Other diseases of pulp and periapical tissues,Other and unspecified diseases of pulp and periapical tissues,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K049,Other and unspecified diseases of pulp and periapical tissues,,Diseases of pulp and periapical tissues,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0500,Acute gingivitis plaque induced,Acute gingivitis,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0501,Acute gingivitis non-plaque induced,Acute gingivitis,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K050,Acute gingivitis,,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0510,Chronic gingivitis plaque induced,Chronic gingivitis,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0511,Chronic gingivitis non-plaque induced,Chronic gingivitis,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K051,Chronic gingivitis,,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0520,Aggressive periodontitis unspecified,Aggressive periodontitis,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0521,Aggressive periodontitis localized,Aggressive periodontitis,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0522,Aggressive periodontitis generalized,Aggressive periodontitis,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K052,Aggressive periodontitis,,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0530,Chronic periodontitis unspecified,Chronic periodontitis,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0531,Chronic periodontitis localized,Chronic periodontitis,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0532,Chronic periodontitis generalized,Chronic periodontitis,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K053,Chronic periodontitis,,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K054,Periodontosis,,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K055,Other periodontal diseases,,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K056,Periodontal disease unspecified,,Gingivitis and periodontal diseases,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0601,Gingival recession localized,Gingival recession,Other disorders of gingiva and edentulous alveolar ridge,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0602,Gingival recession generalized,Gingival recession,Other disorders of gingiva and edentulous alveolar ridge,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K060,Gingival recession,,Other disorders of gingiva and edentulous alveolar ridge,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K061,Gingival enlargement,,Other disorders of gingiva and edentulous alveolar ridge,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K062,Gingival and edentulous alveolar ridge lesions associated with trauma,,Other disorders of gingiva and edentulous alveolar ridge,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K063,Horizontal alveolar bone loss,,Other disorders of gingiva and edentulous alveolar ridge,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K068,Other specified disorders of gingiva and edentulous alveolar ridge,,Other disorders of gingiva and edentulous alveolar ridge,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K069,Disorder of gingiva and edentulous alveolar ridge unspecified,,Other disorders of gingiva and edentulous alveolar ridge,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K080,Exfoliation of teeth due to systemic causes,,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0810,Complete loss of teeth unspecified cause,Complete loss of teeth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0811,Complete loss of teeth due to trauma,Complete loss of teeth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0812,Complete loss of teeth due to periodontal diseases,Complete loss of teeth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0813,Complete loss of teeth due to caries,Complete loss of teeth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0819,Complete loss of teeth due to other specified cause,Complete loss of teeth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K081,Complete loss of teeth,,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0820,Unspecified atrophy of edentulous alveolar ridge,Atrophy of edentulous alveolar ridge,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0821,Minimal atrophy of the mandible,Atrophy of edentulous alveolar ridge,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0822,Moderate atrophy of the mandible,Atrophy of edentulous alveolar ridge,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0823,Severe atrophy of the mandible,Atrophy of edentulous alveolar ridge,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0824,Minimal atrophy of maxilla,Atrophy of edentulous alveolar ridge,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0825,Moderate atrophy of the maxilla,Atrophy of edentulous alveolar ridge,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0826,Severe atrophy of the maxilla,Atrophy of edentulous alveolar ridge,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K082,Atrophy of edentulous alveolar ridge,,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K083,Retained dental root,,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0840,Partial loss of teeth unspecified cause,Partial loss of teeth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0841,Partial loss of teeth due to trauma,Partial loss of teeth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0842,Partial loss of teeth due to periodontal diseases,Partial loss of teeth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0843,Partial loss of teeth due to caries,Partial loss of teeth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0849,Partial loss of teeth due to other specified cause,Partial loss of teeth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K084,Partial loss of teeth,,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0850,Unsatisfactory restoration of tooth unspecified,Unsatisfactory restoration of tooth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0851,Open restoration margins of tooth,Unsatisfactory restoration of tooth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0852,Unrepairable overhanging of dental restorative materials,Unsatisfactory restoration of tooth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0853,Fractured dental restorative material,Unsatisfactory restoration of tooth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0854,Contour of existing restoration of tooth biologically incompatible with oral health,Unsatisfactory restoration of tooth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0855,Allergy to existing dental restorative material,Unsatisfactory restoration of tooth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0856,Poor aesthetic of existing restoration of tooth,Unsatisfactory restoration of tooth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0859,Other unsatisfactory restoration of tooth,Unsatisfactory restoration of tooth,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K085,Unsatisfactory restoration of tooth,,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0881,Primary occlusal trauma,Other specified disorders of teeth and supporting structures,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0882,Secondary occlusal trauma,Other specified disorders of teeth and supporting structures,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K0889,Other specified disorders of teeth and supporting structures,Other specified disorders of teeth and supporting structures,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K088,Other specified disorders of teeth and supporting structures,,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K089,Disorder of teeth and supporting structures unspecified,,Other disorders of teeth and supporting structures,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K090,Developmental odontogenic cysts,,Cysts of oral region not elsewhere classified,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K091,Developmental (nonodontogenic) cysts of oral region,,Cysts of oral region not elsewhere classified,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K098,Other cysts of oral region not elsewhere classified,,Cysts of oral region not elsewhere classified,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K099,Cyst of oral region unspecified,,Cysts of oral region not elsewhere classified,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K110,Atrophy of salivary gland,,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K111,Hypertrophy of salivary gland,,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1120,Sialoadenitis unspecified,Sialoadenitis,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1121,Acute sialoadenitis,Sialoadenitis,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1122,Acute recurrent sialoadenitis,Sialoadenitis,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1123,Chronic sialoadenitis,Sialoadenitis,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K112,Sialoadenitis,,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K113,Abscess of salivary gland,,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K114,Fistula of salivary gland,,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K115,Sialolithiasis,,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K116,Mucocele of salivary gland,,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K117,Disturbances of salivary secretion,,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K118,Other diseases of salivary glands,,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K119,Disease of salivary gland unspecified,,Diseases of salivary glands,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K120,Recurrent oral aphthae,,Stomatitis and related lesions,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K121,Other forms of stomatitis,,Stomatitis and related lesions,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K122,Cellulitis and abscess of mouth,,Stomatitis and related lesions,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1230,Oral mucositis (ulcerative) unspecified,Oral mucositis (ulcerative),Stomatitis and related lesions,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1231,Oral mucositis (ulcerative) due to antineoplastic therapy,Oral mucositis (ulcerative),Stomatitis and related lesions,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1232,Oral mucositis (ulcerative) due to other drugs,Oral mucositis (ulcerative),Stomatitis and related lesions,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1233,Oral mucositis (ulcerative) due to radiation,Oral mucositis (ulcerative),Stomatitis and related lesions,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1239,Other oral mucositis (ulcerative),Oral mucositis (ulcerative),Stomatitis and related lesions,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K123,Oral mucositis (ulcerative),,Stomatitis and related lesions,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K130,Diseases of lips,,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K131,Cheek and lip biting,,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1321,Leukoplakia of oral mucosa including tongue,Leukoplakia and other disturbances of oral epithelium including tongue,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1322,Minimal keratinized residual ridge mucosa,Leukoplakia and other disturbances of oral epithelium including tongue,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1323,Excessive keratinized residual ridge mucosa,Leukoplakia and other disturbances of oral epithelium including tongue,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1324,Leukokeratosis nicotina palati,Leukoplakia and other disturbances of oral epithelium including tongue,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1329,Other disturbances of oral epithelium including tongue,Leukoplakia and other disturbances of oral epithelium including tongue,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K132,Leukoplakia and other disturbances of oral epithelium including tongue,,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K133,Hairy leukoplakia,,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K134,Granuloma and granuloma-like lesions of oral mucosa,,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K135,Oral submucous fibrosis,,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K136,Irritative hyperplasia of oral mucosa,,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1370,Unspecified lesions of oral mucosa,Other and unspecified lesions of oral mucosa,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K1379,Other lesions of oral mucosa,Other and unspecified lesions of oral mucosa,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K137,Other and unspecified lesions of oral mucosa,,Other diseases of lip and oral mucosa,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K140,Glossitis,,Diseases of tongue,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K141,Geographic tongue,,Diseases of tongue,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K142,Median rhomboid glossitis,,Diseases of tongue,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K143,Hypertrophy of tongue papillae,,Diseases of tongue,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K144,Atrophy of tongue papillae,,Diseases of tongue,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K145,Plicated tongue,,Diseases of tongue,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K146,Glossodynia,,Diseases of tongue,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K148,Other diseases of tongue,,Diseases of tongue,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K149,Disease of tongue unspecified,,Diseases of tongue,Diseases of oral cavity and salivary glands,Disease of the digestive system
+K200,Eosinophilic esophagitis,,Oesophagitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2080,Other esophagitis without bleeding,Other esophagitis,Oesophagitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2081,Other esophagitis with bleeding,Other esophagitis,Oesophagitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K208,Other esophagitis,,Oesophagitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2090,Esophagitis unspecified without bleeding,Esophagitis unspecified,Oesophagitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2091,Esophagitis unspecified with bleeding,Esophagitis unspecified,Oesophagitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K209,Esophagitis unspecified,,Oesophagitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2100,Gastro-esophageal reflux disease with esophagitis without bleeding,Gastro-esophageal reflux disease with esophagitis,Gastro-oesophageal reflux disease,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2101,Gastro-esophageal reflux disease with esophagitis with bleeding,Gastro-esophageal reflux disease with esophagitis,Gastro-oesophageal reflux disease,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K210,Gastro-esophageal reflux disease with esophagitis,,Gastro-oesophageal reflux disease,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K219,Gastro-esophageal reflux disease without esophagitis,,Gastro-oesophageal reflux disease,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K220,Achalasia of cardia,,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2210,Ulcer of esophagus without bleeding,Ulcer of esophagus,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2211,Ulcer of esophagus with bleeding,Ulcer of esophagus,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K221,Ulcer of esophagus,,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K222,Esophageal obstruction,,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K223,Perforation of esophagus,,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K224,Dyskinesia of esophagus,,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K225,Diverticulum of esophagus acquired,,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K226,Gastro-esophageal laceration-hemorrhage syndrome,,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2270,Barrett's esophagus without dysplasia,Barrett's esophagus,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2271,Barrett's esophagus with dysplasia,Barrett's esophagus,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K227,Barrett's esophagus,,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2281,Esophageal polyp,Other specified diseases of esophagus,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2282,Esophagogastric junction polyp,Other specified diseases of esophagus,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2289,Other specified disease of esophagus,Other specified diseases of esophagus,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K228,Other specified diseases of esophagus,,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K229,Disease of esophagus unspecified,,Other diseases of oesophagus,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K23,Disorders of oesophagus in diseases classified elsewhere,,Disorders of oesophagus in diseases classified elsewhere,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K250,Acute gastric ulcer with hemorrhage,,Gastric ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K251,Acute gastric ulcer with perforation,,Gastric ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K252,Acute gastric ulcer with both hemorrhage and perforation,,Gastric ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K253,Acute gastric ulcer without hemorrhage or perforation,,Gastric ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K254,Chronic or unspecified gastric ulcer with hemorrhage,,Gastric ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K255,Chronic or unspecified gastric ulcer with perforation,,Gastric ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K256,Chronic or unspecified gastric ulcer with both hemorrhage and perforation,,Gastric ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K257,Chronic gastric ulcer without hemorrhage or perforation,,Gastric ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K259,Gastric ulcer unspecified as acute or chronic without hemorrhage or perforation,,Gastric ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K260,Acute duodenal ulcer with hemorrhage,,Duodenal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K261,Acute duodenal ulcer with perforation,,Duodenal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K262,Acute duodenal ulcer with both hemorrhage and perforation,,Duodenal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K263,Acute duodenal ulcer without hemorrhage or perforation,,Duodenal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K264,Chronic or unspecified duodenal ulcer with hemorrhage,,Duodenal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K265,Chronic or unspecified duodenal ulcer with perforation,,Duodenal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K266,Chronic or unspecified duodenal ulcer with both hemorrhage and perforation,,Duodenal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K267,Chronic duodenal ulcer without hemorrhage or perforation,,Duodenal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K269,Duodenal ulcer unspecified as acute or chronic without hemorrhage or perforation,,Duodenal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K270,Acute peptic ulcer site unspecified with hemorrhage,,Peptic ulcer site unspecified,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K271,Acute peptic ulcer site unspecified with perforation,,Peptic ulcer site unspecified,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K272,Acute peptic ulcer site unspecified with both hemorrhage and perforation,,Peptic ulcer site unspecified,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K273,Acute peptic ulcer site unspecified without hemorrhage or perforation,,Peptic ulcer site unspecified,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K274,Chronic or unspecified peptic ulcer site unspecified with hemorrhage,,Peptic ulcer site unspecified,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K275,Chronic or unspecified peptic ulcer site unspecified with perforation,,Peptic ulcer site unspecified,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K276,Chronic or unspecified peptic ulcer site unspecified with both hemorrhage and perforation,,Peptic ulcer site unspecified,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K277,Chronic peptic ulcer site unspecified without hemorrhage or perforation,,Peptic ulcer site unspecified,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K279,Peptic ulcer site unspecified unspecified as acute or chronic without hemorrhage or perforation,,Peptic ulcer site unspecified,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K280,Acute gastrojejunal ulcer with hemorrhage,,Gastrojejunal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K281,Acute gastrojejunal ulcer with perforation,,Gastrojejunal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K282,Acute gastrojejunal ulcer with both hemorrhage and perforation,,Gastrojejunal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K283,Acute gastrojejunal ulcer without hemorrhage or perforation,,Gastrojejunal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K284,Chronic or unspecified gastrojejunal ulcer with hemorrhage,,Gastrojejunal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K285,Chronic or unspecified gastrojejunal ulcer with perforation,,Gastrojejunal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K286,Chronic or unspecified gastrojejunal ulcer with both hemorrhage and perforation,,Gastrojejunal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K287,Chronic gastrojejunal ulcer without hemorrhage or perforation,,Gastrojejunal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K289,Gastrojejunal ulcer unspecified as acute or chronic without hemorrhage or perforation,,Gastrojejunal ulcer,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2900,Acute gastritis without bleeding,Acute gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2901,Acute gastritis with bleeding,Acute gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K290,Acute gastritis,,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2920,Alcoholic gastritis without bleeding,Alcoholic gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2921,Alcoholic gastritis with bleeding,Alcoholic gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K292,Alcoholic gastritis,,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2930,Chronic superficial gastritis without bleeding,Chronic superficial gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2931,Chronic superficial gastritis with bleeding,Chronic superficial gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K293,Chronic superficial gastritis,,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2940,Chronic atrophic gastritis without bleeding,Chronic atrophic gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2941,Chronic atrophic gastritis with bleeding,Chronic atrophic gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K294,Chronic atrophic gastritis,,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2950,Unspecified chronic gastritis without bleeding,Unspecified chronic gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2951,Unspecified chronic gastritis with bleeding,Unspecified chronic gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K295,Unspecified chronic gastritis,,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2960,Other gastritis without bleeding,Other gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2961,Other gastritis with bleeding,Other gastritis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K296,Other gastritis,,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2970,Gastritis unspecified without bleeding,Gastritis unspecified,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2971,Gastritis unspecified with bleeding,Gastritis unspecified,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K297,Gastritis unspecified,,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2980,Duodenitis without bleeding,Duodenitis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2981,Duodenitis with bleeding,Duodenitis,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K298,Duodenitis,,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2990,Gastroduodenitis unspecified without bleeding,Gastroduodenitis unspecified,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K2991,Gastroduodenitis unspecified with bleeding,Gastroduodenitis unspecified,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K299,Gastroduodenitis unspecified,,Gastritis and duodenitis,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K30,Functional dyspepsia,,Functional dyspepsia,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K310,Acute dilatation of stomach,,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K311,Adult hypertrophic pyloric stenosis,,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K312,Hourglass stricture and stenosis of stomach,,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K313,Pylorospasm not elsewhere classified,,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K314,Gastric diverticulum,,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K315,Obstruction of duodenum,,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K316,Fistula of stomach and duodenum,,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K317,Polyp of stomach and duodenum,,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K3181,Angiodysplasia of stomach and duodenum,Other specified diseases of stomach and duodenum,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K3182,Dieulafoy lesion (hemorrhagic) of stomach and duodenum,Other specified diseases of stomach and duodenum,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K3183,Achlorhydria,Other specified diseases of stomach and duodenum,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K3184,Gastroparesis,Other specified diseases of stomach and duodenum,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K3189,Other diseases of stomach and duodenum,Other specified diseases of stomach and duodenum,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K318,Other specified diseases of stomach and duodenum,,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K319,Disease of stomach and duodenum unspecified,,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K31A0,Gastric intestinal metaplasia unspecified,Gastric intestinal metaplasia,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K31A1,Gastric intestinal metaplasia without dysplasia,Gastric intestinal metaplasia,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K31A2,Gastric intestinal metaplasia with dysplasia,Gastric intestinal metaplasia,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K31A,Gastric intestinal metaplasia,,Other diseases of stomach and duodenum,Diseases of esophagus stomach and duodenum,Disease of the digestive system
+K3520,Acute appendicitis with generalized peritonitis without abscess,Acute appendicitis with generalized peritonitis,Acute appendicitis,Diseases of appendix,Disease of the digestive system
+K3521,Acute appendicitis with generalized peritonitis with abscess,Acute appendicitis with generalized peritonitis,Acute appendicitis,Diseases of appendix,Disease of the digestive system
+K352,Acute appendicitis with generalized peritonitis,,Acute appendicitis,Diseases of appendix,Disease of the digestive system
+K3530,Acute appendicitis with localized peritonitis without perforation or gangrene,Acute appendicitis with localized peritonitis,Acute appendicitis,Diseases of appendix,Disease of the digestive system
+K3531,Acute appendicitis with localized peritonitis and gangrene without perforation,Acute appendicitis with localized peritonitis,Acute appendicitis,Diseases of appendix,Disease of the digestive system
+K3532,Acute appendicitis with perforation and localized peritonitis without abscess,Acute appendicitis with localized peritonitis,Acute appendicitis,Diseases of appendix,Disease of the digestive system
+K3533,Acute appendicitis with perforation and localized peritonitis with abscess,Acute appendicitis with localized peritonitis,Acute appendicitis,Diseases of appendix,Disease of the digestive system
+K353,Acute appendicitis with localized peritonitis,,Acute appendicitis,Diseases of appendix,Disease of the digestive system
+K3580,Unspecified acute appendicitis,Other and unspecified acute appendicitis,Acute appendicitis,Diseases of appendix,Disease of the digestive system
+K3589,Other acute appendicitis,Other and unspecified acute appendicitis,Acute appendicitis,Diseases of appendix,Disease of the digestive system
+K358,Other and unspecified acute appendicitis,,Acute appendicitis,Diseases of appendix,Disease of the digestive system
+K36,Other appendicitis,,Other appendicitis,Diseases of appendix,Disease of the digestive system
+K37,Unspecified appendicitis,,Unspecified appendicitis,Diseases of appendix,Disease of the digestive system
+K380,Hyperplasia of appendix,,Other diseases of appendix,Diseases of appendix,Disease of the digestive system
+K381,Appendicular concretions,,Other diseases of appendix,Diseases of appendix,Disease of the digestive system
+K382,Diverticulum of appendix,,Other diseases of appendix,Diseases of appendix,Disease of the digestive system
+K383,Fistula of appendix,,Other diseases of appendix,Diseases of appendix,Disease of the digestive system
+K388,Other specified diseases of appendix,,Other diseases of appendix,Diseases of appendix,Disease of the digestive system
+K389,Disease of appendix unspecified,,Other diseases of appendix,Diseases of appendix,Disease of the digestive system
+K4000,Bilateral inguinal hernia with obstruction without gangrene not specified as recurrent,Bilateral inguinal hernia with obstruction without gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K4001,Bilateral inguinal hernia with obstruction without gangrene recurrent,Bilateral inguinal hernia with obstruction without gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K400,Bilateral inguinal hernia with obstruction without gangrene,,Inguinal hernia,Hernia,Disease of the digestive system
+K4010,Bilateral inguinal hernia with gangrene not specified as recurrent,Bilateral inguinal hernia with gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K4011,Bilateral inguinal hernia with gangrene recurrent,Bilateral inguinal hernia with gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K401,Bilateral inguinal hernia with gangrene,,Inguinal hernia,Hernia,Disease of the digestive system
+K4020,Bilateral inguinal hernia without obstruction or gangrene not specified as recurrent,Bilateral inguinal hernia without obstruction or gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K4021,Bilateral inguinal hernia without obstruction or gangrene recurrent,Bilateral inguinal hernia without obstruction or gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K402,Bilateral inguinal hernia without obstruction or gangrene,,Inguinal hernia,Hernia,Disease of the digestive system
+K4030,Unilateral inguinal hernia with obstruction without gangrene not specified as recurrent,Unilateral inguinal hernia with obstruction without gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K4031,Unilateral inguinal hernia with obstruction without gangrene recurrent,Unilateral inguinal hernia with obstruction without gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K403,Unilateral inguinal hernia with obstruction without gangrene,,Inguinal hernia,Hernia,Disease of the digestive system
+K4040,Unilateral inguinal hernia with gangrene not specified as recurrent,Unilateral inguinal hernia with gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K4041,Unilateral inguinal hernia with gangrene recurrent,Unilateral inguinal hernia with gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K404,Unilateral inguinal hernia with gangrene,,Inguinal hernia,Hernia,Disease of the digestive system
+K4090,Unilateral inguinal hernia without obstruction or gangrene not specified as recurrent,Unilateral inguinal hernia without obstruction or gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K4091,Unilateral inguinal hernia without obstruction or gangrene recurrent,Unilateral inguinal hernia without obstruction or gangrene,Inguinal hernia,Hernia,Disease of the digestive system
+K409,Unilateral inguinal hernia without obstruction or gangrene,,Inguinal hernia,Hernia,Disease of the digestive system
+K4100,Bilateral femoral hernia with obstruction without gangrene not specified as recurrent,Bilateral femoral hernia with obstruction without gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K4101,Bilateral femoral hernia with obstruction without gangrene recurrent,Bilateral femoral hernia with obstruction without gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K410,Bilateral femoral hernia with obstruction without gangrene,,Femoral hernia,Hernia,Disease of the digestive system
+K4110,Bilateral femoral hernia with gangrene not specified as recurrent,Bilateral femoral hernia with gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K4111,Bilateral femoral hernia with gangrene recurrent,Bilateral femoral hernia with gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K411,Bilateral femoral hernia with gangrene,,Femoral hernia,Hernia,Disease of the digestive system
+K4120,Bilateral femoral hernia without obstruction or gangrene not specified as recurrent,Bilateral femoral hernia without obstruction or gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K4121,Bilateral femoral hernia without obstruction or gangrene recurrent,Bilateral femoral hernia without obstruction or gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K412,Bilateral femoral hernia without obstruction or gangrene,,Femoral hernia,Hernia,Disease of the digestive system
+K4130,Unilateral femoral hernia with obstruction without gangrene not specified as recurrent,Unilateral femoral hernia with obstruction without gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K4131,Unilateral femoral hernia with obstruction without gangrene recurrent,Unilateral femoral hernia with obstruction without gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K413,Unilateral femoral hernia with obstruction without gangrene,,Femoral hernia,Hernia,Disease of the digestive system
+K4140,Unilateral femoral hernia with gangrene not specified as recurrent,Unilateral femoral hernia with gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K4141,Unilateral femoral hernia with gangrene recurrent,Unilateral femoral hernia with gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K414,Unilateral femoral hernia with gangrene,,Femoral hernia,Hernia,Disease of the digestive system
+K4190,Unilateral femoral hernia without obstruction or gangrene not specified as recurrent,Unilateral femoral hernia without obstruction or gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K4191,Unilateral femoral hernia without obstruction or gangrene recurrent,Unilateral femoral hernia without obstruction or gangrene,Femoral hernia,Hernia,Disease of the digestive system
+K419,Unilateral femoral hernia without obstruction or gangrene,,Femoral hernia,Hernia,Disease of the digestive system
+K420,Umbilical hernia with obstruction without gangrene,,Umbilical hernia,Hernia,Disease of the digestive system
+K421,Umbilical hernia with gangrene,,Umbilical hernia,Hernia,Disease of the digestive system
+K429,Umbilical hernia without obstruction or gangrene,,Umbilical hernia,Hernia,Disease of the digestive system
+K430,Incisional hernia with obstruction without gangrene,,Ventral hernia,Hernia,Disease of the digestive system
+K431,Incisional hernia with gangrene,,Ventral hernia,Hernia,Disease of the digestive system
+K432,Incisional hernia without obstruction or gangrene,,Ventral hernia,Hernia,Disease of the digestive system
+K433,Parastomal hernia with obstruction without gangrene,,Ventral hernia,Hernia,Disease of the digestive system
+K434,Parastomal hernia with gangrene,,Ventral hernia,Hernia,Disease of the digestive system
+K435,Parastomal hernia without obstruction or gangrene,,Ventral hernia,Hernia,Disease of the digestive system
+K436,Other and unspecified ventral hernia with obstruction without gangrene,,Ventral hernia,Hernia,Disease of the digestive system
+K437,Other and unspecified ventral hernia with gangrene,,Ventral hernia,Hernia,Disease of the digestive system
+K439,Ventral hernia without obstruction or gangrene,,Ventral hernia,Hernia,Disease of the digestive system
+K440,Diaphragmatic hernia with obstruction without gangrene,,Diaphragmatic hernia,Hernia,Disease of the digestive system
+K441,Diaphragmatic hernia with gangrene,,Diaphragmatic hernia,Hernia,Disease of the digestive system
+K449,Diaphragmatic hernia without obstruction or gangrene,,Diaphragmatic hernia,Hernia,Disease of the digestive system
+K450,Other specified abdominal hernia with obstruction without gangrene,,Other abdominal hernia,Hernia,Disease of the digestive system
+K451,Other specified abdominal hernia with gangrene,,Other abdominal hernia,Hernia,Disease of the digestive system
+K458,Other specified abdominal hernia without obstruction or gangrene,,Other abdominal hernia,Hernia,Disease of the digestive system
+K460,Unspecified abdominal hernia with obstruction without gangrene,,Unspecified abdominal hernia,Hernia,Disease of the digestive system
+K461,Unspecified abdominal hernia with gangrene,,Unspecified abdominal hernia,Hernia,Disease of the digestive system
+K469,Unspecified abdominal hernia without obstruction or gangrene,,Unspecified abdominal hernia,Hernia,Disease of the digestive system
+K5000,Crohn's disease of small intestine without complications,Crohn's disease of small intestine,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K5001,Crohn's disease of small intestine with complications,Crohn's disease of small intestine,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K500,Crohn's disease of small intestine,,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K5010,Crohn's disease of large intestine without complications,Crohn's disease of large intestine,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K5011,Crohn's disease of large intestine with complications,Crohn's disease of large intestine,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K501,Crohn's disease of large intestine,,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K5080,Crohn's disease of both small and large intestine without complications,Crohn's disease of both small and large intestine,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K5081,Crohn's disease of both small and large intestine with complications,Crohn's disease of both small and large intestine,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K508,Crohn's disease of both small and large intestine,,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K5090,Crohn's disease unspecified without complications,Crohn's disease unspecified,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K5091,Crohn's disease unspecified with complications,Crohn's disease unspecified,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K509,Crohn's disease unspecified,,Crohn disease [regional enteritis],Noninfective enteritis and colitis,Disease of the digestive system
+K5100,Ulcerative (chronic) pancolitis without complications,Ulcerative (chronic) pancolitis,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5101,Ulcerative (chronic) pancolitis with complications,Ulcerative (chronic) pancolitis,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K510,Ulcerative (chronic) pancolitis,,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5120,Ulcerative (chronic) proctitis without complications,Ulcerative (chronic) proctitis,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5121,Ulcerative (chronic) proctitis with complications,Ulcerative (chronic) proctitis,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K512,Ulcerative (chronic) proctitis,,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5130,Ulcerative (chronic) rectosigmoiditis without complications,Ulcerative (chronic) rectosigmoiditis,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5131,Ulcerative (chronic) rectosigmoiditis with complications,Ulcerative (chronic) rectosigmoiditis,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K513,Ulcerative (chronic) rectosigmoiditis,,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5140,Inflammatory polyps of colon without complications,Inflammatory polyps of colon,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5141,Inflammatory polyps of colon with complications,Inflammatory polyps of colon,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K514,Inflammatory polyps of colon,,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5150,Left sided colitis without complications,Left sided colitis,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5151,Left sided colitis with complications,Left sided colitis,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K515,Left sided colitis,,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5180,Other ulcerative colitis without complications,Other ulcerative colitis,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5181,Other ulcerative colitis with complications,Other ulcerative colitis,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K518,Other ulcerative colitis,,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5190,Ulcerative colitis unspecified without complications,Ulcerative colitis unspecified,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5191,Ulcerative colitis unspecified with complications,Ulcerative colitis unspecified,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K519,Ulcerative colitis unspecified,,Ulcerative colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K520,Gastroenteritis and colitis due to radiation,,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K521,Toxic gastroenteritis and colitis,,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5221,Food protein-induced enterocolitis syndrome,Allergic and dietetic gastroenteritis and colitis,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5222,Food protein-induced enteropathy,Allergic and dietetic gastroenteritis and colitis,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5229,Other allergic and dietetic gastroenteritis and colitis,Allergic and dietetic gastroenteritis and colitis,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K522,Allergic and dietetic gastroenteritis and colitis,,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K523,Indeterminate colitis,,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5281,Eosinophilic gastritis or gastroenteritis,Other specified noninfective gastroenteritis and colitis,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5282,Eosinophilic colitis,Other specified noninfective gastroenteritis and colitis,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5283,Microscopic colitis,Other specified noninfective gastroenteritis and colitis,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5289,Other specified noninfective gastroenteritis and colitis,Other specified noninfective gastroenteritis and colitis,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K528,Other specified noninfective gastroenteritis and colitis,,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K529,Noninfective gastroenteritis and colitis unspecified,,Other noninfective gastroenteritis and colitis,Noninfective enteritis and colitis,Disease of the digestive system
+K5501,Acute (reversible) ischemia of small intestine,Acute vascular disorders of intestine,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K5502,Acute infarction of small intestine,Acute vascular disorders of intestine,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K5503,Acute (reversible) ischemia of large intestine,Acute vascular disorders of intestine,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K5504,Acute infarction of large intestine,Acute vascular disorders of intestine,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K5505,Acute (reversible) ischemia of intestine part unspecified,Acute vascular disorders of intestine,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K5506,Acute infarction of intestine part unspecified,Acute vascular disorders of intestine,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K550,Acute vascular disorders of intestine,,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K551,Chronic vascular disorders of intestine,,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K5520,Angiodysplasia of colon without hemorrhage,Angiodysplasia of colon,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K5521,Angiodysplasia of colon with hemorrhage,Angiodysplasia of colon,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K552,Angiodysplasia of colon,,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K5530,Necrotizing enterocolitis unspecified,Necrotizing enterocolitis,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K5531,Stage 1 necrotizing enterocolitis,Necrotizing enterocolitis,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K5532,Stage 2 necrotizing enterocolitis,Necrotizing enterocolitis,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K5533,Stage 3 necrotizing enterocolitis,Necrotizing enterocolitis,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K553,Necrotizing enterocolitis,,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K558,Other vascular disorders of intestine,,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K559,Vascular disorder of intestine unspecified,,Vascular disorders of intestine,Other diseases of intestines,Disease of the digestive system
+K560,Paralytic ileus,,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K561,Intussusception,,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K562,Volvulus,,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K563,Gallstone ileus,,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K5641,Fecal impaction,Other impaction of intestine,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K5649,Other impaction of intestine,Other impaction of intestine,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K564,Other impaction of intestine,,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K5650,Intestinal adhesions [bands] unspecified as to partial versus complete obstruction,Intestinal adhesions [bands] with obstruction (postinfection),Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K5651,Intestinal adhesions [bands] with partial obstruction,Intestinal adhesions [bands] with obstruction (postinfection),Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K5652,Intestinal adhesions [bands] with complete obstruction,Intestinal adhesions [bands] with obstruction (postinfection),Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K565,Intestinal adhesions [bands] with obstruction (postinfection),,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K5660,Unspecified intestinal obstruction,Other and unspecified intestinal obstruction,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K5669,Other intestinal obstruction,Other and unspecified intestinal obstruction,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K566,Other and unspecified intestinal obstruction,,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K567,Ileus unspecified,,Paralytic ileus and intestinal obstruction without hernia,Other diseases of intestines,Disease of the digestive system
+K5700,Diverticulitis of small intestine with perforation and abscess without bleeding,Diverticulitis of small intestine with perforation and abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5701,Diverticulitis of small intestine with perforation and abscess with bleeding,Diverticulitis of small intestine with perforation and abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K570,Diverticulitis of small intestine with perforation and abscess,,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5710,Diverticulosis of small intestine without perforation or abscess without bleeding,Diverticular disease of small intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5711,Diverticulosis of small intestine without perforation or abscess with bleeding,Diverticular disease of small intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5712,Diverticulitis of small intestine without perforation or abscess without bleeding,Diverticular disease of small intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5713,Diverticulitis of small intestine without perforation or abscess with bleeding,Diverticular disease of small intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K571,Diverticular disease of small intestine without perforation or abscess,,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5720,Diverticulitis of large intestine with perforation and abscess without bleeding,Diverticulitis of large intestine with perforation and abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5721,Diverticulitis of large intestine with perforation and abscess with bleeding,Diverticulitis of large intestine with perforation and abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K572,Diverticulitis of large intestine with perforation and abscess,,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5730,Diverticulosis of large intestine without perforation or abscess without bleeding,Diverticular disease of large intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5731,Diverticulosis of large intestine without perforation or abscess with bleeding,Diverticular disease of large intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5732,Diverticulitis of large intestine without perforation or abscess without bleeding,Diverticular disease of large intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5733,Diverticulitis of large intestine without perforation or abscess with bleeding,Diverticular disease of large intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K573,Diverticular disease of large intestine without perforation or abscess,,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5740,Diverticulitis of both small and large intestine with perforation and abscess without bleeding,Diverticulitis of both small and large intestine with perforation and abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5741,Diverticulitis of both small and large intestine with perforation and abscess with bleeding,Diverticulitis of both small and large intestine with perforation and abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K574,Diverticulitis of both small and large intestine with perforation and abscess,,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5750,Diverticulosis of both small and large intestine without perforation or abscess without bleeding,Diverticular disease of both small and large intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5751,Diverticulosis of both small and large intestine without perforation or abscess with bleeding,Diverticular disease of both small and large intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5752,Diverticulitis of both small and large intestine without perforation or abscess without bleeding,Diverticular disease of both small and large intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5753,Diverticulitis of both small and large intestine without perforation or abscess with bleeding,Diverticular disease of both small and large intestine without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K575,Diverticular disease of both small and large intestine without perforation or abscess,,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5780,Diverticulitis of intestine part unspecified with perforation and abscess without bleeding,Diverticulitis of intestine part unspecified with perforation and abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5781,Diverticulitis of intestine part unspecified with perforation and abscess with bleeding,Diverticulitis of intestine part unspecified with perforation and abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K578,Diverticulitis of intestine part unspecified with perforation and abscess,,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5790,Diverticulosis of intestine part unspecified without perforation or abscess without bleeding,Diverticular disease of intestine part unspecified without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5791,Diverticulosis of intestine part unspecified without perforation or abscess with bleeding,Diverticular disease of intestine part unspecified without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5792,Diverticulitis of intestine part unspecified without perforation or abscess without bleeding,Diverticular disease of intestine part unspecified without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K5793,Diverticulitis of intestine part unspecified without perforation or abscess with bleeding,Diverticular disease of intestine part unspecified without perforation or abscess,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K579,Diverticular disease of intestine part unspecified without perforation or abscess,,Diverticular disease of intestine,Other diseases of intestines,Disease of the digestive system
+K580,Irritable bowel syndrome with diarrhea,,Irritable bowel syndrome,Other diseases of intestines,Disease of the digestive system
+K581,Irritable bowel syndrome with constipation,,Irritable bowel syndrome,Other diseases of intestines,Disease of the digestive system
+K582,Mixed irritable bowel syndrome,,Irritable bowel syndrome,Other diseases of intestines,Disease of the digestive system
+K588,Other irritable bowel syndrome,,Irritable bowel syndrome,Other diseases of intestines,Disease of the digestive system
+K589,Irritable bowel syndrome without diarrhea,,Irritable bowel syndrome,Other diseases of intestines,Disease of the digestive system
+K5900,Constipation unspecified,Constipation,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K5901,Slow transit constipation,Constipation,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K5902,Outlet dysfunction constipation,Constipation,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K5903,Drug induced constipation,Constipation,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K5904,Chronic idiopathic constipation,Constipation,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K5909,Other constipation,Constipation,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K590,Constipation,,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K591,Functional diarrhea,,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K592,Neurogenic bowel not elsewhere classified,,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K5931,Toxic megacolon,Megacolon not elsewhere classified,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K5939,Other megacolon,Megacolon not elsewhere classified,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K593,Megacolon not elsewhere classified,,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K594,Anal spasm,,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K5981,Ogilvie syndrome,Other specified functional intestinal disorders,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K5989,Other specified functional intestinal disorders,Other specified functional intestinal disorders,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K598,Other specified functional intestinal disorders,,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K599,Functional intestinal disorder unspecified,,Other functional intestinal disorders,Other diseases of intestines,Disease of the digestive system
+K600,Acute anal fissure,,Fissure and fistula of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K601,Chronic anal fissure,,Fissure and fistula of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K602,Anal fissure unspecified,,Fissure and fistula of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K603,Anal fistula,,Fissure and fistula of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K604,Rectal fistula,,Fissure and fistula of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K605,Anorectal fistula,,Fissure and fistula of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K610,Anal abscess,,Abscess of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K611,Rectal abscess,,Abscess of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K612,Anorectal abscess,,Abscess of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K6131,Horseshoe abscess,Ischiorectal abscess,Abscess of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K6139,Other ischiorectal abscess,Ischiorectal abscess,Abscess of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K613,Ischiorectal abscess,,Abscess of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K614,Intrasphincteric abscess,,Abscess of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K615,Supralevator abscess,,Abscess of anal and rectal regions,Other diseases of intestines,Disease of the digestive system
+K620,Anal polyp,,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K621,Rectal polyp,,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K622,Anal prolapse,,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K623,Rectal prolapse,,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K624,Stenosis of anus and rectum,,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K625,Hemorrhage of anus and rectum,,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K626,Ulcer of anus and rectum,,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K627,Radiation proctitis,,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K6281,Anal sphincter tear (healed) (nontraumatic) (old),Other specified diseases of anus and rectum,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K6282,Dysplasia of anus,Other specified diseases of anus and rectum,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K6289,Other specified diseases of anus and rectum,Other specified diseases of anus and rectum,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K628,Other specified diseases of anus and rectum,,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K629,Disease of anus and rectum unspecified,,Other diseases of anus and rectum,Other diseases of intestines,Disease of the digestive system
+K630,Abscess of intestine,,Other diseases of intestine,Other diseases of intestines,Disease of the digestive system
+K631,Perforation of intestine (nontraumatic),,Other diseases of intestine,Other diseases of intestines,Disease of the digestive system
+K632,Fistula of intestine,,Other diseases of intestine,Other diseases of intestines,Disease of the digestive system
+K633,Ulcer of intestine,,Other diseases of intestine,Other diseases of intestines,Disease of the digestive system
+K634,Enteroptosis,,Other diseases of intestine,Other diseases of intestines,Disease of the digestive system
+K635,Polyp of colon,,Other diseases of intestine,Other diseases of intestines,Disease of the digestive system
+K6381,Dieulafoy lesion of intestine,Other specified diseases of intestine,Other diseases of intestine,Other diseases of intestines,Disease of the digestive system
+K6389,Other specified diseases of intestine,Other specified diseases of intestine,Other diseases of intestine,Other diseases of intestines,Disease of the digestive system
+K638,Other specified diseases of intestine,,Other diseases of intestine,Other diseases of intestines,Disease of the digestive system
+K639,Disease of intestine unspecified,,Other diseases of intestine,Other diseases of intestines,Disease of the digestive system
+K640,First degree hemorrhoids,,Haemorrhoids and perianal venous thrombosis,Other diseases of intestines,Disease of the digestive system
+K641,Second degree hemorrhoids,,Haemorrhoids and perianal venous thrombosis,Other diseases of intestines,Disease of the digestive system
+K642,Third degree hemorrhoids,,Haemorrhoids and perianal venous thrombosis,Other diseases of intestines,Disease of the digestive system
+K643,Fourth degree hemorrhoids,,Haemorrhoids and perianal venous thrombosis,Other diseases of intestines,Disease of the digestive system
+K644,Residual hemorrhoidal skin tags,,Haemorrhoids and perianal venous thrombosis,Other diseases of intestines,Disease of the digestive system
+K645,Perianal venous thrombosis,,Haemorrhoids and perianal venous thrombosis,Other diseases of intestines,Disease of the digestive system
+K648,Other hemorrhoids,,Haemorrhoids and perianal venous thrombosis,Other diseases of intestines,Disease of the digestive system
+K649,Unspecified hemorrhoids,,Haemorrhoids and perianal venous thrombosis,Other diseases of intestines,Disease of the digestive system
+K650,Generalized (acute) peritonitis,,Peritonitis,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K651,Peritoneal abscess,,Peritonitis,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K652,Spontaneous bacterial peritonitis,,Peritonitis,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K653,Choleperitonitis,,Peritonitis,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K654,Sclerosing mesenteritis,,Peritonitis,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K658,Other peritonitis,,Peritonitis,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K659,Peritonitis unspecified,,Peritonitis,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K660,Peritoneal adhesions (postprocedural) (postinfection),,Other disorders of peritoneum,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K661,Hemoperitoneum,,Other disorders of peritoneum,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K668,Other specified disorders of peritoneum,,Other disorders of peritoneum,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K669,Disorder of peritoneum unspecified,,Other disorders of peritoneum,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K67,Disorders of peritoneum in infectious diseases classified elsewhere,,Disorders of peritoneum in infectious diseases classified elsewhere,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K6811,Postprocedural retroperitoneal abscess,Retroperitoneal abscess,,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K6812,Psoas muscle abscess,Retroperitoneal abscess,,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K6819,Other retroperitoneal abscess,Retroperitoneal abscess,,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K681,Retroperitoneal abscess,,,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K689,Other disorders of retroperitoneum,,,Diseases of peritoneum and retroperitoneum,Disease of the digestive system
+K700,Alcoholic fatty liver,,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K7010,Alcoholic hepatitis without ascites,Alcoholic hepatitis,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K7011,Alcoholic hepatitis with ascites,Alcoholic hepatitis,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K701,Alcoholic hepatitis,,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K702,Alcoholic fibrosis and sclerosis of liver,,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K7030,Alcoholic cirrhosis of liver without ascites,Alcoholic cirrhosis of liver,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K7031,Alcoholic cirrhosis of liver with ascites,Alcoholic cirrhosis of liver,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K703,Alcoholic cirrhosis of liver,,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K7040,Alcoholic hepatic failure without coma,Alcoholic hepatic failure,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K7041,Alcoholic hepatic failure with coma,Alcoholic hepatic failure,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K704,Alcoholic hepatic failure,,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K709,Alcoholic liver disease unspecified,,Alcoholic liver disease,Diseases of liver,Disease of the digestive system
+K710,Toxic liver disease with cholestasis,,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K7110,Toxic liver disease with hepatic necrosis without coma,Toxic liver disease with hepatic necrosis,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K7111,Toxic liver disease with hepatic necrosis with coma,Toxic liver disease with hepatic necrosis,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K711,Toxic liver disease with hepatic necrosis,,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K712,Toxic liver disease with acute hepatitis,,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K713,Toxic liver disease with chronic persistent hepatitis,,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K714,Toxic liver disease with chronic lobular hepatitis,,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K7150,Toxic liver disease with chronic active hepatitis without ascites,Toxic liver disease with chronic active hepatitis,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K7151,Toxic liver disease with chronic active hepatitis with ascites,Toxic liver disease with chronic active hepatitis,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K715,Toxic liver disease with chronic active hepatitis,,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K716,Toxic liver disease with hepatitis not elsewhere classified,,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K717,Toxic liver disease with fibrosis and cirrhosis of liver,,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K718,Toxic liver disease with other disorders of liver,,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K719,Toxic liver disease unspecified,,Toxic liver disease,Diseases of liver,Disease of the digestive system
+K7200,Acute and subacute hepatic failure without coma,Acute and subacute hepatic failure,Hepatic failure not elsewhere classified,Diseases of liver,Disease of the digestive system
+K7201,Acute and subacute hepatic failure with coma,Acute and subacute hepatic failure,Hepatic failure not elsewhere classified,Diseases of liver,Disease of the digestive system
+K720,Acute and subacute hepatic failure,,Hepatic failure not elsewhere classified,Diseases of liver,Disease of the digestive system
+K7210,Chronic hepatic failure without coma,Chronic hepatic failure,Hepatic failure not elsewhere classified,Diseases of liver,Disease of the digestive system
+K7211,Chronic hepatic failure with coma,Chronic hepatic failure,Hepatic failure not elsewhere classified,Diseases of liver,Disease of the digestive system
+K721,Chronic hepatic failure,,Hepatic failure not elsewhere classified,Diseases of liver,Disease of the digestive system
+K7290,Hepatic failure unspecified without coma,Hepatic failure unspecified,Hepatic failure not elsewhere classified,Diseases of liver,Disease of the digestive system
+K7291,Hepatic failure unspecified with coma,Hepatic failure unspecified,Hepatic failure not elsewhere classified,Diseases of liver,Disease of the digestive system
+K729,Hepatic failure unspecified,,Hepatic failure not elsewhere classified,Diseases of liver,Disease of the digestive system
+K730,Chronic persistent hepatitis not elsewhere classified,,Chronic hepatitis not elsewhere classified,Diseases of liver,Disease of the digestive system
+K731,Chronic lobular hepatitis not elsewhere classified,,Chronic hepatitis not elsewhere classified,Diseases of liver,Disease of the digestive system
+K732,Chronic active hepatitis not elsewhere classified,,Chronic hepatitis not elsewhere classified,Diseases of liver,Disease of the digestive system
+K738,Other chronic hepatitis not elsewhere classified,,Chronic hepatitis not elsewhere classified,Diseases of liver,Disease of the digestive system
+K739,Chronic hepatitis unspecified,,Chronic hepatitis not elsewhere classified,Diseases of liver,Disease of the digestive system
+K7400,Hepatic fibrosis unspecified,Hepatic fibrosis,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K7401,Hepatic fibrosis early fibrosis,Hepatic fibrosis,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K7402,Hepatic fibrosis advanced fibrosis,Hepatic fibrosis,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K740,Hepatic fibrosis,,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K741,Hepatic sclerosis,,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K742,Hepatic fibrosis with hepatic sclerosis,,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K743,Primary biliary cirrhosis,,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K744,Secondary biliary cirrhosis,,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K745,Biliary cirrhosis unspecified,,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K7460,Unspecified cirrhosis of liver,Other and unspecified cirrhosis of liver,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K7469,Other cirrhosis of liver,Other and unspecified cirrhosis of liver,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K746,Other and unspecified cirrhosis of liver,,Fibrosis and cirrhosis of liver,Diseases of liver,Disease of the digestive system
+K750,Abscess of liver,,Other inflammatory liver diseases,Diseases of liver,Disease of the digestive system
+K751,Phlebitis of portal vein,,Other inflammatory liver diseases,Diseases of liver,Disease of the digestive system
+K752,Nonspecific reactive hepatitis,,Other inflammatory liver diseases,Diseases of liver,Disease of the digestive system
+K753,Granulomatous hepatitis not elsewhere classified,,Other inflammatory liver diseases,Diseases of liver,Disease of the digestive system
+K754,Autoimmune hepatitis,,Other inflammatory liver diseases,Diseases of liver,Disease of the digestive system
+K7581,Nonalcoholic steatohepatitis (NASH),Other specified inflammatory liver diseases,Other inflammatory liver diseases,Diseases of liver,Disease of the digestive system
+K7589,Other specified inflammatory liver diseases,Other specified inflammatory liver diseases,Other inflammatory liver diseases,Diseases of liver,Disease of the digestive system
+K758,Other specified inflammatory liver diseases,,Other inflammatory liver diseases,Diseases of liver,Disease of the digestive system
+K759,Inflammatory liver disease unspecified,,Other inflammatory liver diseases,Diseases of liver,Disease of the digestive system
+K760,Fatty (change of) liver not elsewhere classified,,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K761,Chronic passive congestion of liver,,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K762,Central hemorrhagic necrosis of liver,,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K763,Infarction of liver,,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K764,Peliosis hepatis,,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K765,Hepatic veno-occlusive disease,,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K766,Portal hypertension,,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K767,Hepatorenal syndrome,,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K7681,Hepatopulmonary syndrome,Other specified diseases of liver,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K7689,Other specified diseases of liver,Other specified diseases of liver,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K768,Other specified diseases of liver,,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K769,Liver disease unspecified,,Other diseases of liver,Diseases of liver,Disease of the digestive system
+K77,Liver disorders in diseases classified elsewhere,,Liver disorders in diseases classified elsewhere,Diseases of liver,Disease of the digestive system
+K8000,Calculus of gallbladder with acute cholecystitis without obstruction,Calculus of gallbladder with acute cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8001,Calculus of gallbladder with acute cholecystitis with obstruction,Calculus of gallbladder with acute cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K800,Calculus of gallbladder with acute cholecystitis,,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8010,Calculus of gallbladder with chronic cholecystitis without obstruction,Calculus of gallbladder with other cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8011,Calculus of gallbladder with chronic cholecystitis with obstruction,Calculus of gallbladder with other cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8012,Calculus of gallbladder with acute and chronic cholecystitis without obstruction,Calculus of gallbladder with other cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8013,Calculus of gallbladder with acute and chronic cholecystitis with obstruction,Calculus of gallbladder with other cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8018,Calculus of gallbladder with other cholecystitis without obstruction,Calculus of gallbladder with other cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8019,Calculus of gallbladder with other cholecystitis with obstruction,Calculus of gallbladder with other cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K801,Calculus of gallbladder with other cholecystitis,,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8020,Calculus of gallbladder without cholecystitis without obstruction,Calculus of gallbladder without cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8021,Calculus of gallbladder without cholecystitis with obstruction,Calculus of gallbladder without cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K802,Calculus of gallbladder without cholecystitis,,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8030,Calculus of bile duct with cholangitis unspecified without obstruction,Calculus of bile duct with cholangitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8031,Calculus of bile duct with cholangitis unspecified with obstruction,Calculus of bile duct with cholangitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8032,Calculus of bile duct with acute cholangitis without obstruction,Calculus of bile duct with cholangitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8033,Calculus of bile duct with acute cholangitis with obstruction,Calculus of bile duct with cholangitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8034,Calculus of bile duct with chronic cholangitis without obstruction,Calculus of bile duct with cholangitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8035,Calculus of bile duct with chronic cholangitis with obstruction,Calculus of bile duct with cholangitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8036,Calculus of bile duct with acute and chronic cholangitis without obstruction,Calculus of bile duct with cholangitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8037,Calculus of bile duct with acute and chronic cholangitis with obstruction,Calculus of bile duct with cholangitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K803,Calculus of bile duct with cholangitis,,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8040,Calculus of bile duct with cholecystitis unspecified without obstruction,Calculus of bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8041,Calculus of bile duct with cholecystitis unspecified with obstruction,Calculus of bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8042,Calculus of bile duct with acute cholecystitis without obstruction,Calculus of bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8043,Calculus of bile duct with acute cholecystitis with obstruction,Calculus of bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8044,Calculus of bile duct with chronic cholecystitis without obstruction,Calculus of bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8045,Calculus of bile duct with chronic cholecystitis with obstruction,Calculus of bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8046,Calculus of bile duct with acute and chronic cholecystitis without obstruction,Calculus of bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8047,Calculus of bile duct with acute and chronic cholecystitis with obstruction,Calculus of bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K804,Calculus of bile duct with cholecystitis,,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8050,Calculus of bile duct without cholangitis or cholecystitis without obstruction,Calculus of bile duct without cholangitis or cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8051,Calculus of bile duct without cholangitis or cholecystitis with obstruction,Calculus of bile duct without cholangitis or cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K805,Calculus of bile duct without cholangitis or cholecystitis,,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8060,Calculus of gallbladder and bile duct with cholecystitis unspecified without obstruction,Calculus of gallbladder and bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8061,Calculus of gallbladder and bile duct with cholecystitis unspecified with obstruction,Calculus of gallbladder and bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8062,Calculus of gallbladder and bile duct with acute cholecystitis without obstruction,Calculus of gallbladder and bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8063,Calculus of gallbladder and bile duct with acute cholecystitis with obstruction,Calculus of gallbladder and bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8064,Calculus of gallbladder and bile duct with chronic cholecystitis without obstruction,Calculus of gallbladder and bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8065,Calculus of gallbladder and bile duct with chronic cholecystitis with obstruction,Calculus of gallbladder and bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8066,Calculus of gallbladder and bile duct with acute and chronic cholecystitis without obstruction,Calculus of gallbladder and bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8067,Calculus of gallbladder and bile duct with acute and chronic cholecystitis with obstruction,Calculus of gallbladder and bile duct with cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K806,Calculus of gallbladder and bile duct with cholecystitis,,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8070,Calculus of gallbladder and bile duct without cholecystitis without obstruction,Calculus of gallbladder and bile duct without cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8071,Calculus of gallbladder and bile duct without cholecystitis with obstruction,Calculus of gallbladder and bile duct without cholecystitis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K807,Calculus of gallbladder and bile duct without cholecystitis,,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8080,Other cholelithiasis without obstruction,Other cholelithiasis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8081,Other cholelithiasis with obstruction,Other cholelithiasis,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K808,Other cholelithiasis,,Cholelithiasis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K810,Acute cholecystitis,,Cholecystitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K811,Chronic cholecystitis,,Cholecystitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K812,Acute cholecystitis with chronic cholecystitis,,Cholecystitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K819,Cholecystitis unspecified,,Cholecystitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K820,Obstruction of gallbladder,,Other diseases of gallbladder,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K821,Hydrops of gallbladder,,Other diseases of gallbladder,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K822,Perforation of gallbladder,,Other diseases of gallbladder,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K823,Fistula of gallbladder,,Other diseases of gallbladder,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K824,Cholesterolosis of gallbladder,,Other diseases of gallbladder,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K828,Other specified diseases of gallbladder,,Other diseases of gallbladder,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K829,Disease of gallbladder unspecified,,Other diseases of gallbladder,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K82A1,Gangrene of gallbladder in cholecystitis,Disorders of gallbladder in diseases classified elsewhere,Other diseases of gallbladder,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K82A2,Perforation of gallbladder in cholecystitis,Disorders of gallbladder in diseases classified elsewhere,Other diseases of gallbladder,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K82A,Disorders of gallbladder in diseases classified elsewhere,,Other diseases of gallbladder,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8301,Primary sclerosing cholangitis,Cholangitis,Other diseases of biliary tract,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8309,Other cholangitis,Cholangitis,Other diseases of biliary tract,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K830,Cholangitis,,Other diseases of biliary tract,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K831,Obstruction of bile duct,,Other diseases of biliary tract,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K832,Perforation of bile duct,,Other diseases of biliary tract,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K833,Fistula of bile duct,,Other diseases of biliary tract,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K834,Spasm of sphincter of Oddi,,Other diseases of biliary tract,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K835,Biliary cyst,,Other diseases of biliary tract,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K838,Other specified diseases of biliary tract,,Other diseases of biliary tract,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K839,Disease of biliary tract unspecified,,Other diseases of biliary tract,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8500,Idiopathic acute pancreatitis without necrosis or infection,Idiopathic acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8501,Idiopathic acute pancreatitis with uninfected necrosis,Idiopathic acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8502,Idiopathic acute pancreatitis with infected necrosis,Idiopathic acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K850,Idiopathic acute pancreatitis,,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8510,Biliary acute pancreatitis without necrosis or infection,Biliary acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8511,Biliary acute pancreatitis with uninfected necrosis,Biliary acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8512,Biliary acute pancreatitis with infected necrosis,Biliary acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K851,Biliary acute pancreatitis,,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8520,Alcohol induced acute pancreatitis without necrosis or infection,Alcohol induced acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8521,Alcohol induced acute pancreatitis with uninfected necrosis,Alcohol induced acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8522,Alcohol induced acute pancreatitis with infected necrosis,Alcohol induced acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K852,Alcohol induced acute pancreatitis,,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8530,Drug induced acute pancreatitis without necrosis or infection,Drug induced acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8531,Drug induced acute pancreatitis with uninfected necrosis,Drug induced acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8532,Drug induced acute pancreatitis with infected necrosis,Drug induced acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K853,Drug induced acute pancreatitis,,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8580,Other acute pancreatitis without necrosis or infection,Other acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8581,Other acute pancreatitis with uninfected necrosis,Other acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8582,Other acute pancreatitis with infected necrosis,Other acute pancreatitis,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K858,Other acute pancreatitis,,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8590,Acute pancreatitis without necrosis or infection unspecified,Acute pancreatitis unspecified,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8591,Acute pancreatitis with uninfected necrosis unspecified,Acute pancreatitis unspecified,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8592,Acute pancreatitis with infected necrosis unspecified,Acute pancreatitis unspecified,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K859,Acute pancreatitis unspecified,,Acute pancreatitis,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K860,Alcohol-induced chronic pancreatitis,,Other diseases of pancreas,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K861,Other chronic pancreatitis,,Other diseases of pancreas,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K862,Cyst of pancreas,,Other diseases of pancreas,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K863,Pseudocyst of pancreas,,Other diseases of pancreas,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8681,Exocrine pancreatic insufficiency,Other specified diseases of pancreas,Other diseases of pancreas,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K8689,Other specified diseases of pancreas,Other specified diseases of pancreas,Other diseases of pancreas,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K868,Other specified diseases of pancreas,,Other diseases of pancreas,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K869,Disease of pancreas unspecified,,Other diseases of pancreas,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K87,Disorders of gallbladder biliary tract and pancreas in diseases classified elsewhere,,Disorders of gallbladder biliary tract and pancreas in diseases classified elsewhere,Disorders of gallbladder biliary tract and pancreas,Disease of the digestive system
+K900,Celiac disease,,Intestinal malabsorption,Other diseases of the digestive system,Disease of the digestive system
+K901,Tropical sprue,,Intestinal malabsorption,Other diseases of the digestive system,Disease of the digestive system
+K902,Blind loop syndrome not elsewhere classified,,Intestinal malabsorption,Other diseases of the digestive system,Disease of the digestive system
+K903,Pancreatic steatorrhea,,Intestinal malabsorption,Other diseases of the digestive system,Disease of the digestive system
+K9041,Non-celiac gluten sensitivity,Other malabsorption due to intolerance,Intestinal malabsorption,Other diseases of the digestive system,Disease of the digestive system
+K9049,Malabsorption due to intolerance not elsewhere classified,Other malabsorption due to intolerance,Intestinal malabsorption,Other diseases of the digestive system,Disease of the digestive system
+K904,Other malabsorption due to intolerance,,Intestinal malabsorption,Other diseases of the digestive system,Disease of the digestive system
+K9081,Whipple's disease,Other intestinal malabsorption,Intestinal malabsorption,Other diseases of the digestive system,Disease of the digestive system
+K9089,Other intestinal malabsorption,Other intestinal malabsorption,Intestinal malabsorption,Other diseases of the digestive system,Disease of the digestive system
+K908,Other intestinal malabsorption,,Intestinal malabsorption,Other diseases of the digestive system,Disease of the digestive system
+K909,Intestinal malabsorption unspecified,,Intestinal malabsorption,Other diseases of the digestive system,Disease of the digestive system
+K910,Vomiting following gastrointestinal surgery,,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K911,Postgastric surgery syndromes,,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K912,Postsurgical malabsorption not elsewhere classified,,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9130,Postprocedural intestinal obstruction unspecified as to partial versus complete,Postprocedural intestinal obstruction,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9131,Postprocedural partial intestinal obstruction,Postprocedural intestinal obstruction,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9132,Postprocedural complete intestinal obstruction,Postprocedural intestinal obstruction,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K913,Postprocedural intestinal obstruction,,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K915,Postcholecystectomy syndrome,,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9161,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating a digestive system procedure,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating a procedure,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9162,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating other procedure,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating a procedure,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K916,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating a procedure,,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9171,Accidental puncture and laceration of a digestive system organ or structure during a digestive system procedure,Accidental puncture and laceration of a digestive system organ or structure during a procedure,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9172,Accidental puncture and laceration of a digestive system organ or structure during other procedure,Accidental puncture and laceration of a digestive system organ or structure during a procedure,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K917,Accidental puncture and laceration of a digestive system organ or structure during a procedure,,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9181,Other intraoperative complications of digestive system,Other intraoperative and postprocedural complications and disorders of digestive system,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9182,Postprocedural hepatic failure,Other intraoperative and postprocedural complications and disorders of digestive system,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9183,Postprocedural hepatorenal syndrome,Other intraoperative and postprocedural complications and disorders of digestive system,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9184,Postprocedural hemorrhage of a digestive system organ or structure following a procedure,Other intraoperative and postprocedural complications and disorders of digestive system,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9185,Complications of intestinal pouch,Other intraoperative and postprocedural complications and disorders of digestive system,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9186,Retained cholelithiasis following cholecystectomy,Other intraoperative and postprocedural complications and disorders of digestive system,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9187,Postprocedural hematoma and seroma of a digestive system organ or structure following a procedure,Other intraoperative and postprocedural complications and disorders of digestive system,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K9189,Other postprocedural complications and disorders of digestive system,Other intraoperative and postprocedural complications and disorders of digestive system,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K918,Other intraoperative and postprocedural complications and disorders of digestive system,,Postprocedural disorders of digestive system not elsewhere classified,Other diseases of the digestive system,Disease of the digestive system
+K920,Hematemesis,,Other diseases of digestive system,Other diseases of the digestive system,Disease of the digestive system
+K921,Melena,,Other diseases of digestive system,Other diseases of the digestive system,Disease of the digestive system
+K922,Gastrointestinal hemorrhage unspecified,,Other diseases of digestive system,Other diseases of the digestive system,Disease of the digestive system
+K9281,Gastrointestinal mucositis (ulcerative),Other specified diseases of the digestive system,Other diseases of digestive system,Other diseases of the digestive system,Disease of the digestive system
+K9289,Other specified diseases of the digestive system,Other specified diseases of the digestive system,Other diseases of digestive system,Other diseases of the digestive system,Disease of the digestive system
+K928,Other specified diseases of the digestive system,,Other diseases of digestive system,Other diseases of the digestive system,Disease of the digestive system
+K929,Disease of digestive system unspecified,,Other diseases of digestive system,Other diseases of the digestive system,Disease of the digestive system
+K9400,Colostomy complication unspecified,Colostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9401,Colostomy hemorrhage,Colostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9402,Colostomy infection,Colostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9403,Colostomy malfunction,Colostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9409,Other complications of colostomy,Colostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K940,Colostomy complications,,,Other diseases of the digestive system,Disease of the digestive system
+K9410,Enterostomy complication unspecified,Enterostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9411,Enterostomy hemorrhage,Enterostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9412,Enterostomy infection,Enterostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9413,Enterostomy malfunction,Enterostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9419,Other complications of enterostomy,Enterostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K941,Enterostomy complications,,,Other diseases of the digestive system,Disease of the digestive system
+K9420,Gastrostomy complication unspecified,Gastrostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9421,Gastrostomy hemorrhage,Gastrostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9422,Gastrostomy infection,Gastrostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9423,Gastrostomy malfunction,Gastrostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9429,Other complications of gastrostomy,Gastrostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K942,Gastrostomy complications,,,Other diseases of the digestive system,Disease of the digestive system
+K9430,Esophagostomy complications unspecified,Esophagostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9431,Esophagostomy hemorrhage,Esophagostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9432,Esophagostomy infection,Esophagostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9433,Esophagostomy malfunction,Esophagostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K9439,Other complications of esophagostomy,Esophagostomy complications,,Other diseases of the digestive system,Disease of the digestive system
+K943,Esophagostomy complications,,,Other diseases of the digestive system,Disease of the digestive system
+K9501,Infection due to gastric band procedure,Complications of gastric band procedure,,Other diseases of the digestive system,Disease of the digestive system
+K9509,Other complications of gastric band procedure,Complications of gastric band procedure,,Other diseases of the digestive system,Disease of the digestive system
+K950,Complications of gastric band procedure,,,Other diseases of the digestive system,Disease of the digestive system
+K9581,Infection due to other bariatric procedure,Complications of other bariatric procedure,,Other diseases of the digestive system,Disease of the digestive system
+K9589,Other complications of other bariatric procedure,Complications of other bariatric procedure,,Other diseases of the digestive system,Disease of the digestive system
+K958,Complications of other bariatric procedure,,,Other diseases of the digestive system,Disease of the digestive system

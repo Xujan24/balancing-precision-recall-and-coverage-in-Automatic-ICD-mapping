@@ -1,0 +1,370 @@
+code,code_desc,p1,p2,p3,p4
+J00,Acute nasopharyngitis [common cold],,Acute nasopharyngitis [common cold],Acute upper respiratory infections,Disease of the respiratory system
+J0100,Acute maxillary sinusitis unspecified,Acute maxillary sinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0101,Acute recurrent maxillary sinusitis,Acute maxillary sinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J010,Acute maxillary sinusitis,,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0110,Acute frontal sinusitis unspecified,Acute frontal sinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0111,Acute recurrent frontal sinusitis,Acute frontal sinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J011,Acute frontal sinusitis,,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0120,Acute ethmoidal sinusitis unspecified,Acute ethmoidal sinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0121,Acute recurrent ethmoidal sinusitis,Acute ethmoidal sinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J012,Acute ethmoidal sinusitis,,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0130,Acute sphenoidal sinusitis unspecified,Acute sphenoidal sinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0131,Acute recurrent sphenoidal sinusitis,Acute sphenoidal sinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J013,Acute sphenoidal sinusitis,,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0140,Acute pansinusitis unspecified,Acute pansinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0141,Acute recurrent pansinusitis,Acute pansinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J014,Acute pansinusitis,,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0180,Other acute sinusitis,Other acute sinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0181,Other acute recurrent sinusitis,Other acute sinusitis,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J018,Other acute sinusitis,,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0190,Acute sinusitis unspecified,Acute sinusitis unspecified,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J0191,Acute recurrent sinusitis unspecified,Acute sinusitis unspecified,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J019,Acute sinusitis unspecified,,Acute sinusitis,Acute upper respiratory infections,Disease of the respiratory system
+J020,Streptococcal pharyngitis,,Acute pharyngitis,Acute upper respiratory infections,Disease of the respiratory system
+J028,Acute pharyngitis due to other specified organisms,,Acute pharyngitis,Acute upper respiratory infections,Disease of the respiratory system
+J029,Acute pharyngitis unspecified,,Acute pharyngitis,Acute upper respiratory infections,Disease of the respiratory system
+J0300,Acute streptococcal tonsillitis unspecified,Streptococcal tonsillitis,Acute tonsillitis,Acute upper respiratory infections,Disease of the respiratory system
+J0301,Acute recurrent streptococcal tonsillitis,Streptococcal tonsillitis,Acute tonsillitis,Acute upper respiratory infections,Disease of the respiratory system
+J030,Streptococcal tonsillitis,,Acute tonsillitis,Acute upper respiratory infections,Disease of the respiratory system
+J0380,Acute tonsillitis due to other specified organisms,Acute tonsillitis due to other specified organisms,Acute tonsillitis,Acute upper respiratory infections,Disease of the respiratory system
+J0381,Acute recurrent tonsillitis due to other specified organisms,Acute tonsillitis due to other specified organisms,Acute tonsillitis,Acute upper respiratory infections,Disease of the respiratory system
+J038,Acute tonsillitis due to other specified organisms,,Acute tonsillitis,Acute upper respiratory infections,Disease of the respiratory system
+J0390,Acute tonsillitis unspecified,Acute tonsillitis unspecified,Acute tonsillitis,Acute upper respiratory infections,Disease of the respiratory system
+J0391,Acute recurrent tonsillitis unspecified,Acute tonsillitis unspecified,Acute tonsillitis,Acute upper respiratory infections,Disease of the respiratory system
+J039,Acute tonsillitis unspecified,,Acute tonsillitis,Acute upper respiratory infections,Disease of the respiratory system
+J040,Acute laryngitis,,Acute laryngitis and tracheitis,Acute upper respiratory infections,Disease of the respiratory system
+J0410,Acute tracheitis without obstruction,Acute tracheitis,Acute laryngitis and tracheitis,Acute upper respiratory infections,Disease of the respiratory system
+J0411,Acute tracheitis with obstruction,Acute tracheitis,Acute laryngitis and tracheitis,Acute upper respiratory infections,Disease of the respiratory system
+J041,Acute tracheitis,,Acute laryngitis and tracheitis,Acute upper respiratory infections,Disease of the respiratory system
+J042,Acute laryngotracheitis,,Acute laryngitis and tracheitis,Acute upper respiratory infections,Disease of the respiratory system
+J0430,Supraglottitis unspecified without obstruction,Supraglottitis unspecified,Acute laryngitis and tracheitis,Acute upper respiratory infections,Disease of the respiratory system
+J0431,Supraglottitis unspecified with obstruction,Supraglottitis unspecified,Acute laryngitis and tracheitis,Acute upper respiratory infections,Disease of the respiratory system
+J043,Supraglottitis unspecified,,Acute laryngitis and tracheitis,Acute upper respiratory infections,Disease of the respiratory system
+J050,Acute obstructive laryngitis [croup],,Acute obstructive laryngitis [croup] and epiglottitis,Acute upper respiratory infections,Disease of the respiratory system
+J0510,Acute epiglottitis without obstruction,Acute epiglottitis,Acute obstructive laryngitis [croup] and epiglottitis,Acute upper respiratory infections,Disease of the respiratory system
+J0511,Acute epiglottitis with obstruction,Acute epiglottitis,Acute obstructive laryngitis [croup] and epiglottitis,Acute upper respiratory infections,Disease of the respiratory system
+J051,Acute epiglottitis,,Acute obstructive laryngitis [croup] and epiglottitis,Acute upper respiratory infections,Disease of the respiratory system
+J060,Acute laryngopharyngitis,,Acute upper respiratory infections of multiple and unspecified sites,Acute upper respiratory infections,Disease of the respiratory system
+J069,Acute upper respiratory infection unspecified,,Acute upper respiratory infections of multiple and unspecified sites,Acute upper respiratory infections,Disease of the respiratory system
+J09X1,Influenza due to identified novel influenza A virus with pneumonia,Influenza due to identified novel influenza A virus,Influenza due to identified zoonotic or pandemic influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J09X2,Influenza due to identified novel influenza A virus with other respiratory manifestations,Influenza due to identified novel influenza A virus,Influenza due to identified zoonotic or pandemic influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J09X3,Influenza due to identified novel influenza A virus with gastrointestinal manifestations,Influenza due to identified novel influenza A virus,Influenza due to identified zoonotic or pandemic influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J09X9,Influenza due to identified novel influenza A virus with other manifestations,Influenza due to identified novel influenza A virus,Influenza due to identified zoonotic or pandemic influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J09X,Influenza due to identified novel influenza A virus,,Influenza due to identified zoonotic or pandemic influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J1000,Influenza due to other identified influenza virus with unspecified type of pneumonia,Influenza due to other identified influenza virus with pneumonia,Influenza due to identified seasonal influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J1001,Influenza due to other identified influenza virus with the same other identified influenza virus pneumonia,Influenza due to other identified influenza virus with pneumonia,Influenza due to identified seasonal influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J1008,Influenza due to other identified influenza virus with other specified pneumonia,Influenza due to other identified influenza virus with pneumonia,Influenza due to identified seasonal influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J100,Influenza due to other identified influenza virus with pneumonia,,Influenza due to identified seasonal influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J101,Influenza due to other identified influenza virus with other respiratory manifestations,,Influenza due to identified seasonal influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J102,Influenza due to other identified influenza virus with gastrointestinal manifestations,,Influenza due to identified seasonal influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J1081,Influenza due to other identified influenza virus with encephalopathy,Influenza due to other identified influenza virus with other manifestations,Influenza due to identified seasonal influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J1082,Influenza due to other identified influenza virus with myocarditis,Influenza due to other identified influenza virus with other manifestations,Influenza due to identified seasonal influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J1083,Influenza due to other identified influenza virus with otitis media,Influenza due to other identified influenza virus with other manifestations,Influenza due to identified seasonal influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J1089,Influenza due to other identified influenza virus with other manifestations,Influenza due to other identified influenza virus with other manifestations,Influenza due to identified seasonal influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J108,Influenza due to other identified influenza virus with other manifestations,,Influenza due to identified seasonal influenza virus,Influenza and pneumonia,Disease of the respiratory system
+J1100,Influenza due to unidentified influenza virus with unspecified type of pneumonia,Influenza due to unidentified influenza virus with pneumonia,Influenza virus not identified,Influenza and pneumonia,Disease of the respiratory system
+J1108,Influenza due to unidentified influenza virus with specified pneumonia,Influenza due to unidentified influenza virus with pneumonia,Influenza virus not identified,Influenza and pneumonia,Disease of the respiratory system
+J110,Influenza due to unidentified influenza virus with pneumonia,,Influenza virus not identified,Influenza and pneumonia,Disease of the respiratory system
+J111,Influenza due to unidentified influenza virus with other respiratory manifestations,,Influenza virus not identified,Influenza and pneumonia,Disease of the respiratory system
+J112,Influenza due to unidentified influenza virus with gastrointestinal manifestations,,Influenza virus not identified,Influenza and pneumonia,Disease of the respiratory system
+J1181,Influenza due to unidentified influenza virus with encephalopathy,Influenza due to unidentified influenza virus with other manifestations,Influenza virus not identified,Influenza and pneumonia,Disease of the respiratory system
+J1182,Influenza due to unidentified influenza virus with myocarditis,Influenza due to unidentified influenza virus with other manifestations,Influenza virus not identified,Influenza and pneumonia,Disease of the respiratory system
+J1183,Influenza due to unidentified influenza virus with otitis media,Influenza due to unidentified influenza virus with other manifestations,Influenza virus not identified,Influenza and pneumonia,Disease of the respiratory system
+J1189,Influenza due to unidentified influenza virus with other manifestations,Influenza due to unidentified influenza virus with other manifestations,Influenza virus not identified,Influenza and pneumonia,Disease of the respiratory system
+J118,Influenza due to unidentified influenza virus with other manifestations,,Influenza virus not identified,Influenza and pneumonia,Disease of the respiratory system
+J120,Adenoviral pneumonia,,Viral pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J121,Respiratory syncytial virus pneumonia,,Viral pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J122,Parainfluenza virus pneumonia,,Viral pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J123,Human metapneumovirus pneumonia,,Viral pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J1281,Pneumonia due to SARS-associated coronavirus,Other viral pneumonia,Viral pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J1282,Pneumonia due to coronavirus disease 2019,Other viral pneumonia,Viral pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J1289,Other viral pneumonia,Other viral pneumonia,Viral pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J128,Other viral pneumonia,,Viral pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J129,Viral pneumonia unspecified,,Viral pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J13,Pneumonia due to Streptococcus pneumoniae,,Pneumonia due to Streptococcus pneumoniae,Influenza and pneumonia,Disease of the respiratory system
+J14,Pneumonia due to Haemophilus influenzae,,Pneumonia due to Haemophilus influenzae,Influenza and pneumonia,Disease of the respiratory system
+J150,Pneumonia due to Klebsiella pneumoniae,,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J151,Pneumonia due to Pseudomonas,,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J1520,Pneumonia due to staphylococcus unspecified,Pneumonia due to staphylococcus,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J1521,Pneumonia due to staphylococcus aureus,Pneumonia due to staphylococcus,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J1529,Pneumonia due to other staphylococcus,Pneumonia due to staphylococcus,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J152,Pneumonia due to staphylococcus,,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J153,Pneumonia due to streptococcus group B,,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J154,Pneumonia due to other streptococci,,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J155,Pneumonia due to Escherichia coli,,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J156,Pneumonia due to other Gram-negative bacteria,,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J157,Pneumonia due to Mycoplasma pneumoniae,,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J158,Pneumonia due to other specified bacteria,,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J159,Unspecified bacterial pneumonia,,Bacterial pneumonia not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J160,Chlamydial pneumonia,,Pneumonia due to other infectious organisms not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J168,Pneumonia due to other specified infectious organisms,,Pneumonia due to other infectious organisms not elsewhere classified,Influenza and pneumonia,Disease of the respiratory system
+J17,Pneumonia in diseases classified elsewhere,,Pneumonia in diseases classified elsewhere,Influenza and pneumonia,Disease of the respiratory system
+J180,Bronchopneumonia unspecified organism,,Pneumonia organism unspecified,Influenza and pneumonia,Disease of the respiratory system
+J181,Lobar pneumonia unspecified organism,,Pneumonia organism unspecified,Influenza and pneumonia,Disease of the respiratory system
+J182,Hypostatic pneumonia unspecified organism,,Pneumonia organism unspecified,Influenza and pneumonia,Disease of the respiratory system
+J188,Other pneumonia unspecified organism,,Pneumonia organism unspecified,Influenza and pneumonia,Disease of the respiratory system
+J189,Pneumonia unspecified organism,,Pneumonia organism unspecified,Influenza and pneumonia,Disease of the respiratory system
+J200,Acute bronchitis due to Mycoplasma pneumoniae,,Acute bronchitis,Other acute lower respiratory infections,Disease of the respiratory system
+J201,Acute bronchitis due to Hemophilus influenzae,,Acute bronchitis,Other acute lower respiratory infections,Disease of the respiratory system
+J202,Acute bronchitis due to streptococcus,,Acute bronchitis,Other acute lower respiratory infections,Disease of the respiratory system
+J203,Acute bronchitis due to coxsackievirus,,Acute bronchitis,Other acute lower respiratory infections,Disease of the respiratory system
+J204,Acute bronchitis due to parainfluenza virus,,Acute bronchitis,Other acute lower respiratory infections,Disease of the respiratory system
+J205,Acute bronchitis due to respiratory syncytial virus,,Acute bronchitis,Other acute lower respiratory infections,Disease of the respiratory system
+J206,Acute bronchitis due to rhinovirus,,Acute bronchitis,Other acute lower respiratory infections,Disease of the respiratory system
+J207,Acute bronchitis due to echovirus,,Acute bronchitis,Other acute lower respiratory infections,Disease of the respiratory system
+J208,Acute bronchitis due to other specified organisms,,Acute bronchitis,Other acute lower respiratory infections,Disease of the respiratory system
+J209,Acute bronchitis unspecified,,Acute bronchitis,Other acute lower respiratory infections,Disease of the respiratory system
+J210,Acute bronchiolitis due to respiratory syncytial virus,,Acute bronchiolitis,Other acute lower respiratory infections,Disease of the respiratory system
+J211,Acute bronchiolitis due to human metapneumovirus,,Acute bronchiolitis,Other acute lower respiratory infections,Disease of the respiratory system
+J218,Acute bronchiolitis due to other specified organisms,,Acute bronchiolitis,Other acute lower respiratory infections,Disease of the respiratory system
+J219,Acute bronchiolitis unspecified,,Acute bronchiolitis,Other acute lower respiratory infections,Disease of the respiratory system
+J22,Unspecified acute lower respiratory infection,,Unspecified acute lower respiratory infection,Other acute lower respiratory infections,Disease of the respiratory system
+J300,Vasomotor rhinitis,,Vasomotor and allergic rhinitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J301,Allergic rhinitis due to pollen,,Vasomotor and allergic rhinitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J302,Other seasonal allergic rhinitis,,Vasomotor and allergic rhinitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J305,Allergic rhinitis due to food,,Vasomotor and allergic rhinitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J3081,Allergic rhinitis due to animal (cat) (dog) hair and dander,Other allergic rhinitis,Vasomotor and allergic rhinitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J3089,Other allergic rhinitis,Other allergic rhinitis,Vasomotor and allergic rhinitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J308,Other allergic rhinitis,,Vasomotor and allergic rhinitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J309,Allergic rhinitis unspecified,,Vasomotor and allergic rhinitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J310,Chronic rhinitis,,Chronic rhinitis nasopharyngitis and pharyngitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J311,Chronic nasopharyngitis,,Chronic rhinitis nasopharyngitis and pharyngitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J312,Chronic pharyngitis,,Chronic rhinitis nasopharyngitis and pharyngitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J320,Chronic maxillary sinusitis,,Chronic sinusitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J321,Chronic frontal sinusitis,,Chronic sinusitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J322,Chronic ethmoidal sinusitis,,Chronic sinusitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J323,Chronic sphenoidal sinusitis,,Chronic sinusitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J324,Chronic pansinusitis,,Chronic sinusitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J328,Other chronic sinusitis,,Chronic sinusitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J329,Chronic sinusitis unspecified,,Chronic sinusitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J330,Polyp of nasal cavity,,Nasal polyp,Other diseases of upper respiratory tract,Disease of the respiratory system
+J331,Polypoid sinus degeneration,,Nasal polyp,Other diseases of upper respiratory tract,Disease of the respiratory system
+J338,Other polyp of sinus,,Nasal polyp,Other diseases of upper respiratory tract,Disease of the respiratory system
+J339,Nasal polyp unspecified,,Nasal polyp,Other diseases of upper respiratory tract,Disease of the respiratory system
+J340,Abscess furuncle and carbuncle of nose,,Other disorders of nose and nasal sinuses,Other diseases of upper respiratory tract,Disease of the respiratory system
+J341,Cyst and mucocele of nose and nasal sinus,,Other disorders of nose and nasal sinuses,Other diseases of upper respiratory tract,Disease of the respiratory system
+J342,Deviated nasal septum,,Other disorders of nose and nasal sinuses,Other diseases of upper respiratory tract,Disease of the respiratory system
+J343,Hypertrophy of nasal turbinates,,Other disorders of nose and nasal sinuses,Other diseases of upper respiratory tract,Disease of the respiratory system
+J3481,Nasal mucositis (ulcerative),Other specified disorders of nose and nasal sinuses,Other disorders of nose and nasal sinuses,Other diseases of upper respiratory tract,Disease of the respiratory system
+J3489,Other specified disorders of nose and nasal sinuses,Other specified disorders of nose and nasal sinuses,Other disorders of nose and nasal sinuses,Other diseases of upper respiratory tract,Disease of the respiratory system
+J348,Other specified disorders of nose and nasal sinuses,,Other disorders of nose and nasal sinuses,Other diseases of upper respiratory tract,Disease of the respiratory system
+J349,Unspecified disorder of nose and nasal sinuses,,Other disorders of nose and nasal sinuses,Other diseases of upper respiratory tract,Disease of the respiratory system
+J3501,Chronic tonsillitis,Chronic tonsillitis and adenoiditis,Chronic diseases of tonsils and adenoids,Other diseases of upper respiratory tract,Disease of the respiratory system
+J3502,Chronic adenoiditis,Chronic tonsillitis and adenoiditis,Chronic diseases of tonsils and adenoids,Other diseases of upper respiratory tract,Disease of the respiratory system
+J3503,Chronic tonsillitis and adenoiditis,Chronic tonsillitis and adenoiditis,Chronic diseases of tonsils and adenoids,Other diseases of upper respiratory tract,Disease of the respiratory system
+J350,Chronic tonsillitis and adenoiditis,,Chronic diseases of tonsils and adenoids,Other diseases of upper respiratory tract,Disease of the respiratory system
+J351,Hypertrophy of tonsils,,Chronic diseases of tonsils and adenoids,Other diseases of upper respiratory tract,Disease of the respiratory system
+J352,Hypertrophy of adenoids,,Chronic diseases of tonsils and adenoids,Other diseases of upper respiratory tract,Disease of the respiratory system
+J353,Hypertrophy of tonsils with hypertrophy of adenoids,,Chronic diseases of tonsils and adenoids,Other diseases of upper respiratory tract,Disease of the respiratory system
+J358,Other chronic diseases of tonsils and adenoids,,Chronic diseases of tonsils and adenoids,Other diseases of upper respiratory tract,Disease of the respiratory system
+J359,Chronic disease of tonsils and adenoids unspecified,,Chronic diseases of tonsils and adenoids,Other diseases of upper respiratory tract,Disease of the respiratory system
+J36,Peritonsillar abscess,,Peritonsillar abscess,Other diseases of upper respiratory tract,Disease of the respiratory system
+J370,Chronic laryngitis,,Chronic laryngitis and laryngotracheitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J371,Chronic laryngotracheitis,,Chronic laryngitis and laryngotracheitis,Other diseases of upper respiratory tract,Disease of the respiratory system
+J3800,Paralysis of vocal cords and larynx unspecified,Paralysis of vocal cords and larynx,Diseases of vocal cords and larynx not elsewhere classified,Other diseases of upper respiratory tract,Disease of the respiratory system
+J3801,Paralysis of vocal cords and larynx unilateral,Paralysis of vocal cords and larynx,Diseases of vocal cords and larynx not elsewhere classified,Other diseases of upper respiratory tract,Disease of the respiratory system
+J3802,Paralysis of vocal cords and larynx bilateral,Paralysis of vocal cords and larynx,Diseases of vocal cords and larynx not elsewhere classified,Other diseases of upper respiratory tract,Disease of the respiratory system
+J380,Paralysis of vocal cords and larynx,,Diseases of vocal cords and larynx not elsewhere classified,Other diseases of upper respiratory tract,Disease of the respiratory system
+J381,Polyp of vocal cord and larynx,,Diseases of vocal cords and larynx not elsewhere classified,Other diseases of upper respiratory tract,Disease of the respiratory system
+J382,Nodules of vocal cords,,Diseases of vocal cords and larynx not elsewhere classified,Other diseases of upper respiratory tract,Disease of the respiratory system
+J383,Other diseases of vocal cords,,Diseases of vocal cords and larynx not elsewhere classified,Other diseases of upper respiratory tract,Disease of the respiratory system
+J384,Edema of larynx,,Diseases of vocal cords and larynx not elsewhere classified,Other diseases of upper respiratory tract,Disease of the respiratory system
+J385,Laryngeal spasm,,Diseases of vocal cords and larynx not elsewhere classified,Other diseases of upper respiratory tract,Disease of the respiratory system
+J386,Stenosis of larynx,,Diseases of vocal cords and larynx not elsewhere classified,Other diseases of upper respiratory tract,Disease of the respiratory system
+J387,Other diseases of larynx,,Diseases of vocal cords and larynx not elsewhere classified,Other diseases of upper respiratory tract,Disease of the respiratory system
+J390,Retropharyngeal and parapharyngeal abscess,,Other diseases of upper respiratory tract,Other diseases of upper respiratory tract,Disease of the respiratory system
+J391,Other abscess of pharynx,,Other diseases of upper respiratory tract,Other diseases of upper respiratory tract,Disease of the respiratory system
+J392,Other diseases of pharynx,,Other diseases of upper respiratory tract,Other diseases of upper respiratory tract,Disease of the respiratory system
+J393,Upper respiratory tract hypersensitivity reaction site unspecified,,Other diseases of upper respiratory tract,Other diseases of upper respiratory tract,Disease of the respiratory system
+J398,Other specified diseases of upper respiratory tract,,Other diseases of upper respiratory tract,Other diseases of upper respiratory tract,Disease of the respiratory system
+J399,Disease of upper respiratory tract unspecified,,Other diseases of upper respiratory tract,Other diseases of upper respiratory tract,Disease of the respiratory system
+J40,Bronchitis not specified as acute or chronic,,Bronchitis not specified as acute or chronic,Chronic lower respiratory diseases,Disease of the respiratory system
+J410,Simple chronic bronchitis,,Simple and mucopurulent chronic bronchitis,Chronic lower respiratory diseases,Disease of the respiratory system
+J411,Mucopurulent chronic bronchitis,,Simple and mucopurulent chronic bronchitis,Chronic lower respiratory diseases,Disease of the respiratory system
+J418,Mixed simple and mucopurulent chronic bronchitis,,Simple and mucopurulent chronic bronchitis,Chronic lower respiratory diseases,Disease of the respiratory system
+J42,Unspecified chronic bronchitis,,Unspecified chronic bronchitis,Chronic lower respiratory diseases,Disease of the respiratory system
+J430,Unilateral pulmonary emphysema [MacLeod's syndrome],,Emphysema,Chronic lower respiratory diseases,Disease of the respiratory system
+J431,Panlobular emphysema,,Emphysema,Chronic lower respiratory diseases,Disease of the respiratory system
+J432,Centrilobular emphysema,,Emphysema,Chronic lower respiratory diseases,Disease of the respiratory system
+J438,Other emphysema,,Emphysema,Chronic lower respiratory diseases,Disease of the respiratory system
+J439,Emphysema unspecified,,Emphysema,Chronic lower respiratory diseases,Disease of the respiratory system
+J440,Chronic obstructive pulmonary disease with (acute) lower respiratory infection,,Other chronic obstructive pulmonary disease,Chronic lower respiratory diseases,Disease of the respiratory system
+J441,Chronic obstructive pulmonary disease with (acute) exacerbation,,Other chronic obstructive pulmonary disease,Chronic lower respiratory diseases,Disease of the respiratory system
+J449,Chronic obstructive pulmonary disease unspecified,,Other chronic obstructive pulmonary disease,Chronic lower respiratory diseases,Disease of the respiratory system
+J4520,Mild intermittent asthma uncomplicated,Mild intermittent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4521,Mild intermittent asthma with (acute) exacerbation,Mild intermittent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4522,Mild intermittent asthma with status asthmaticus,Mild intermittent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J452,Mild intermittent asthma,,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4530,Mild persistent asthma uncomplicated,Mild persistent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4531,Mild persistent asthma with (acute) exacerbation,Mild persistent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4532,Mild persistent asthma with status asthmaticus,Mild persistent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J453,Mild persistent asthma,,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4540,Moderate persistent asthma uncomplicated,Moderate persistent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4541,Moderate persistent asthma with (acute) exacerbation,Moderate persistent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4542,Moderate persistent asthma with status asthmaticus,Moderate persistent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J454,Moderate persistent asthma,,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4550,Severe persistent asthma uncomplicated,Severe persistent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4551,Severe persistent asthma with (acute) exacerbation,Severe persistent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4552,Severe persistent asthma with status asthmaticus,Severe persistent asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J455,Severe persistent asthma,,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4590,Unspecified asthma,Other and unspecified asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J4599,Other asthma,Other and unspecified asthma,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J459,Other and unspecified asthma,,Asthma,Chronic lower respiratory diseases,Disease of the respiratory system
+J470,Bronchiectasis with acute lower respiratory infection,,Bronchiectasis,Chronic lower respiratory diseases,Disease of the respiratory system
+J471,Bronchiectasis with (acute) exacerbation,,Bronchiectasis,Chronic lower respiratory diseases,Disease of the respiratory system
+J479,Bronchiectasis uncomplicated,,Bronchiectasis,Chronic lower respiratory diseases,Disease of the respiratory system
+J60,Coalworker pneumoconiosis,,Coalworker pneumoconiosis,Lung diseases due to external agents,Disease of the respiratory system
+J61,Pneumoconiosis due to asbestos and other mineral fibres,,Pneumoconiosis due to asbestos and other mineral fibres,Lung diseases due to external agents,Disease of the respiratory system
+J620,Pneumoconiosis due to talc dust,,Pneumoconiosis due to dust containing silica,Lung diseases due to external agents,Disease of the respiratory system
+J628,Pneumoconiosis due to other dust containing silica,,Pneumoconiosis due to dust containing silica,Lung diseases due to external agents,Disease of the respiratory system
+J630,Aluminosis (of lung),,Pneumoconiosis due to other inorganic dusts,Lung diseases due to external agents,Disease of the respiratory system
+J631,Bauxite fibrosis (of lung),,Pneumoconiosis due to other inorganic dusts,Lung diseases due to external agents,Disease of the respiratory system
+J632,Berylliosis,,Pneumoconiosis due to other inorganic dusts,Lung diseases due to external agents,Disease of the respiratory system
+J633,Graphite fibrosis (of lung),,Pneumoconiosis due to other inorganic dusts,Lung diseases due to external agents,Disease of the respiratory system
+J634,Siderosis,,Pneumoconiosis due to other inorganic dusts,Lung diseases due to external agents,Disease of the respiratory system
+J635,Stannosis,,Pneumoconiosis due to other inorganic dusts,Lung diseases due to external agents,Disease of the respiratory system
+J636,Pneumoconiosis due to other specified inorganic dusts,,Pneumoconiosis due to other inorganic dusts,Lung diseases due to external agents,Disease of the respiratory system
+J64,Unspecified pneumoconiosis,,Unspecified pneumoconiosis,Lung diseases due to external agents,Disease of the respiratory system
+J65,Pneumoconiosis associated with tuberculosis,,Pneumoconiosis associated with tuberculosis,Lung diseases due to external agents,Disease of the respiratory system
+J660,Byssinosis,,Airway disease due to specific organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J661,Flax-dressers' disease,,Airway disease due to specific organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J662,Cannabinosis,,Airway disease due to specific organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J668,Airway disease due to other specific organic dusts,,Airway disease due to specific organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J670,Farmer's lung,,Hypersensitivity pneumonitis due to organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J671,Bagassosis,,Hypersensitivity pneumonitis due to organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J672,Bird fancier's lung,,Hypersensitivity pneumonitis due to organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J673,Suberosis,,Hypersensitivity pneumonitis due to organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J674,Maltworker's lung,,Hypersensitivity pneumonitis due to organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J675,Mushroom-worker's lung,,Hypersensitivity pneumonitis due to organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J676,Maple-bark-stripper's lung,,Hypersensitivity pneumonitis due to organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J677,Air conditioner and humidifier lung,,Hypersensitivity pneumonitis due to organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J678,Hypersensitivity pneumonitis due to other organic dusts,,Hypersensitivity pneumonitis due to organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J679,Hypersensitivity pneumonitis due to unspecified organic dust,,Hypersensitivity pneumonitis due to organic dust,Lung diseases due to external agents,Disease of the respiratory system
+J680,Bronchitis and pneumonitis due to chemicals gases fumes and vapors,,Respiratory conditions due to inhalation of chemicals gases fumes and vapours,Lung diseases due to external agents,Disease of the respiratory system
+J681,Pulmonary edema due to chemicals gases fumes and vapors,,Respiratory conditions due to inhalation of chemicals gases fumes and vapours,Lung diseases due to external agents,Disease of the respiratory system
+J682,Upper respiratory inflammation due to chemicals gases fumes and vapors not elsewhere classified,,Respiratory conditions due to inhalation of chemicals gases fumes and vapours,Lung diseases due to external agents,Disease of the respiratory system
+J683,Other acute and subacute respiratory conditions due to chemicals gases fumes and vapors,,Respiratory conditions due to inhalation of chemicals gases fumes and vapours,Lung diseases due to external agents,Disease of the respiratory system
+J684,Chronic respiratory conditions due to chemicals gases fumes and vapors,,Respiratory conditions due to inhalation of chemicals gases fumes and vapours,Lung diseases due to external agents,Disease of the respiratory system
+J688,Other respiratory conditions due to chemicals gases fumes and vapors,,Respiratory conditions due to inhalation of chemicals gases fumes and vapours,Lung diseases due to external agents,Disease of the respiratory system
+J689,Unspecified respiratory condition due to chemicals gases fumes and vapors,,Respiratory conditions due to inhalation of chemicals gases fumes and vapours,Lung diseases due to external agents,Disease of the respiratory system
+J690,Pneumonitis due to inhalation of food and vomit,,Pneumonitis due to solids and liquids,Lung diseases due to external agents,Disease of the respiratory system
+J691,Pneumonitis due to inhalation of oils and essences,,Pneumonitis due to solids and liquids,Lung diseases due to external agents,Disease of the respiratory system
+J698,Pneumonitis due to inhalation of other solids and liquids,,Pneumonitis due to solids and liquids,Lung diseases due to external agents,Disease of the respiratory system
+J700,Acute pulmonary manifestations due to radiation,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Disease of the respiratory system
+J701,Chronic and other pulmonary manifestations due to radiation,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Disease of the respiratory system
+J702,Acute drug-induced interstitial lung disorders,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Disease of the respiratory system
+J703,Chronic drug-induced interstitial lung disorders,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Disease of the respiratory system
+J704,Drug-induced interstitial lung disorders unspecified,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Disease of the respiratory system
+J705,Respiratory conditions due to smoke inhalation,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Disease of the respiratory system
+J708,Respiratory conditions due to other specified external agents,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Disease of the respiratory system
+J709,Respiratory conditions due to unspecified external agent,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Disease of the respiratory system
+J80,Adult respiratory distress syndrome,,Adult respiratory distress syndrome,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J810,Acute pulmonary edema,,Pulmonary oedema,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J811,Chronic pulmonary edema,,Pulmonary oedema,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8281,Chronic eosinophilic pneumonia,Pulmonary eosinophilia not elsewhere classified,Pulmonary eosinophilia not elsewhere classified,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8282,Acute eosinophilic pneumonia,Pulmonary eosinophilia not elsewhere classified,Pulmonary eosinophilia not elsewhere classified,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8283,Eosinophilic asthma,Pulmonary eosinophilia not elsewhere classified,Pulmonary eosinophilia not elsewhere classified,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8289,Other pulmonary eosinophilia not elsewhere classified,Pulmonary eosinophilia not elsewhere classified,Pulmonary eosinophilia not elsewhere classified,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J828,Pulmonary eosinophilia not elsewhere classified,,Pulmonary eosinophilia not elsewhere classified,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8401,Alveolar proteinosis,Alveolar and parieto-alveolar conditions,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8402,Pulmonary alveolar microlithiasis,Alveolar and parieto-alveolar conditions,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8403,Idiopathic pulmonary hemosiderosis,Alveolar and parieto-alveolar conditions,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8409,Other alveolar and parieto-alveolar conditions,Alveolar and parieto-alveolar conditions,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J840,Alveolar and parieto-alveolar conditions,,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8410,Pulmonary fibrosis unspecified,Other interstitial pulmonary diseases with fibrosis,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8411,Idiopathic interstitial pneumonia,Other interstitial pulmonary diseases with fibrosis,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8417,Other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere,Other interstitial pulmonary diseases with fibrosis,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J841,Other interstitial pulmonary diseases with fibrosis,,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J842,Lymphoid interstitial pneumonia,,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8481,Lymphangioleiomyomatosis,Other specified interstitial pulmonary diseases,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8482,Adult pulmonary Langerhans cell histiocytosis,Other specified interstitial pulmonary diseases,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8483,Surfactant mutations of the lung,Other specified interstitial pulmonary diseases,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8484,Other interstitial lung diseases of childhood,Other specified interstitial pulmonary diseases,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J8489,Other specified interstitial pulmonary diseases,Other specified interstitial pulmonary diseases,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J848,Other specified interstitial pulmonary diseases,,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J849,Interstitial pulmonary disease unspecified,,Other interstitial pulmonary diseases,Other respiratory diseases principally affecting the interstitium,Disease of the respiratory system
+J850,Gangrene and necrosis of lung,,Abscess of lung and mediastinum,Suppurative and necrotic conditions of the lower respiratory tract,Disease of the respiratory system
+J851,Abscess of lung with pneumonia,,Abscess of lung and mediastinum,Suppurative and necrotic conditions of the lower respiratory tract,Disease of the respiratory system
+J852,Abscess of lung without pneumonia,,Abscess of lung and mediastinum,Suppurative and necrotic conditions of the lower respiratory tract,Disease of the respiratory system
+J853,Abscess of mediastinum,,Abscess of lung and mediastinum,Suppurative and necrotic conditions of the lower respiratory tract,Disease of the respiratory system
+J860,Pyothorax with fistula,,Pyothorax,Suppurative and necrotic conditions of the lower respiratory tract,Disease of the respiratory system
+J869,Pyothorax without fistula,,Pyothorax,Suppurative and necrotic conditions of the lower respiratory tract,Disease of the respiratory system
+J90,Pleural effusion not elsewhere classified,,Pleural effusion not elsewhere classified,Other diseases of the pleura,Disease of the respiratory system
+J910,Malignant pleural effusion,,Pleural effusion in conditions classified elsewhere,Other diseases of the pleura,Disease of the respiratory system
+J918,Pleural effusion in other conditions classified elsewhere,,Pleural effusion in conditions classified elsewhere,Other diseases of the pleura,Disease of the respiratory system
+J920,Pleural plaque with presence of asbestos,,Pleural plaque,Other diseases of the pleura,Disease of the respiratory system
+J929,Pleural plaque without asbestos,,Pleural plaque,Other diseases of the pleura,Disease of the respiratory system
+J930,Spontaneous tension pneumothorax,,Pneumothorax,Other diseases of the pleura,Disease of the respiratory system
+J9311,Primary spontaneous pneumothorax,Other spontaneous pneumothorax,Pneumothorax,Other diseases of the pleura,Disease of the respiratory system
+J9312,Secondary spontaneous pneumothorax,Other spontaneous pneumothorax,Pneumothorax,Other diseases of the pleura,Disease of the respiratory system
+J931,Other spontaneous pneumothorax,,Pneumothorax,Other diseases of the pleura,Disease of the respiratory system
+J9381,Chronic pneumothorax,Other pneumothorax and air leak,Pneumothorax,Other diseases of the pleura,Disease of the respiratory system
+J9382,Other air leak,Other pneumothorax and air leak,Pneumothorax,Other diseases of the pleura,Disease of the respiratory system
+J9383,Other pneumothorax,Other pneumothorax and air leak,Pneumothorax,Other diseases of the pleura,Disease of the respiratory system
+J938,Other pneumothorax and air leak,,Pneumothorax,Other diseases of the pleura,Disease of the respiratory system
+J939,Pneumothorax unspecified,,Pneumothorax,Other diseases of the pleura,Disease of the respiratory system
+J940,Chylous effusion,,Other pleural conditions,Other diseases of the pleura,Disease of the respiratory system
+J941,Fibrothorax,,Other pleural conditions,Other diseases of the pleura,Disease of the respiratory system
+J942,Hemothorax,,Other pleural conditions,Other diseases of the pleura,Disease of the respiratory system
+J948,Other specified pleural conditions,,Other pleural conditions,Other diseases of the pleura,Disease of the respiratory system
+J949,Pleural condition unspecified,,Other pleural conditions,Other diseases of the pleura,Disease of the respiratory system
+J9500,Unspecified tracheostomy complication,Tracheostomy complications,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9501,Hemorrhage from tracheostomy stoma,Tracheostomy complications,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9502,Infection of tracheostomy stoma,Tracheostomy complications,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9503,Malfunction of tracheostomy stoma,Tracheostomy complications,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9504,Tracheo-esophageal fistula following tracheostomy,Tracheostomy complications,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9509,Other tracheostomy complication,Tracheostomy complications,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J950,Tracheostomy complications,,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J951,Acute pulmonary insufficiency following thoracic surgery,,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J952,Acute pulmonary insufficiency following nonthoracic surgery,,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J953,Chronic pulmonary insufficiency following surgery,,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J954,Chemical pneumonitis due to anesthesia,,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J955,Postprocedural subglottic stenosis,,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9561,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a respiratory system procedure,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a procedure,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9562,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating other procedure,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a procedure,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J956,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a procedure,,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9571,Accidental puncture and laceration of a respiratory system organ or structure during a respiratory system procedure,Accidental puncture and laceration of a respiratory system organ or structure during a procedure,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9572,Accidental puncture and laceration of a respiratory system organ or structure during other procedure,Accidental puncture and laceration of a respiratory system organ or structure during a procedure,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J957,Accidental puncture and laceration of a respiratory system organ or structure during a procedure,,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9581,Postprocedural pneumothorax and air leak,Other intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9582,Postprocedural respiratory failure,Other intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9583,Postprocedural hemorrhage of a respiratory system organ or structure following a procedure,Other intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9584,Transfusion-related acute lung injury (TRALI),Other intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9585,Complication of respirator [ventilator],Other intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9586,Postprocedural hematoma and seroma of a respiratory system organ or structure following a procedure,Other intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9588,Other intraoperative complications of respiratory system not elsewhere classified,Other intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9589,Other postprocedural complications and disorders of respiratory system not elsewhere classified,Other intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J958,Other intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,,Postprocedural respiratory disorders not elsewhere classified,Intraoperative and postprocedural complications and disorders of respiratory system not elsewhere classified,Disease of the respiratory system
+J9600,Acute respiratory failure unspecified whether with hypoxia or hypercapnia,Acute respiratory failure,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9601,Acute respiratory failure with hypoxia,Acute respiratory failure,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9602,Acute respiratory failure with hypercapnia,Acute respiratory failure,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J960,Acute respiratory failure,,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9610,Chronic respiratory failure unspecified whether with hypoxia or hypercapnia,Chronic respiratory failure,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9611,Chronic respiratory failure with hypoxia,Chronic respiratory failure,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9612,Chronic respiratory failure with hypercapnia,Chronic respiratory failure,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J961,Chronic respiratory failure,,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9620,Acute and chronic respiratory failure unspecified whether with hypoxia or hypercapnia,Acute and chronic respiratory failure,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9621,Acute and chronic respiratory failure with hypoxia,Acute and chronic respiratory failure,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9622,Acute and chronic respiratory failure with hypercapnia,Acute and chronic respiratory failure,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J962,Acute and chronic respiratory failure,,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9690,Respiratory failure unspecified unspecified whether with hypoxia or hypercapnia,Respiratory failure unspecified,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9691,Respiratory failure unspecified with hypoxia,Respiratory failure unspecified,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9692,Respiratory failure unspecified with hypercapnia,Respiratory failure unspecified,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J969,Respiratory failure unspecified,,Respiratory failure not elsewhere classified,Other diseases of the respiratory system,Disease of the respiratory system
+J9801,Acute bronchospasm,Diseases of bronchus not elsewhere classified,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J9809,Other diseases of bronchus not elsewhere classified,Diseases of bronchus not elsewhere classified,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J980,Diseases of bronchus not elsewhere classified,,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J9811,Atelectasis,Pulmonary collapse,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J9819,Other pulmonary collapse,Pulmonary collapse,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J981,Pulmonary collapse,,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J982,Interstitial emphysema,,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J983,Compensatory emphysema,,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J984,Other disorders of lung,,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J9851,Mediastinitis,Diseases of mediastinum not elsewhere classified,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J9859,Other diseases of mediastinum not elsewhere classified,Diseases of mediastinum not elsewhere classified,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J985,Diseases of mediastinum not elsewhere classified,,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J986,Disorders of diaphragm,,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J988,Other specified respiratory disorders,,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J989,Respiratory disorder unspecified,,Other respiratory disorders,Other diseases of the respiratory system,Disease of the respiratory system
+J99,Respiratory disorders in diseases classified elsewhere,,Respiratory disorders in diseases classified elsewhere,Other diseases of the respiratory system,Disease of the respiratory system

@@ -1,0 +1,890 @@
+code,code_desc,p1,p2,p3,p4
+0010,cholera due to vibrio cholerae,,Cholera,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0011,cholera due to vibrio cholerae el tor,,Cholera,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0019,"cholera, unspecified",,Cholera,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0020,typhoid fever,,Typhoid and paratyphoid fevers,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0021,paratyphoid fever a,,Typhoid and paratyphoid fevers,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0022,paratyphoid fever b,,Typhoid and paratyphoid fevers,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0023,paratyphoid fever c,,Typhoid and paratyphoid fevers,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0029,"paratyphoid fever, unspecified",,Typhoid and paratyphoid fevers,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0030,salmonella gastroenteritis,,Other salmonella infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0031,salmonella septicemia,,Other salmonella infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00320,"localized salmonella infection, unspecified",Localized salmonella infections,Other salmonella infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00321,salmonella meningitis,Localized salmonella infections,Other salmonella infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00322,salmonella pneumonia,Localized salmonella infections,Other salmonella infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00323,salmonella arthritis,Localized salmonella infections,Other salmonella infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00324,salmonella osteomyelitis,Localized salmonella infections,Other salmonella infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00329,other localized salmonella infections,Localized salmonella infections,Other salmonella infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0038,other specified salmonella infections,,Other salmonella infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0039,"salmonella infection, unspecified",,Other salmonella infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0040,shigella dysenteriae,,Shigellosis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0041,shigella flexneri,,Shigellosis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0042,shigella boydii,,Shigellosis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0043,shigella sonnei,,Shigellosis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0048,other specified shigella infections,,Shigellosis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0049,"shigellosis, unspecified",,Shigellosis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0050,staphylococcal food poisoning,,Other food poisoning (bacterial),Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0051,botulism food poisoning,,Other food poisoning (bacterial),Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0052,food poisoning due to clostridium perfringens (c. welchii),,Other food poisoning (bacterial),Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0053,food poisoning due to other clostridia,,Other food poisoning (bacterial),Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0054,food poisoning due to vibrio parahaemolyticus,,Other food poisoning (bacterial),Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00581,food poisoning due to vibrio vulnificus,Other bacterial food poisoning,Other food poisoning (bacterial),Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00589,other bacterial food poisoning,Other bacterial food poisoning,Other food poisoning (bacterial),Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0059,"food poisoning, unspecified",,Other food poisoning (bacterial),Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0060,acute amebic dysentery without mention of abscess,,Amebiasis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0061,chronic intestinal amebiasis without mention of abscess,,Amebiasis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0062,amebic nondysenteric colitis,,Amebiasis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0063,amebic liver abscess,,Amebiasis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0064,amebic lung abscess,,Amebiasis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0065,amebic brain abscess,,Amebiasis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0066,amebic skin ulceration,,Amebiasis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0068,amebic infection of other sites,,Amebiasis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0069,"amebiasis, unspecified",,Amebiasis,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0070,balantidiasis,,Other protozoal intestinal diseases,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0071,giardiasis,,Other protozoal intestinal diseases,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0072,coccidiosis,,Other protozoal intestinal diseases,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0073,intestinal trichomoniasis,,Other protozoal intestinal diseases,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0074,cryptosporidiosis,,Other protozoal intestinal diseases,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0075,cyclosporiasis,,Other protozoal intestinal diseases,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0078,other specified protozoal intestinal diseases,,Other protozoal intestinal diseases,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0079,unspecified protozoal intestinal disease,,Other protozoal intestinal diseases,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00800,"intestinal infection due to e. coli, unspecified",Escherichia coli [E. coli],Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00801,intestinal infection due to enteropathogenic e. coli,Escherichia coli [E. coli],Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00802,intestinal infection due to enterotoxigenic e. coli,Escherichia coli [E. coli],Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00803,intestinal infection due to enteroinvasive e. coli,Escherichia coli [E. coli],Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00804,intestinal infection due to enterohemorrhagic e. coli,Escherichia coli [E. coli],Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00809,intestinal infection due to other intestinal e. coli infections,Escherichia coli [E. coli],Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0081,intestinal infection due to arizona group of paracolon bacilli,,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0082,intestinal infection due to aerobacter aerogenes,,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0083,intestinal infection due to proteus (mirabilis) (morganii),,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00841,intestinal infection due to staphylococcus,Other specified bacteria,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00842,intestinal infection due to pseudomonas,Other specified bacteria,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00843,intestinal infection due to campylobacter,Other specified bacteria,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00844,intestinal infection due to yersinia enterocolitica,Other specified bacteria,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00845,intestinal infection due to clostridium difficile,Other specified bacteria,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00846,intestinal infection due to other anaerobes,Other specified bacteria,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00847,intestinal infection due to other gram-negative bacteria,Other specified bacteria,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00849,intestinal infection due to other organisms,Other specified bacteria,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0085,"bacterial enteritis, unspecified",,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00861,enteritis due to rotavirus,Enteritis due to specified virus,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00862,enteritis due to adenovirus,Enteritis due to specified virus,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00863,enteritis due to norwalk virus,Enteritis due to specified virus,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00864,enteritis due to other small round viruses [srv's],Enteritis due to specified virus,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00865,enteritis due to calicivirus,Enteritis due to specified virus,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00866,enteritis due to astrovirus,Enteritis due to specified virus,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00867,enteritis due to enterovirus nec,Enteritis due to specified virus,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+00869,enteritis due to other viral enteritis,Enteritis due to specified virus,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0088,"intestinal infection due to other organism, not elsewhere classified",,Intestinal infections due to other organisms,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0090,"infectious colitis, enteritis, and gastroenteritis",,Ill-defined intestinal infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0091,"colitis, enteritis, and gastroenteritis of presumed infectious origin",,Ill-defined intestinal infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0092,infectious diarrhea,,Ill-defined intestinal infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0093,diarrhea of presumed infectious origin,,Ill-defined intestinal infections,Intestinal Infectious Diseases,Infectious And Parasitic Diseases
+0100,Primary tuberculous infection,,Primary tuberculous infection,Tuberculosis,Infectious And Parasitic Diseases
+0101,tuberculous pleurisy in primary progressive tuberculosis,,Primary tuberculous infection,Tuberculosis,Infectious And Parasitic Diseases
+0108,other primary progressive tuberculosis,,Primary tuberculous infection,Tuberculosis,Infectious And Parasitic Diseases
+0109,"primary tuberculous infection, unspecified, unspecified",,Primary tuberculous infection,Tuberculosis,Infectious And Parasitic Diseases
+0110,"tuberculosis of lung, infiltrative, unspecified",,Pulmonary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0111,"tuberculosis of lung, nodular, unspecified",,Pulmonary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0112,"tuberculosis of lung with cavitation, unspecified",,Pulmonary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0113,tuberculosis of bronchus,,Pulmonary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0114,tuberculous fibrosis of lung,,Pulmonary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0115,tuberculous bronchiectasis,,Pulmonary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0116,tuberculous pneumonia [any form],,Pulmonary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0117,tuberculous pneumothorax,,Pulmonary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0118,other specified pulmonary tuberculosis,,Pulmonary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0119,"pulmonary tuberculosis, unspecified",,Pulmonary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0120,tuberculous pleurisy,,Other respiratory tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0121,tuberculosis of intrathoracic lymph nodes,,Other respiratory tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0122,isolated tracheal or bronchial tuberculosis,,Other respiratory tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0123,tuberculous laryngitis,,Other respiratory tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0128,other specified respiratory tuberculosis,,Other respiratory tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0130,tuberculous meningitis,,Tuberculosis of meninges and central nervous system,Tuberculosis,Infectious And Parasitic Diseases
+0131,tuberculoma of meninges,,Tuberculosis of meninges and central nervous system,Tuberculosis,Infectious And Parasitic Diseases
+0132,tuberculoma of brain,,Tuberculosis of meninges and central nervous system,Tuberculosis,Infectious And Parasitic Diseases
+0133,tuberculous abscess of brain,,Tuberculosis of meninges and central nervous system,Tuberculosis,Infectious And Parasitic Diseases
+0134,tuberculoma of spinal cord,,Tuberculosis of meninges and central nervous system,Tuberculosis,Infectious And Parasitic Diseases
+0135,tuberculous abscess of spinal cord,,Tuberculosis of meninges and central nervous system,Tuberculosis,Infectious And Parasitic Diseases
+0136,tuberculous encephalitis or myelitis,,Tuberculosis of meninges and central nervous system,Tuberculosis,Infectious And Parasitic Diseases
+0138,other specified tuberculosis of central nervous system,,Tuberculosis of meninges and central nervous system,Tuberculosis,Infectious And Parasitic Diseases
+0139,unspecified tuberculosis of central nervous system,,Tuberculosis of meninges and central nervous system,Tuberculosis,Infectious And Parasitic Diseases
+0140,tuberculous peritonitis,,Tuberculosis of intestines peritoneum and mesenteric glands,Tuberculosis,Infectious And Parasitic Diseases
+0148,"other tuberculosis of intestines, peritoneum, and mesenteric glands",,Tuberculosis of intestines peritoneum and mesenteric glands,Tuberculosis,Infectious And Parasitic Diseases
+0150,tuberculosis of vertebral column,,Tuberculosis of bones and joints,Tuberculosis,Infectious And Parasitic Diseases
+0151,tuberculosis of hip,,Tuberculosis of bones and joints,Tuberculosis,Infectious And Parasitic Diseases
+0152,tuberculosis of knee,,Tuberculosis of bones and joints,Tuberculosis,Infectious And Parasitic Diseases
+0155,tuberculosis of limb bones,,Tuberculosis of bones and joints,Tuberculosis,Infectious And Parasitic Diseases
+0156,tuberculosis of mastoid,,Tuberculosis of bones and joints,Tuberculosis,Infectious And Parasitic Diseases
+0157,tuberculosis of other specified bone,,Tuberculosis of bones and joints,Tuberculosis,Infectious And Parasitic Diseases
+0158,tuberculosis of other specified joint,,Tuberculosis of bones and joints,Tuberculosis,Infectious And Parasitic Diseases
+0159,tuberculosis of unspecified bones and joints,,Tuberculosis of bones and joints,Tuberculosis,Infectious And Parasitic Diseases
+0160,tuberculosis of kidney,,Tuberculosis of genitourinary system,Tuberculosis,Infectious And Parasitic Diseases
+0161,tuberculosis of bladder,,Tuberculosis of genitourinary system,Tuberculosis,Infectious And Parasitic Diseases
+0162,tuberculosis of ureter,,Tuberculosis of genitourinary system,Tuberculosis,Infectious And Parasitic Diseases
+0163,tuberculosis of other urinary organs,,Tuberculosis of genitourinary system,Tuberculosis,Infectious And Parasitic Diseases
+0164,tuberculosis of epididymis,,Tuberculosis of genitourinary system,Tuberculosis,Infectious And Parasitic Diseases
+0165,tuberculosis of other male genital organs,,Tuberculosis of genitourinary system,Tuberculosis,Infectious And Parasitic Diseases
+0166,tuberculous oophoritis and salpingitis,,Tuberculosis of genitourinary system,Tuberculosis,Infectious And Parasitic Diseases
+0167,tuberculosis of other female genital organs,,Tuberculosis of genitourinary system,Tuberculosis,Infectious And Parasitic Diseases
+0169,"genitourinary tuberculosis, unspecified",,Tuberculosis of genitourinary system,Tuberculosis,Infectious And Parasitic Diseases
+0170,tuberculosis of skin and subcutaneous cellular tissue,,Tuberculosis of other organs,Tuberculosis,Infectious And Parasitic Diseases
+0171,erythema nodosum with hypersensitivity reaction in tuberculosis,,Tuberculosis of other organs,Tuberculosis,Infectious And Parasitic Diseases
+0172,tuberculosis of peripheral lymph nodes,,Tuberculosis of other organs,Tuberculosis,Infectious And Parasitic Diseases
+0173,tuberculosis of eye,,Tuberculosis of other organs,Tuberculosis,Infectious And Parasitic Diseases
+0174,tuberculosis of ear,,Tuberculosis of other organs,Tuberculosis,Infectious And Parasitic Diseases
+0175,tuberculosis of thyroid gland,,Tuberculosis of other organs,Tuberculosis,Infectious And Parasitic Diseases
+0176,tuberculosis of Adrenal glands,,Tuberculosis of other organs,Tuberculosis,Infectious And Parasitic Diseases
+0177,tuberculosis of Spleen,,Tuberculosis of other organs,Tuberculosis,Infectious And Parasitic Diseases
+0178,tuberculosis of Esophagus,,Tuberculosis of other organs,Tuberculosis,Infectious And Parasitic Diseases
+0179,tuberculosis of Other specified organs,,Tuberculosis of other organs,Tuberculosis,Infectious And Parasitic Diseases
+0180,tuberculosis of Acute miliary tuberculosis,,Miliary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0188,tuberculosis of Other specified miliary tuberculosis,,Miliary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0189,"Miliary tuberculosis, unspecified",,Miliary tuberculosis,Tuberculosis,Infectious And Parasitic Diseases
+0200,bubonic plague,,Plague,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0201,cellulocutaneous plague,,Plague,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0202,septicemic plague,,Plague,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0203,primary pneumonic plague,,Plague,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0204,secondary pneumonic plague,,Plague,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0205,"pneumonic plague, unspecified",,Plague,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0208,other specified types of plague,,Plague,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0209,"plague, unspecified",,Plague,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0210,ulceroglandular tularemia,,Tularemia,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0211,enteric tularemia,,Tularemia,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0212,pulmonary tularemia,,Tularemia,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0213,oculoglandular tularemia,,Tularemia,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0218,other specified tularemia,,Tularemia,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0219,unspecified tularemia,,Tularemia,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0220,cutaneous anthrax,,Anthrax,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0221,pulmonary anthrax,,Anthrax,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0222,gastrointestinal anthrax,,Anthrax,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0223,anthrax septicemia,,Anthrax,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0228,other specified manifestations of anthrax,,Anthrax,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0229,"anthrax, unspecified",,Anthrax,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0230,brucella melitensis,,Brucellosis,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0231,brucella abortus,,Brucellosis,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0232,brucella suis,,Brucellosis,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0233,brucella canis,,Brucellosis,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0238,other brucellosis,,Brucellosis,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0239,"brucellosis, unspecified",,Brucellosis,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+024,glanders,,Glanders,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+025,melioidosis,,Melioidosis,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0260,spirillary fever,,Rat-bite fever,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0261,streptobacillary fever,,Rat-bite fever,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0269,unspecified rat-bite fever,,Rat-bite fever,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0270,listeriosis,,Other zoonotic bacterial diseases,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0271,erysipelothrix infection,,Other zoonotic bacterial diseases,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0272,pasteurellosis,,Other zoonotic bacterial diseases,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0278,other specified zoonotic bacterial diseases,,Other zoonotic bacterial diseases,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0279,unspecified zoonotic bacterial disease,,Other zoonotic bacterial diseases,Zoonotic Bacterial Diseases,Infectious And Parasitic Diseases
+0300,lepromatous leprosy [type l],,Leprosy,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0301,tuberculoid leprosy [type t],,Leprosy,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0302,indeterminate leprosy [group i],,Leprosy,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0303,borderline leprosy [group b],,Leprosy,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0308,other specified leprosy,,Leprosy,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0309,"leprosy, unspecified",,Leprosy,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0310,pulmonary diseases due to other mycobacteria,,Diseases due to other mycobacteria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0311,cutaneous diseases due to other mycobacteria,,Diseases due to other mycobacteria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0312,disseminated due to other mycobacteria,,Diseases due to other mycobacteria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0318,other specified mycobacterial diseases,,Diseases due to other mycobacteria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0319,unspecified diseases due to mycobacteria,,Diseases due to other mycobacteria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0320,faucial diphtheria,,Diphtheria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0321,nasopharyngeal diphtheria,,Diphtheria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0322,anterior nasal diphtheria,,Diphtheria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0323,laryngeal diphtheria,,Diphtheria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03281,conjunctival diphtheria,Other specified diphtheria,Diphtheria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03282,diphtheritic myocarditis,Other specified diphtheria,Diphtheria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03283,diphtheritic peritonitis,Other specified diphtheria,Diphtheria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03284,diphtheritic cystitis,Other specified diphtheria,Diphtheria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03285,cutaneous diphtheria,Other specified diphtheria,Diphtheria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03289,other specified diphtheria,Other specified diphtheria,Diphtheria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0329,"diphtheria, unspecified",,Diphtheria,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0330,whooping cough due to bordetella pertussis [b. pertussis],,Whooping cough,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0331,whooping cough due to bordetella parapertussis [b. parapertussis],,Whooping cough,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0338,whooping cough due to other specified organism,,Whooping cough,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0339,"whooping cough, unspecified organism",,Whooping cough,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0341,scarlet fever,,Streptococcal sore throat and scarlet fever,Other Bacterial Diseases,Infectious And Parasitic Diseases
+035,erysipelas,,Erysipelas,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0360,meningococcal meningitis,,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0361,meningococcal encephalitis,,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0362,meningococcemia,,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0363,"waterhouse-friderichsen syndrome, meningococcal",,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03640,"meningococcal carditis, unspecified",Meningococcal carditis,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03641,meningococcal pericarditis,Meningococcal carditis,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03642,meningococcal endocarditis,Meningococcal carditis,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03643,meningococcal myocarditis,Meningococcal carditis,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03681,meningococcal optic neuritis,Other specified meningococcal infections,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03682,meningococcal arthropathy,Other specified meningococcal infections,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03689,other specified meningococcal infections,Other specified meningococcal infections,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0369,"meningococcal infection, unspecified",,Meningococcal infection,Other Bacterial Diseases,Infectious And Parasitic Diseases
+037,tetanus,,Tetanus,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0380,streptococcal septicemia,,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03810,"staphylococcal septicemia, unspecified",Staphylococcal septicemia,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03811,methicillin susceptible staphylococcus aureus septicemia,Staphylococcal septicemia,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03812,methicillin resistant staphylococcus aureus septicemia,Staphylococcal septicemia,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03819,other staphylococcal septicemia,Staphylococcal septicemia,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0382,pneumococcal septicemia [streptococcus pneumoniae septicemia],,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0383,septicemia due to anaerobes,,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03840,"septicemia due to gram-negative organism, unspecified",Septicemia due to other gram-negative organisms,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03841,septicemia due to hemophilus influenzae [h. influenzae],Septicemia due to other gram-negative organisms,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03842,septicemia due to escherichia coli [e. coli],Septicemia due to other gram-negative organisms,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03843,septicemia due to pseudomonas,Septicemia due to other gram-negative organisms,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03844,septicemia due to serratia,Septicemia due to other gram-negative organisms,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+03849,other septicemia due to gram-negative organisms,Septicemia due to other gram-negative organisms,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0388,other specified septicemias,,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0389,unspecified septicemia,,Septicemia,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0391,pulmonary actinomycotic infection,,Actinomycotic infections,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0392,abdominal actinomycotic infection,,Actinomycotic infections,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0393,cervicofacial actinomycotic infection,,Actinomycotic infections,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0394,madura foot,,Actinomycotic infections,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0398,actinomycotic infection of other specified sites,,Actinomycotic infections,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0399,actinomycotic infection of unspecified site,,Actinomycotic infections,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0400,gas gangrene,,Other bacterial diseases,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0401,rhinoscleroma,,Other bacterial diseases,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0403,necrobacillosis,,Other bacterial diseases,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04041,infant botulism,Other specified botulism,Other bacterial diseases,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04042,wound botulism,Other specified botulism,Other bacterial diseases,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04082,toxic shock syndrome,Other specified bacterial diseases,Other bacterial diseases,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04089,other specified bacterial diseases,Other specified bacterial diseases,Other bacterial diseases,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04100,"streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, unspecified",Streptococcus,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04101,"streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group a",Streptococcus,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04102,"streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group b",Streptococcus,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04103,"streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group c",Streptococcus,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04104,"streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group d [enterococcus]",Streptococcus,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04105,"streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group g",Streptococcus,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04109,"streptococcus infection in conditions classified elsewhere and of unspecified site, other streptococcus",Streptococcus,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04110,"staphylococcus infection in conditions classified elsewhere and of unspecified site, staphylococcus, unspecified",Staphylococcus,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04111,methicillin susceptible staphylococcus aureus in conditions classified elsewhere and of unspecified site,Staphylococcus,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04112,methicillin resistant staphylococcus aureus in conditions classified elsewhere and of unspecified site,Staphylococcus,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04119,"staphylococcus infection in conditions classified elsewhere and of unspecified site, other staphylococcus",Staphylococcus,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0412,pneumococcus infection in conditions classified elsewhere and of unspecified site,,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0413,friedländer's bacillus infection in conditions classified elsewhere and of unspecified site,,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04141,shiga toxin-producing escherichia coli [e. coli] (stec) o157,Escherichia coli [E.coli],Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04142,other specified shiga toxin-producing escherichia coli [e. coli] (stec),Escherichia coli [E.coli],Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04143,"shiga toxin-producing escherichia coli [e. coli] (stec), unspecified",Escherichia coli [E.coli],Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04149,other and unspecified escherichia coli [e. coli],Escherichia coli [E.coli],Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0415,hemophilus influenzae [h. influenzae] infection in conditions classified elsewhere and of unspecified site,,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0416,proteus (mirabilis) (morganii) infection in conditions classified elsewhere and of unspecified site,,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0417,pseudomonas infection in conditions classified elsewhere and of unspecified site,,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04181,"other specified bacterial infections in conditions classified elsewhere and of unspecified site, mycoplasma",Other specified bacterial infections,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04182,bacteroides fragilis,Other specified bacterial infections,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04183,"other specified bacterial infections in conditions classified elsewhere and of unspecified site, clostridium perfringens",Other specified bacterial infections,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04184,"other specified bacterial infections in conditions classified elsewhere and of unspecified site, other anaerobes",Other specified bacterial infections,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04185,"other specified bacterial infections in conditions classified elsewhere and of unspecified site, other gram-negative organisms",Other specified bacterial infections,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04186,helicobacter pylori [h. pylori],Other specified bacterial infections,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+04189,"other specified bacterial infections in conditions classified elsewhere and of unspecified site, other specified bacteria",Other specified bacterial infections,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+0419,"bacterial infection, unspecified, in conditions classified elsewhere and of unspecified site",,Bacterial infection in conditions classified elsewhere and of unspecified site,Other Bacterial Diseases,Infectious And Parasitic Diseases
+042,human immunodeficiency virus [hiv] disease,,Human immunodeficiency virus [HIV] disease,Human Immunodeficiency Virus,Infectious And Parasitic Diseases
+04500,"acute paralytic poliomyelitis specified as bulbar, poliovirus, unspecified type",Acute paralytic poliomyelitis specified as bulbar,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04501,"acute paralytic poliomyelitis specified as bulbar, poliovirus type i",Acute paralytic poliomyelitis specified as bulbar,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04502,"acute paralytic poliomyelitis specified as bulbar, poliovirus type ii",Acute paralytic poliomyelitis specified as bulbar,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04503,"acute paralytic poliomyelitis specified as bulbar, poliovirus type iii",Acute paralytic poliomyelitis specified as bulbar,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04510,"acute poliomyelitis with other paralysis, poliovirus, unspecified type",Acute poliomyelitis with other paralysis,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04511,"acute poliomyelitis with other paralysis, poliovirus type i",Acute poliomyelitis with other paralysis,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04512,"acute poliomyelitis with other paralysis, poliovirus type ii",Acute poliomyelitis with other paralysis,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04513,"acute poliomyelitis with other paralysis, poliovirus type iii",Acute poliomyelitis with other paralysis,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04520,"acute nonparalytic poliomyelitis, poliovirus, unspecified type",Acute nonparalytic poliomyelitis,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04521,"acute nonparalytic poliomyelitis, poliovirus type i",Acute nonparalytic poliomyelitis,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04522,"acute nonparalytic poliomyelitis, poliovirus type ii",Acute nonparalytic poliomyelitis,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04523,"acute nonparalytic poliomyelitis, poliovirus type iii",Acute nonparalytic poliomyelitis,Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04590,"acute poliomyelitis, unspecified, poliovirus, unspecified type","Acute poliomyelitis, unspecified",Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04591,"acute poliomyelitis, unspecified, poliovirus type i","Acute poliomyelitis, unspecified",Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04592,"acute poliomyelitis, unspecified, poliovirus type ii","Acute poliomyelitis, unspecified",Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04593,"acute poliomyelitis, unspecified, poliovirus type iii","Acute poliomyelitis, unspecified",Acute poliomyelitis,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0460,kuru,,Slow virus infection and prion diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04611,variant creutzfeldt-jakob disease,Jakob-Creutzfeldt disease,Slow virus infection and prion diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04619,other and unspecified creutzfeldt-jakob disease,Jakob-Creutzfeldt disease,Slow virus infection and prion diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0462,subacute sclerosing panencephalitis,,Slow virus infection and prion diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0463,progressive multifocal leukoencephalopathy,,Slow virus infection and prion diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04671,gerstmann-sträussler-scheinker syndrome,Other specified prion diseases of central nervous system,Slow virus infection and prion diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04672,fatal familial insomnia,Other specified prion diseases of central nervous system,Slow virus infection and prion diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+04679,other and unspecified prion disease of central nervous system,Other specified prion diseases of central nervous system,Slow virus infection and prion diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0468,other specified slow virus infection of central nervous system,,Slow virus infection and prion diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0469,unspecified slow virus infection of central nervous system,,Slow virus infection and prion diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0470,meningitis due to coxsackie virus,,Meningitis due to enterovirus,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0471,meningitis due to echo virus,,Meningitis due to enterovirus,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0478,other specified viral meningitis,,Meningitis due to enterovirus,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0479,unspecified viral meningitis,,Meningitis due to enterovirus,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+048,other enterovirus diseases of central nervous system,,Other enterovirus diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0490,lymphocytic choriomeningitis,,Other non-arthropod-borne viral diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0491,meningitis due to adenovirus,,Other non-arthropod-borne viral diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0498,other specified non-arthropod-borne viral diseases of central nervous system,,Other non-arthropod-borne viral diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0499,unspecified non-arthropod-borne viral diseases of central nervous system,,Other non-arthropod-borne viral diseases of central nervous system,Poliomyelitis And Other Non-Arthropod-Borne Viral Diseases Of Central Nervous System,Infectious And Parasitic Diseases
+0500,variola major,,Smallpox,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0501,alastrim,,Smallpox,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0502,modified smallpox,,Smallpox,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0509,"smallpox, unspecified",,Smallpox,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0511,pseudocowpox,,Cowpox and paravaccinia,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0512,contagious pustular dermatitis,,Cowpox and paravaccinia,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0519,"paravaccinia, unspecified",,Cowpox and paravaccinia,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0520,postvaricella encephalitis,,Chickenpox,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0521,varicella (hemorrhagic) pneumonitis,,Chickenpox,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0522,postvaricella myelitis,,Chickenpox,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0527,chickenpox with other specified complications,,Chickenpox,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0528,chickenpox with unspecified complication,,Chickenpox,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0529,varicella without mention of complication,,Chickenpox,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0530,herpes zoster with meningitis,,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05310,herpes zoster with unspecified nervous system complication,With other nervous system complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05311,geniculate herpes zoster,With other nervous system complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05312,postherpetic trigeminal neuralgia,With other nervous system complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05313,postherpetic polyneuropathy,With other nervous system complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05314,herpes zoster myelitis,With other nervous system complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05319,herpes zoster with other nervous system complications,With other nervous system complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05320,herpes zoster dermatitis of eyelid,With ophthalmic complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05321,herpes zoster keratoconjunctivitis,With ophthalmic complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05322,herpes zoster iridocyclitis,With ophthalmic complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05329,herpes zoster with other ophthalmic complications,With ophthalmic complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05371,otitis externa due to herpes zoster,With other specified complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05379,herpes zoster with other specified complications,With other specified complications,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0538,herpes zoster with unspecified complication,,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0539,herpes zoster without mention of complication,,Herpes zoster,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0540,eczema herpeticum,,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05410,"genital herpes, unspecified",Genital herpes,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05411,herpetic vulvovaginitis,Genital herpes,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05412,herpetic ulceration of vulva,Genital herpes,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05413,herpetic infection of penis,Genital herpes,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05419,other genital herpes,Genital herpes,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0542,herpetic gingivostomatitis,,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0543,herpetic meningoencephalitis,,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05440,herpes simplex with unspecified ophthalmic complication,With ophthalmic complications,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05441,herpes simplex dermatitis of eyelid,With ophthalmic complications,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05442,dendritic keratitis,With ophthalmic complications,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05443,herpes simplex disciform keratitis,With ophthalmic complications,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05444,herpes simplex iridocyclitis,With ophthalmic complications,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05449,herpes simplex with other ophthalmic complications,With ophthalmic complications,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0545,herpetic septicemia,,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0546,herpetic whitlow,,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05471,visceral herpes simplex,With other specified complications,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05472,herpes simplex meningitis,With other specified complications,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05473,herpes simplex otitis externa,With other specified complications,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05474,herpes simplex myelitis,With other specified complications,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05479,herpes simplex with other specified complications,With other specified complications,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0548,herpes simplex with unspecified complication,,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0549,herpes simplex without mention of complication,,Herpes simplex,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0550,postmeasles encephalitis,,Measles,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0551,postmeasles pneumonia,,Measles,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0552,postmeasles otitis media,,Measles,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05571,measles keratoconjunctivitis,With other specified complications,Measles,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05579,measles with other specified complications,With other specified complications,Measles,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0558,measles with unspecified complication,,Measles,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0559,measles without mention of complication,,Measles,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05600,rubella with unspecified neurological complication,With neurological complications,Rubella,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05601,encephalomyelitis due to rubella,With neurological complications,Rubella,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05609,rubella with other neurological complications,With neurological complications,Rubella,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05671,arthritis due to rubella,With other specified complications,Rubella,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05679,rubella with other specified complications,With other specified complications,Rubella,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0568,rubella with unspecified complications,,Rubella,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0569,rubella without mention of complication,,Rubella,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0570,erythema infectiosum (fifth disease),,Other viral exanthemata,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0578,other specified viral exanthemata,,Other viral exanthemata,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0579,"viral exanthem, unspecified",,Other viral exanthemata,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05810,"roseola infantum, unspecified",Roseola infantum,Other human herpesvirus,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05811,roseola infantum due to human herpesvirus 6,Roseola infantum,Other human herpesvirus,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05812,roseola infantum due to human herpesvirus 7,Roseola infantum,Other human herpesvirus,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05900,"orthopoxvirus infection, unspecified",Other orthopoxvirus infections,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05901,monkeypox,Other orthopoxvirus infections,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05909,other orthopoxvirus infections,Other orthopoxvirus infections,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05910,"parapoxvirus infection, unspecified",Other parapoxvirus infections,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05911,bovine stomatitis,Other parapoxvirus infections,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05912,sealpox,Other parapoxvirus infections,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05919,other parapoxvirus infections,Other parapoxvirus infections,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05920,"yatapoxvirus infection, unspecified",Yatapoxvirus infections,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05921,tanapox,Yatapoxvirus infections,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+05922,yaba monkey tumor virus,Yatapoxvirus infections,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0598,other poxvirus infections,,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0599,"poxvirus infections, unspecified",,Other poxvirus infections,Viral Diseases Accompanied By Exanthem,Infectious And Parasitic Diseases
+0600,sylvatic yellow fever,,Yellow fever,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0601,urban yellow fever,,Yellow fever,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0609,"yellow fever, unspecified",,Yellow fever,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0620,japanese encephalitis,,Mosquito-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0621,western equine encephalitis,,Mosquito-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0622,eastern equine encephalitis,,Mosquito-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0623,st. louis encephalitis,,Mosquito-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0624,australian encephalitis,,Mosquito-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0625,california virus encephalitis,,Mosquito-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0628,other specified mosquito-borne viral encephalitis,,Mosquito-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0629,"mosquito-borne viral encephalitis, unspecified",,Mosquito-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0630,russian spring-summer [taiga] encephalitis,,Tick-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0631,louping ill,,Tick-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0632,central european encephalitis,,Tick-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0638,other specified tick-borne viral encephalitis,,Tick-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0639,"tick-borne viral encephalitis, unspecified",,Tick-borne viral encephalitis,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+064,viral encephalitis transmitted by other and unspecified arthropods,,Viral encephalitis transmitted by other and unspecified arthropods,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0650,crimean hemorrhagic fever [chf congo virus],,Arthropod-borne hemorrhagic fever,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0651,omsk hemorrhagic fever,,Arthropod-borne hemorrhagic fever,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0652,kyasanur forest disease,,Arthropod-borne hemorrhagic fever,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0653,other tick-borne hemorrhagic fever,,Arthropod-borne hemorrhagic fever,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0654,mosquito-borne hemorrhagic fever,,Arthropod-borne hemorrhagic fever,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0658,other specified arthropod-borne hemorrhagic fever,,Arthropod-borne hemorrhagic fever,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0659,"arthropod-borne hemorrhagic fever, unspecified",,Arthropod-borne hemorrhagic fever,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0660,phlebotomus fever,,Other arthropod-borne viral diseases,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0661,tick-borne fever,,Other arthropod-borne viral diseases,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0662,venezuelan equine fever,,Other arthropod-borne viral diseases,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0663,other mosquito-borne fever,,Other arthropod-borne viral diseases,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+06640,"west nile fever, unspecified",West Nile fever,Other arthropod-borne viral diseases,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+06641,west nile fever with encephalitis,West Nile fever,Other arthropod-borne viral diseases,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+06642,west nile fever with other neurologic manifestation,West Nile fever,Other arthropod-borne viral diseases,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+06649,west nile fever with other complications,West Nile fever,Other arthropod-borne viral diseases,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0668,other specified arthropod-borne viral diseases,,Other arthropod-borne viral diseases,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0669,"arthropod-borne viral disease, unspecified",,Other arthropod-borne viral diseases,Arthropod-Borne Viral Diseases,Infectious And Parasitic Diseases
+0700,viral hepatitis a with hepatic coma,,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0701,viral hepatitis a without mention of hepatic coma,,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07020,"viral hepatitis b with hepatic coma, acute or unspecified, without mention of hepatitis delta",Viral hepatitis B with hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07021,"viral hepatitis b with hepatic coma, acute or unspecified, with hepatitis delta",Viral hepatitis B with hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07022,chronic viral hepatitis b with hepatic coma without hepatitis delta,Viral hepatitis B with hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07023,chronic viral hepatitis b with hepatic coma with hepatitis delta,Viral hepatitis B with hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07030,"viral hepatitis b without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta",Viral hepatitis B without mention of hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07031,"viral hepatitis b without mention of hepatic coma, acute or unspecified, with hepatitis delta",Viral hepatitis B without mention of hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07032,chronic viral hepatitis b without mention of hepatic coma without mention of hepatitis delta,Viral hepatitis B without mention of hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07033,chronic viral hepatitis b without mention of hepatic coma with hepatitis delta,Viral hepatitis B without mention of hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07041,acute hepatitis c with hepatic coma,Other specified viral hepatitis with hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07042,hepatitis delta without mention of active hepatitis b disease with hepatic coma,Other specified viral hepatitis with hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07043,hepatitis e with hepatic coma,Other specified viral hepatitis with hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07044,chronic hepatitis c with hepatic coma,Other specified viral hepatitis with hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07049,other specified viral hepatitis with hepatic coma,Other specified viral hepatitis with hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07051,acute hepatitis c without mention of hepatic coma,Other specified viral hepatitis without mention of hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07052,hepatitis delta without mention of active hepatitis b disease or hepatic coma,Other specified viral hepatitis without mention of hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07053,hepatitis e without mention of hepatic coma,Other specified viral hepatitis without mention of hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07054,chronic hepatitis c without mention of hepatic coma,Other specified viral hepatitis without mention of hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07059,other specified viral hepatitis without mention of hepatic coma,Other specified viral hepatitis without mention of hepatic coma,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0706,unspecified viral hepatitis with hepatic coma,,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07070,unspecified viral hepatitis c without hepatic coma,Unspecified viral hepatitis C,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07071,unspecified viral hepatitis c with hepatic coma,Unspecified viral hepatitis C,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0709,unspecified viral hepatitis without mention of hepatic coma,,Viral hepatitis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+071,rabies,,Rabies,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0720,mumps orchitis,,Mumps,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0721,mumps meningitis,,Mumps,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0722,mumps encephalitis,,Mumps,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0723,mumps pancreatitis,,Mumps,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07271,mumps hepatitis,Mumps with other specified complications,Mumps,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07272,mumps polyneuropathy,Mumps with other specified complications,Mumps,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07279,other mumps with other specified complications,Mumps with other specified complications,Mumps,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0728,mumps with unspecified complication,,Mumps,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0729,mumps without mention of complication,,Mumps,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0730,ornithosis with pneumonia,,Ornithosis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0737,ornithosis with other specified complications,,Ornithosis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0738,ornithosis with unspecified complication,,Ornithosis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0739,"ornithosis, unspecified",,Ornithosis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0740,herpangina,,Specific diseases due to coxsackie virus,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0741,epidemic pleurodynia,,Specific diseases due to coxsackie virus,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07420,"coxsackie carditis, unspecified",Coxsackie carditis,Specific diseases due to coxsackie virus,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07421,coxsackie pericarditis,Coxsackie carditis,Specific diseases due to coxsackie virus,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07422,coxsackie endocarditis,Coxsackie carditis,Specific diseases due to coxsackie virus,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07423,coxsackie myocarditis,Coxsackie carditis,Specific diseases due to coxsackie virus,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0743,"hand, foot, and mouth disease",,Specific diseases due to coxsackie virus,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0748,other specified diseases due to coxsackie virus,,Specific diseases due to coxsackie virus,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+075,infectious mononucleosis,,Infectious mononucleosis,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0760,"trachoma, initial stage",,Trachoma,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0761,"trachoma, active stage",,Trachoma,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0769,"trachoma, unspecified",,Trachoma,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0770,inclusion conjunctivitis,,Other diseases of conjunctiva due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0771,epidemic keratoconjunctivitis,,Other diseases of conjunctiva due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0772,pharyngoconjunctival fever,,Other diseases of conjunctiva due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0773,other adenoviral conjunctivitis,,Other diseases of conjunctiva due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0774,epidemic hemorrhagic conjunctivitis,,Other diseases of conjunctiva due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0778,other viral conjunctivitis,,Other diseases of conjunctiva due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07798,unspecified diseases of conjunctiva due to chlamydiae,Unspecified diseases of conjunctiva due to viruses and Chlamydiae,Other diseases of conjunctiva due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07799,unspecified diseases of conjunctiva due to viruses,Unspecified diseases of conjunctiva due to viruses and Chlamydiae,Other diseases of conjunctiva due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0780,molluscum contagiosum,,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07810,"viral warts, unspecified",Viral warts,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07811,condyloma acuminatum,Viral warts,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07812,plantar wart,Viral warts,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07819,other specified viral warts,Viral warts,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0782,sweating fever,,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0783,cat-scratch disease,,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0784,foot and mouth disease,,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0785,cytomegaloviral disease,,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0786,hemorrhagic nephrosonephritis,,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0787,arenaviral hemorrhagic fever,,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07881,epidemic vertigo,Other specified diseases due to viruses and Chlamydiae,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07888,other specified diseases due to chlamydiae,Other specified diseases due to viruses and Chlamydiae,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07889,other specified diseases due to viruses,Other specified diseases due to viruses and Chlamydiae,Other diseases due to viruses and chlamydiae,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0790,adenovirus infection in conditions classified elsewhere and of unspecified site,,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0791,echo virus infection in conditions classified elsewhere and of unspecified site,,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0792,coxsackie virus infection in conditions classified elsewhere and of unspecified site,,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0793,rhinovirus infection in conditions classified elsewhere and of unspecified site,,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0794,human papillomavirus in conditions classified elsewhere and of unspecified site,,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07950,"retrovirus, unspecified",Retrovirus,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07951,"human t-cell lymphotrophic virus, type i [htlv-i]",Retrovirus,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07952,"human t-cell lymphotrophic virus, type ii [htlv-ii]",Retrovirus,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07953,"human immunodeficiency virus, type 2 [hiv-2]",Retrovirus,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07959,other specified retrovirus,Retrovirus,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+0796,respiratory syncytial virus (rsv),,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07981,hantavirus infection,Other specified viral and Chlamydial infections,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07982,sars-associated coronavirus,Other specified viral and Chlamydial infections,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07983,parvovirus b19,Other specified viral and Chlamydial infections,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07988,other specified chlamydial infection,Other specified viral and Chlamydial infections,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07989,other specified viral infection,Other specified viral and Chlamydial infections,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07998,unspecified chlamydial infection,Unspecified viral and Chlamydial infections,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+07999,unspecified viral infection,Unspecified viral and Chlamydial infections,Viral and chlamydial infection in conditions classified elsewhere and of unspecified site,Other Diseases Due To Viruses And Chlamydiae,Infectious And Parasitic Diseases
+080,louse-borne (epidemic) typhus,,Louse-borne (epidemic) typhus,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0810,murine (endemic) typhus,,Other typhus,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0811,brill's disease,,Other typhus,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0812,scrub typhus,,Other typhus,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0819,"typhus, unspecified",,Other typhus,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0820,spotted fevers,,Tick-borne rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0821,boutonneuse fever,,Tick-borne rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0822,north asian tick fever,,Tick-borne rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0823,queensland tick typhus,,Tick-borne rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+08240,"ehrlichiosis, unspecified",Ehrlichiosis,Tick-borne rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+08241,ehrlichiosis chafeensis [e. chafeensis],Ehrlichiosis,Tick-borne rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+08249,other ehrlichiosis,Ehrlichiosis,Tick-borne rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0828,other specified tick-borne rickettsioses,,Tick-borne rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0829,"tick-borne rickettsiosis, unspecified",,Tick-borne rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0830,q fever,,Other rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0831,trench fever,,Other rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0832,rickettsialpox,,Other rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0838,other specified rickettsioses,,Other rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0839,"rickettsiosis, unspecified",,Other rickettsioses,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0840,falciparum malaria [malignant tertian],,Malaria,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0841,vivax malaria [benign tertian],,Malaria,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0842,quartan malaria,,Malaria,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0843,ovale malaria,,Malaria,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0844,other malaria,,Malaria,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0845,mixed malaria,,Malaria,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0846,"malaria, unspecified",,Malaria,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0847,induced malaria,,Malaria,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0848,blackwater fever,,Malaria,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0849,other pernicious complications of malaria,,Malaria,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0850,visceral [kala-azar] leishmaniasis,,Leishmaniasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0851,"cutaneous leishmaniasis, urban",,Leishmaniasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0852,"cutaneous leishmaniasis, asian desert",,Leishmaniasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0853,"cutaneous leishmaniasis, ethiopian",,Leishmaniasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0854,"cutaneous leishmaniasis, american",,Leishmaniasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0855,"mucocutaneous leishmaniasis, (american)",,Leishmaniasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0859,"leishmaniasis, unspecified",,Leishmaniasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0860,chagas' disease with heart involvement,,Trypanosomiasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0861,chagas' disease with other organ involvement,,Trypanosomiasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0862,chagas' disease without mention of organ involvement,,Trypanosomiasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0863,gambian trypanosomiasis,,Trypanosomiasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0864,rhodesian trypanosomiasis,,Trypanosomiasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0865,"african trypanosomiasis, unspecified",,Trypanosomiasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0869,"trypanosomiasis, unspecified",,Trypanosomiasis,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0870,"relapsing fever, louse-borne",,Relapsing fever,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0871,"relapsing fever, tick-borne",,Relapsing fever,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0879,"relapsing fever, unspecified",,Relapsing fever,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0880,bartonellosis,,Other arthropod-borne diseases,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+08881,lyme disease,Other specified arthropod-borne diseases,Other arthropod-borne diseases,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+08882,babesiosis,Other specified arthropod-borne diseases,Other arthropod-borne diseases,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+08889,"other specified arthropod-borne diseases, other",Other specified arthropod-borne diseases,Other arthropod-borne diseases,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0889,"arthropod-borne disease, unspecified",,Other arthropod-borne diseases,Rickettsioses And Other Arthropod-Borne Diseases,Infectious And Parasitic Diseases
+0900,"early congenital syphilis, symptomatic",,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0901,"early congenital syphilis, latent",,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0902,"early congenital syphilis, unspecified",,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0903,syphilitic interstitial keratitis,,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09040,"juvenile neurosyphilis, unspecified",Juvenile neurosyphilis,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09041,congenital syphilitic encephalitis,Juvenile neurosyphilis,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09042,congenital syphilitic meningitis,Juvenile neurosyphilis,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09049,other juvenile neurosyphilis,Juvenile neurosyphilis,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0905,"other late congenital syphilis, symptomatic",,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0906,"late congenital syphilis, latent",,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0907,"late congenital syphilis, unspecified",,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0909,"congenital syphilis, unspecified",,Congenital syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0910,genital syphilis (primary),,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0911,primary anal syphilis,,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0912,other primary syphilis,,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0913,secondary syphilis of skin or mucous membranes,,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0914,adenopathy due to secondary syphilis,,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09150,"syphilitic uveitis, unspecified",Uveitis due to secondary syphilis,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09151,syphilitic chorioretinitis (secondary),Uveitis due to secondary syphilis,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09152,syphilitic iridocyclitis (secondary),Uveitis due to secondary syphilis,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09161,secondary syphilitic periostitis,Secondary syphilis of viscera and bone,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09162,secondary syphilitic hepatitis,Secondary syphilis of viscera and bone,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09169,secondary syphilis of other viscera,Secondary syphilis of viscera and bone,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0917,"secondary syphilis, relapse",,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09181,acute syphilitic meningitis (secondary),Other forms of secondary syphilis,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09182,syphilitic alopecia,Other forms of secondary syphilis,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09189,other forms of secondary syphilis,Other forms of secondary syphilis,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0919,unspecified secondary syphilis,,Early syphilis symptomatic,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0920,"early syphilis, latent, serological relapse after treatment",,Early syphilis latent,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0929,"early syphilis, latent, unspecified",,Early syphilis latent,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0930,"aneurysm of aorta, specified as syphilitic",,Cardiovascular syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0931,syphilitic aortitis,,Cardiovascular syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09320,"syphilitic endocarditis of valve, unspecified",Syphilitic endocarditis,Cardiovascular syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09321,syphilitic endocarditis of mitral valve,Syphilitic endocarditis,Cardiovascular syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09322,syphilitic endocarditis of aortic valve,Syphilitic endocarditis,Cardiovascular syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09323,syphilitic endocarditis of tricuspid valve,Syphilitic endocarditis,Cardiovascular syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09324,syphilitic endocarditis of pulmonary valve,Syphilitic endocarditis,Cardiovascular syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09381,syphilitic pericarditis,Other specified cardiovascular syphilis,Cardiovascular syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09382,syphilitic myocarditis,Other specified cardiovascular syphilis,Cardiovascular syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09389,other specified cardiovascular syphilis,Other specified cardiovascular syphilis,Cardiovascular syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0939,"cardiovascular syphilis, unspecified",,Cardiovascular syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0940,tabes dorsalis,,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0941,general paresis,,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0942,syphilitic meningitis,,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0943,asymptomatic neurosyphilis,,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09481,syphilitic encephalitis,Other specified neurosyphilis,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09482,syphilitic parkinsonism,Other specified neurosyphilis,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09483,syphilitic disseminated retinochoroiditis,Other specified neurosyphilis,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09484,syphilitic optic atrophy,Other specified neurosyphilis,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09485,syphilitic retrobulbar neuritis,Other specified neurosyphilis,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09486,syphilitic acoustic neuritis,Other specified neurosyphilis,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09487,syphilitic ruptured cerebral aneurysm,Other specified neurosyphilis,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09489,other specified neurosyphilis,Other specified neurosyphilis,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0949,"neurosyphilis, unspecified",,Neurosyphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0950,syphilitic episcleritis,,Other forms of late syphilis with symptoms,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0951,syphilis of lung,,Other forms of late syphilis with symptoms,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0952,syphilitic peritonitis,,Other forms of late syphilis with symptoms,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0953,syphilis of liver,,Other forms of late syphilis with symptoms,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0954,syphilis of kidney,,Other forms of late syphilis with symptoms,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0955,syphilis of bone,,Other forms of late syphilis with symptoms,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0956,syphilis of muscle,,Other forms of late syphilis with symptoms,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0957,"syphilis of synovium, tendon, and bursa",,Other forms of late syphilis with symptoms,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0958,other specified forms of late symptomatic syphilis,,Other forms of late syphilis with symptoms,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0959,"late symptomatic syphilis, unspecified",,Other forms of late syphilis with symptoms,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+096,"late syphilis, latent",,"Late syphilis, latent",Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0970,"late syphilis, unspecified",,Other and unspecified syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0971,"latent syphilis, unspecified",,Other and unspecified syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0979,"syphilis, unspecified",,Other and unspecified syphilis,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0980,gonococcal infection (acute) of lower genitourinary tract,,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09810,"gonococcal infection (acute) of upper genitourinary tract, site unspecified","Acute, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09811,gonococcal cystitis (acute),"Acute, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09812,gonococcal prostatitis (acute),"Acute, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09813,gonococcal epididymo-orchitis (acute),"Acute, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09814,gonococcal seminal vesiculitis (acute),"Acute, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09815,gonococcal cervicitis (acute),"Acute, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09816,gonococcal endometritis (acute),"Acute, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09817,"gonococcal salpingitis, specified as acute","Acute, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09819,other gonococcal infection (acute) of upper genitourinary tract,"Acute, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0982,"gonococcal infection, chronic, of lower genitourinary tract",,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09830,"chronic gonococcal infection of upper genitourinary tract, site unspecified","Chronic, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09831,"gonococcal cystitis, chronic","Chronic, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09832,"gonococcal prostatitis, chronic","Chronic, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09833,"gonococcal epididymo-orchitis, chronic","Chronic, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09834,"gonococcal seminal vesiculitis, chronic","Chronic, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09835,"gonococcal cervicitis, chronic","Chronic, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09836,"gonococcal endometritis, chronic","Chronic, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09837,gonococcal salpingitis (chronic),"Chronic, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09839,other chronic gonococcal infection of upper genitourinary tract,"Chronic, of upper genitourinary tract",Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09840,gonococcal conjunctivitis (neonatorum),Gonococcal infection of eye,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09841,gonococcal iridocyclitis,Gonococcal infection of eye,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09842,gonococcal endophthalmia,Gonococcal infection of eye,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09843,gonococcal keratitis,Gonococcal infection of eye,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09849,other gonococcal infection of eye,Gonococcal infection of eye,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09850,gonococcal arthritis,Gonococcal infection of joint,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09851,gonococcal synovitis and tenosynovitis,Gonococcal infection of joint,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09852,gonococcal bursitis,Gonococcal infection of joint,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09853,gonococcal spondylitis,Gonococcal infection of joint,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09859,other gonococcal infection of joint,Gonococcal infection of joint,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0986,gonococcal infection of pharynx,,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0987,gonococcal infection of anus and rectum,,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09881,gonococcal keratosis (blennorrhagica),Gonococcal infection of other specified sites,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09882,gonococcal meningitis,Gonococcal infection of other specified sites,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09883,gonococcal pericarditis,Gonococcal infection of other specified sites,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09884,gonococcal endocarditis,Gonococcal infection of other specified sites,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09885,other gonococcal heart disease,Gonococcal infection of other specified sites,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09886,gonococcal peritonitis,Gonococcal infection of other specified sites,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09889,gonococcal infection of other specified sites,Gonococcal infection of other specified sites,Gonococcal infections,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0990,chancroid,,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0991,lymphogranuloma venereum,,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0992,granuloma inguinale,,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09950,"other venereal diseases due to chlamydia trachomatis, unspecified site",Other venereal diseases due to Chlamydia trachomatis,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09951,"other venereal diseases due to chlamydia trachomatis, pharynx",Other venereal diseases due to Chlamydia trachomatis,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09952,"other venereal diseases due to chlamydia trachomatis, anus and rectum",Other venereal diseases due to Chlamydia trachomatis,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09953,"other venereal diseases due to chlamydia trachomatis, lower genitourinary sites",Other venereal diseases due to Chlamydia trachomatis,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09954,"other venereal diseases due to chlamydia trachomatis, other genitourinary sites",Other venereal diseases due to Chlamydia trachomatis,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09955,"other venereal diseases due to chlamydia trachomatis, unspecified genitourinary site",Other venereal diseases due to Chlamydia trachomatis,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09956,"other venereal diseases due to chlamydia trachomatis, peritoneum",Other venereal diseases due to Chlamydia trachomatis,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+09959,"other venereal diseases due to chlamydia trachomatis, other specified site",Other venereal diseases due to Chlamydia trachomatis,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0998,other specified venereal diseases,,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+0999,"venereal disease, unspecified",,Other venereal diseases,Syphilis And Other Venereal Diseases,Infectious And Parasitic Diseases
+1000,leptospirosis icterohemorrhagica,,Leptospirosis,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+10081,leptospiral meningitis (aseptic),Other specified leptospiral infections,Leptospirosis,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+10089,other specified leptospiral infections,Other specified leptospiral infections,Leptospirosis,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1009,"leptospirosis, unspecified",,Leptospirosis,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+101,vincent's angina,,Vincent's angina,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1020,initial lesions of yaws,,Yaws,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1021,multiple papillomata due to yaws and wet crab yaws,,Yaws,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1022,other early skin lesions of yaws,,Yaws,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1023,hyperkeratosis due to yaws,,Yaws,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1024,gummata and ulcers due to yaws,,Yaws,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1025,gangosa,,Yaws,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1026,bone and joint lesions due to yaws,,Yaws,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1027,other manifestations of yaws,,Yaws,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1028,latent yaws,,Yaws,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1029,"yaws, unspecified",,Yaws,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1030,primary lesions of pinta,,Pinta,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1031,intermediate lesions of pinta,,Pinta,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1032,late lesions of pinta,,Pinta,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1033,mixed lesions of pinta,,Pinta,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1039,"pinta, unspecified",,Pinta,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1040,nonvenereal endemic syphilis,,Other spirochetal infection,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1048,other specified spirochetal infections,,Other spirochetal infection,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1049,"spirochetal infection, unspecified",,Other spirochetal infection,Other Spirochetal Diseases,Infectious And Parasitic Diseases
+1100,dermatophytosis of scalp and beard,,Dermatophytosis,Mycoses,Infectious And Parasitic Diseases
+1101,dermatophytosis of nail,,Dermatophytosis,Mycoses,Infectious And Parasitic Diseases
+1102,dermatophytosis of hand,,Dermatophytosis,Mycoses,Infectious And Parasitic Diseases
+1103,dermatophytosis of groin and perianal area,,Dermatophytosis,Mycoses,Infectious And Parasitic Diseases
+1104,dermatophytosis of foot,,Dermatophytosis,Mycoses,Infectious And Parasitic Diseases
+1105,dermatophytosis of the body,,Dermatophytosis,Mycoses,Infectious And Parasitic Diseases
+1106,deep seated dermatophytosis,,Dermatophytosis,Mycoses,Infectious And Parasitic Diseases
+1108,dermatophytosis of other specified sites,,Dermatophytosis,Mycoses,Infectious And Parasitic Diseases
+1109,dermatophytosis of unspecified site,,Dermatophytosis,Mycoses,Infectious And Parasitic Diseases
+1110,pityriasis versicolor,,Dermatomycosis other and unspecified,Mycoses,Infectious And Parasitic Diseases
+1111,tinea nigra,,Dermatomycosis other and unspecified,Mycoses,Infectious And Parasitic Diseases
+1112,tinea blanca,,Dermatomycosis other and unspecified,Mycoses,Infectious And Parasitic Diseases
+1113,black piedra,,Dermatomycosis other and unspecified,Mycoses,Infectious And Parasitic Diseases
+1118,other specified dermatomycoses,,Dermatomycosis other and unspecified,Mycoses,Infectious And Parasitic Diseases
+1119,"dermatomycosis, unspecified",,Dermatomycosis other and unspecified,Mycoses,Infectious And Parasitic Diseases
+1120,candidiasis of mouth,,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+1121,candidiasis of vulva and vagina,,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+1122,candidiasis of other urogenital sites,,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+1123,candidiasis of skin and nails,,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+1124,candidiasis of lung,,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+1125,disseminated candidiasis,,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+11281,candidal endocarditis,Of other specified sites,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+11282,candidal otitis externa,Of other specified sites,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+11283,candidal meningitis,Of other specified sites,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+11284,candidal esophagitis,Of other specified sites,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+11285,candidal enteritis,Of other specified sites,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+11289,other candidiasis of other specified sites,Of other specified sites,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+1129,candidiasis of unspecified site,,Candidiasis,Mycoses,Infectious And Parasitic Diseases
+1140,primary coccidioidomycosis (pulmonary),,Coccidioidomycosis,Mycoses,Infectious And Parasitic Diseases
+1141,primary extrapulmonary coccidioidomycosis,,Coccidioidomycosis,Mycoses,Infectious And Parasitic Diseases
+1142,coccidioidal meningitis,,Coccidioidomycosis,Mycoses,Infectious And Parasitic Diseases
+1143,other forms of progressive coccidioidomycosis,,Coccidioidomycosis,Mycoses,Infectious And Parasitic Diseases
+1144,chronic pulmonary coccidioidomycosis,,Coccidioidomycosis,Mycoses,Infectious And Parasitic Diseases
+1145,"pulmonary coccidioidomycosis, unspecified",,Coccidioidomycosis,Mycoses,Infectious And Parasitic Diseases
+1149,"coccidioidomycosis, unspecified",,Coccidioidomycosis,Mycoses,Infectious And Parasitic Diseases
+11500,"infection by histoplasma capsulatum, without mention of manifestation",Infection by Histoplasma capsulatum,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11501,"infection by histoplasma capsulatum, meningitis",Infection by Histoplasma capsulatum,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11502,"infection by histoplasma capsulatum, retinitis",Infection by Histoplasma capsulatum,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11503,"infection by histoplasma capsulatum, pericarditis",Infection by Histoplasma capsulatum,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11504,"infection by histoplasma capsulatum, endocarditis",Infection by Histoplasma capsulatum,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11505,"infection by histoplasma capsulatum, pneumonia",Infection by Histoplasma capsulatum,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11509,"infection by histoplasma capsulatum, other",Infection by Histoplasma capsulatum,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11510,"infection by histoplasma duboisii, without mention of manifestation",Infection by Histoplasma duboisii,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11511,"infection by histoplasma duboisii, meningitis",Infection by Histoplasma duboisii,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11512,"infection by histoplasma duboisii, retinitis",Infection by Histoplasma duboisii,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11513,"infection by histoplasma duboisii, pericarditis",Infection by Histoplasma duboisii,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11514,"infection by histoplasma duboisii, endocarditis",Infection by Histoplasma duboisii,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11515,"infection by histoplasma duboisii, pneumonia",Infection by Histoplasma duboisii,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11519,"infection by histoplasma duboisii, other",Infection by Histoplasma duboisii,Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11590,"histoplasmosis, unspecified, without mention of manifestation","Histoplasmosis, unspecified",Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11591,"histoplasmosis, unspecified, meningitis","Histoplasmosis, unspecified",Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11592,"histoplasmosis, unspecified, retinitis","Histoplasmosis, unspecified",Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11593,"histoplasmosis, unspecified, pericarditis","Histoplasmosis, unspecified",Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11594,"histoplasmosis, unspecified, endocarditis","Histoplasmosis, unspecified",Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11595,"histoplasmosis, unspecified, pneumonia","Histoplasmosis, unspecified",Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+11599,"histoplasmosis, unspecified, other","Histoplasmosis, unspecified",Histoplasmosis,Mycoses,Infectious And Parasitic Diseases
+1160,blastomycosis,,Blastomycotic infection,Mycoses,Infectious And Parasitic Diseases
+1161,paracoccidioidomycosis,,Blastomycotic infection,Mycoses,Infectious And Parasitic Diseases
+1162,lobomycosis,,Blastomycotic infection,Mycoses,Infectious And Parasitic Diseases
+1170,rhinosporidiosis,,Other mycoses,Mycoses,Infectious And Parasitic Diseases
+1171,sporotrichosis,,Other mycoses,Mycoses,Infectious And Parasitic Diseases
+1172,chromoblastomycosis,,Other mycoses,Mycoses,Infectious And Parasitic Diseases
+1173,aspergillosis,,Other mycoses,Mycoses,Infectious And Parasitic Diseases
+1174,mycotic mycetomas,,Other mycoses,Mycoses,Infectious And Parasitic Diseases
+1175,cryptococcosis,,Other mycoses,Mycoses,Infectious And Parasitic Diseases
+1176,allescheriosis [petriellidosis],,Other mycoses,Mycoses,Infectious And Parasitic Diseases
+1177,zygomycosis [phycomycosis or mucormycosis],,Other mycoses,Mycoses,Infectious And Parasitic Diseases
+1178,infection by dematiacious fungi [phaehyphomycosis],,Other mycoses,Mycoses,Infectious And Parasitic Diseases
+1179,other and unspecified mycoses,,Other mycoses,Mycoses,Infectious And Parasitic Diseases
+118,opportunistic mycoses,,Opportunistic mycoses,Mycoses,Infectious And Parasitic Diseases
+1200,schistosomiasis due to schistosoma haematobium,,Schistosomiasis (bilharziasis),Helminthiases,Infectious And Parasitic Diseases
+1201,schistosomiasis due to schistosoma mansoni,,Schistosomiasis (bilharziasis),Helminthiases,Infectious And Parasitic Diseases
+1202,schistosomiasis due to schistosoma japonicum,,Schistosomiasis (bilharziasis),Helminthiases,Infectious And Parasitic Diseases
+1203,cutaneous schistosomiasis,,Schistosomiasis (bilharziasis),Helminthiases,Infectious And Parasitic Diseases
+1208,other specified schistosomiasis,,Schistosomiasis (bilharziasis),Helminthiases,Infectious And Parasitic Diseases
+1209,"schistosomiasis, unspecified",,Schistosomiasis (bilharziasis),Helminthiases,Infectious And Parasitic Diseases
+1210,opisthorchiasis,,Other trematode infections,Helminthiases,Infectious And Parasitic Diseases
+1211,clonorchiasis,,Other trematode infections,Helminthiases,Infectious And Parasitic Diseases
+1212,paragonimiasis,,Other trematode infections,Helminthiases,Infectious And Parasitic Diseases
+1213,fascioliasis,,Other trematode infections,Helminthiases,Infectious And Parasitic Diseases
+1214,fasciolopsiasis,,Other trematode infections,Helminthiases,Infectious And Parasitic Diseases
+1215,metagonimiasis,,Other trematode infections,Helminthiases,Infectious And Parasitic Diseases
+1216,heterophyiasis,,Other trematode infections,Helminthiases,Infectious And Parasitic Diseases
+1218,other specified trematode infections,,Other trematode infections,Helminthiases,Infectious And Parasitic Diseases
+1219,"trematode infection, unspecified",,Other trematode infections,Helminthiases,Infectious And Parasitic Diseases
+1220,echinococcus granulosus infection of liver,,Echinococcosis,Helminthiases,Infectious And Parasitic Diseases
+1221,echinococcus granulosus infection of lung,,Echinococcosis,Helminthiases,Infectious And Parasitic Diseases
+1222,echinococcus granulosus infection of thyroid,,Echinococcosis,Helminthiases,Infectious And Parasitic Diseases
+1223,"echinococcus granulosus infection, other",,Echinococcosis,Helminthiases,Infectious And Parasitic Diseases
+1224,"echinococcus granulosus infection, unspecified",,Echinococcosis,Helminthiases,Infectious And Parasitic Diseases
+1225,echinococcus multilocularis infection of liver,,Echinococcosis,Helminthiases,Infectious And Parasitic Diseases
+1226,"echinococcus multilocularis infection, other",,Echinococcosis,Helminthiases,Infectious And Parasitic Diseases
+1227,"echinococcus multilocularis infection, unspecified",,Echinococcosis,Helminthiases,Infectious And Parasitic Diseases
+1228,"echinococcosis, unspecified, of liver",,Echinococcosis,Helminthiases,Infectious And Parasitic Diseases
+1229,"echinococcosis, other and unspecified",,Echinococcosis,Helminthiases,Infectious And Parasitic Diseases
+1230,"taenia solium infection, intestinal form",,Other cestode infection,Helminthiases,Infectious And Parasitic Diseases
+1231,cysticercosis,,Other cestode infection,Helminthiases,Infectious And Parasitic Diseases
+1232,taenia saginata infection,,Other cestode infection,Helminthiases,Infectious And Parasitic Diseases
+1233,"taeniasis, unspecified",,Other cestode infection,Helminthiases,Infectious And Parasitic Diseases
+1234,"diphyllobothriasis, intestinal",,Other cestode infection,Helminthiases,Infectious And Parasitic Diseases
+1235,sparganosis [larval diphyllobothriasis],,Other cestode infection,Helminthiases,Infectious And Parasitic Diseases
+1236,hymenolepiasis,,Other cestode infection,Helminthiases,Infectious And Parasitic Diseases
+1238,other specified cestode infection,,Other cestode infection,Helminthiases,Infectious And Parasitic Diseases
+1239,"cestode infection, unspecified",,Other cestode infection,Helminthiases,Infectious And Parasitic Diseases
+124,trichinosis,,Trichinosis,Helminthiases,Infectious And Parasitic Diseases
+1250,bancroftian filariasis,,Filarial infection and dracontiasis,Helminthiases,Infectious And Parasitic Diseases
+1251,malayan filariasis,,Filarial infection and dracontiasis,Helminthiases,Infectious And Parasitic Diseases
+1252,loiasis,,Filarial infection and dracontiasis,Helminthiases,Infectious And Parasitic Diseases
+1253,onchocerciasis,,Filarial infection and dracontiasis,Helminthiases,Infectious And Parasitic Diseases
+1254,dipetalonemiasis,,Filarial infection and dracontiasis,Helminthiases,Infectious And Parasitic Diseases
+1255,mansonella ozzardi infection,,Filarial infection and dracontiasis,Helminthiases,Infectious And Parasitic Diseases
+1256,other specified filariasis,,Filarial infection and dracontiasis,Helminthiases,Infectious And Parasitic Diseases
+1257,dracontiasis,,Filarial infection and dracontiasis,Helminthiases,Infectious And Parasitic Diseases
+1259,unspecified filariasis,,Filarial infection and dracontiasis,Helminthiases,Infectious And Parasitic Diseases
+1260,ancylostomiasis due to ancylostoma duodenale,,Ancylostomiasis and necatoriasis,Helminthiases,Infectious And Parasitic Diseases
+1261,necatoriasis due to necator americanus,,Ancylostomiasis and necatoriasis,Helminthiases,Infectious And Parasitic Diseases
+1262,ancylostomiasis due to ancylostoma braziliense,,Ancylostomiasis and necatoriasis,Helminthiases,Infectious And Parasitic Diseases
+1263,ancylostomiasis due to ancylostoma ceylanicum,,Ancylostomiasis and necatoriasis,Helminthiases,Infectious And Parasitic Diseases
+1268,other specified ancylostoma,,Ancylostomiasis and necatoriasis,Helminthiases,Infectious And Parasitic Diseases
+1269,"ancylostomiasis and necatoriasis, unspecified",,Ancylostomiasis and necatoriasis,Helminthiases,Infectious And Parasitic Diseases
+1270,ascariasis,,Other intestinal helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1271,anisakiasis,,Other intestinal helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1272,strongyloidiasis,,Other intestinal helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1273,trichuriasis,,Other intestinal helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1274,enterobiasis,,Other intestinal helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1275,capillariasis,,Other intestinal helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1276,trichostrongyliasis,,Other intestinal helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1277,other specified intestinal helminthiasis,,Other intestinal helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1278,mixed intestinal helminthiasis,,Other intestinal helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1279,"intestinal helminthiasis, unspecified",,Other intestinal helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1280,toxocariasis,,Other and unspecified helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1281,gnathostomiasis,,Other and unspecified helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1288,other specified helminthiasis,,Other and unspecified helminthiases,Helminthiases,Infectious And Parasitic Diseases
+1289,"helminth infection, unspecified",,Other and unspecified helminthiases,Helminthiases,Infectious And Parasitic Diseases
+129,"intestinal parasitism, unspecified",,"Intestinal parasitism, unspecified",Helminthiases,Infectious And Parasitic Diseases
+1300,meningoencephalitis due to toxoplasmosis,,Toxoplasmosis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1301,conjunctivitis due to toxoplasmosis,,Toxoplasmosis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1302,chorioretinitis due to toxoplasmosis,,Toxoplasmosis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1303,myocarditis due to toxoplasmosis,,Toxoplasmosis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1304,pneumonitis due to toxoplasmosis,,Toxoplasmosis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1305,hepatitis due to toxoplasmosis,,Toxoplasmosis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1307,toxoplasmosis of other specified sites,,Toxoplasmosis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1308,multisystemic disseminated toxoplasmosis,,Toxoplasmosis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1309,"toxoplasmosis, unspecified",,Toxoplasmosis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+13100,"urogenital trichomoniasis, unspecified",Urogenital trichomoniasis,Trichomoniasis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+13101,trichomonal vulvovaginitis,Urogenital trichomoniasis,Trichomoniasis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+13102,trichomonal urethritis,Urogenital trichomoniasis,Trichomoniasis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+13103,trichomonal prostatitis,Urogenital trichomoniasis,Trichomoniasis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+13109,other urogenital trichomoniasis,Urogenital trichomoniasis,Trichomoniasis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1318,trichomoniasis of other specified sites,,Trichomoniasis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1319,"trichomoniasis, unspecified",,Trichomoniasis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1320,pediculus capitis [head louse],,Pediculosis and phthirus infestation,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1321,pediculus corporis [body louse],,Pediculosis and phthirus infestation,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1322,phthirus pubis [pubic louse],,Pediculosis and phthirus infestation,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1323,mixed pediculosis infestation,,Pediculosis and phthirus infestation,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1329,"pediculosis, unspecified",,Pediculosis and phthirus infestation,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1330,scabies,,Acariasis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1338,other acariasis,,Acariasis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1339,"acariasis, unspecified",,Acariasis,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1340,myiasis,,Other infestation,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1341,other arthropod infestation,,Other infestation,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1342,hirudiniasis,,Other infestation,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1348,other specified infestations,,Other infestation,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1349,"infestation, unspecified",,Other infestation,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+13621,specific infection due to acanthamoeba,Specific infections by free-living amebae,Other and unspecified infectious and parasitic diseases,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+13629,other specific infections by free-living amebae,Specific infections by free-living amebae,Other and unspecified infectious and parasitic diseases,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1364,psorospermiasis,,Other and unspecified infectious and parasitic diseases,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1365,sarcosporidiosis,,Other and unspecified infectious and parasitic diseases,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1368,other specified infectious and parasitic diseases,,Other and unspecified infectious and parasitic diseases,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1369,unspecified infectious and parasitic diseases,,Other and unspecified infectious and parasitic diseases,Other Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1370,late effects of respiratory or unspecified tuberculosis,,Late effects of tuberculosis,Late Effects Of Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1371,late effects of central nervous system tuberculosis,,Late effects of tuberculosis,Late Effects Of Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1372,late effects of genitourinary tuberculosis,,Late effects of tuberculosis,Late Effects Of Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1373,late effects of tuberculosis of bones and joints,,Late effects of tuberculosis,Late Effects Of Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1374,late effects of tuberculosis of other specified organs,,Late effects of tuberculosis,Late Effects Of Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+138,late effects of acute poliomyelitis,,Late effects of acute poliomyelitis,Late Effects Of Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1390,late effects of viral encephalitis,,Late effects of other infectious and parasitic diseases,Late Effects Of Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1391,late effects of trachoma,,Late effects of other infectious and parasitic diseases,Late Effects Of Infectious And Parasitic Diseases,Infectious And Parasitic Diseases
+1398,late effects of other and unspecified infectious and parasitic diseases,,Late effects of other infectious and parasitic diseases,Late Effects Of Infectious And Parasitic Diseases,Infectious And Parasitic Diseases

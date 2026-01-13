@@ -1,0 +1,1005 @@
+code,code_desc,p1,p2,p3,p4,p5
+1A00,cholera,,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A01,intestinal infection due to other vibrio,,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A02,intestinal infections due to shigella,,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A03,intestinal infections due to escherichia coli,,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A030,enteropathogenic escherichia coli infection,,intestinal infections due to escherichia coli,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A031,enterotoxigenic escherichia coli infection,,intestinal infections due to escherichia coli,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A032,enteroinvasive escherichia coli infection,,intestinal infections due to escherichia coli,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A033,enterohaemorrhagic escherichia coli infection,,intestinal infections due to escherichia coli,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A03Y,intestinal infections due to other specified escherichia coli,,intestinal infections due to escherichia coli,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A03Z,"intestinal infections due to escherichia coli, unspecified",,intestinal infections due to escherichia coli,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A04,intestinal infections due to clostridioides difficile,,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A05,intestinal infections due to yersinia enterocolitica,,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A06,gastroenteritis due to campylobacter,,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A07,typhoid fever,,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A070,typhoid peritonitis,,typhoid fever,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A07Y,other specified typhoid fever,,typhoid fever,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A07Z,"typhoid fever, unspecified",,typhoid fever,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A08,paratyphoid fever,,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A09,infections due to other salmonella,,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A090,salmonella enteritis,,infections due to other salmonella,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A09Y,infections due to other salmonella in other organs,,infections due to other salmonella,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A09Z,"salmonella infection, unspecified",,infections due to other salmonella,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A0Y,other specified bacterial intestinal infections,,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A0Z,"bacterial intestinal infections, unspecified",,,bacterial intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A10,foodborne staphylococcal intoxication,,,bacterial foodborne intoxications,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A11,botulism,,,bacterial foodborne intoxications,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A110,foodborne intoxication by botulinum toxin,,botulism,bacterial foodborne intoxications,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A111,other forms of botulism,,botulism,bacterial foodborne intoxications,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A11Z,"botulism, unspecified",,botulism,bacterial foodborne intoxications,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A12,foodborne clostridium perfringens intoxication,,,bacterial foodborne intoxications,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A13,foodborne bacillus cereus intoxication,,,bacterial foodborne intoxications,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A1Y,other specified bacterial foodborne intoxications,,,bacterial foodborne intoxications,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A1Z,"bacterial foodborne intoxications, unspecified",,,bacterial foodborne intoxications,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A20,enteritis due to adenovirus,,,viral intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A21,gastroenteritis due to astrovirus,,,viral intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A22,gastroenteritis due to rotavirus,,,viral intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A23,enteritis due to norovirus,,,viral intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A24,intestinal infections due to cytomegalovirus,,,viral intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A2Y,other specified viral intestinal infections,,,viral intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A2Z,"viral intestinal infections, unspecified",,,viral intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A30,infections due to balantidium coli,,,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A31,giardiasis,,,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A32,cryptosporidiosis,,,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A33,cystoisosporiasis,,,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A330,cystoisosporiasis of small intestine,,cystoisosporiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A331,cystoisosporiasis of colon,,cystoisosporiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A33Y,other specified cystoisosporiasis,,cystoisosporiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A33Z,"cystoisosporiasis, unspecified",,cystoisosporiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A34,sarcocystosis,,,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A35,blastocystosis,,,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A36,amoebiasis,,,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A360,intestinal infections due to entamoeba,,amoebiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A3600,acute amoebiasis,intestinal infections due to entamoeba,amoebiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A3601,amoeboma of intestine,intestinal infections due to entamoeba,amoebiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A360Z,"intestinal infections due to entamoeba, unspecified",intestinal infections due to entamoeba,amoebiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A361,extraintestinal infections due to entamoeba,,amoebiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A3610,amoebic liver abscess,extraintestinal infections due to entamoeba,amoebiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A3611,amoebic lung abscess,extraintestinal infections due to entamoeba,amoebiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A3612,cutaneous amoebiasis,extraintestinal infections due to entamoeba,amoebiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A361Y,amoebiasis of other specified sites,extraintestinal infections due to entamoeba,amoebiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A36Z,"amoebiasis, unspecified",,amoebiasis,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A3Y,other specified protozoal intestinal infections,,,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A3Z,"protozoal intestinal infections, unspecified",,,protozoal intestinal infections,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A40,gastroenteritis or colitis without specification of infectious agent,,,,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A400,gastroenteritis or colitis without specification of origin,,,gastroenteritis or colitis without specification of infectious agent,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A40Z,infectious gastroenteritis or colitis without specification of infectious agent,,,gastroenteritis or colitis without specification of infectious agent,gastroenteritis or colitis of infectious origin,certain infectious or parasitic diseases
+1A60,congenital syphilis,,,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A600,"early congenital syphilis, symptomatic",,congenital syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A601,"early congenital syphilis, latent",,congenital syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A602,late congenital syphilitic oculopathy,,congenital syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A603,late congenital neurosyphilis,,congenital syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A604,"other late congenital syphilis, symptomatic",,congenital syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A605,"late congenital syphilis, latent",,congenital syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A60Z,"congenital syphilis, unspecified",,congenital syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A61,early syphilis,,,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A610,primary genital syphilis,,early syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A611,primary anal syphilis,,early syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A612,primary syphilis of other sites,,early syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A613,secondary syphilis of skin or mucous membranes,,early syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A614,secondary syphilis of other sites,,early syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A615,latent early syphilis,,early syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A61Y,other specified early syphilis,,early syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A61Z,"early syphilis, unspecified",,early syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A62,late syphilis,,,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A620,neurosyphilis,,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A6200,asymptomatic neurosyphilis,neurosyphilis,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A6201,symptomatic late neurosyphilis,neurosyphilis,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A620Z,"neurosyphilis, unspecified",neurosyphilis,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A621,cardiovascular late syphilis,,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A622,symptomatic late syphilis of other sites,,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A6220,ocular late syphilis,symptomatic late syphilis of other sites,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A6221,late syphilis involving the musculoskeletal system,symptomatic late syphilis of other sites,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A6222,late syphilis of skin or mucous membranes,symptomatic late syphilis of other sites,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A622Y,symptomatic late syphilis of other specified sites,symptomatic late syphilis of other sites,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A622Z,symptomatic late syphilis of unspecified site,symptomatic late syphilis of other sites,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A62Y,other specified late syphilis,,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A62Z,"late syphilis, unspecified",,late syphilis,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A63,"latent syphilis, unspecified as early or late",,,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A6Z,"syphilis, unspecified",,,syphilis,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A70,gonococcal genitourinary infection,,,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A700,gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,,gonococcal genitourinary infection,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A7000,gonorrhoea of penis,gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,gonococcal genitourinary infection,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A700Y,other specified gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,gonococcal genitourinary infection,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A700Z,"gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess, unspecified",gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,gonococcal genitourinary infection,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A701,gonococcal infection of lower genitourinary tract with periurethral or accessory gland abscess,,gonococcal genitourinary infection,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A70Y,gonococcal infection of other specified genitourinary organ,,gonococcal genitourinary infection,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A70Z,"gonococcal genitourinary infection, unspecified",,gonococcal genitourinary infection,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A71,gonococcal pelviperitonitis,,,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A72,gonococcal infection of other sites,,,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A720,gonococcal infection of musculoskeletal system,,gonococcal infection of other sites,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A721,gonococcal infection of rectum,,gonococcal infection of other sites,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A722,gonococcal infection of anus,,gonococcal infection of other sites,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A723,gonococcal pharyngitis,,gonococcal infection of other sites,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A724,gonococcal infection of eye,,gonococcal infection of other sites,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A72Y,gonococcal infection of other specified sites,,gonococcal infection of other sites,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A73,disseminated gonococcal infection,,,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A7Z,"gonococcal infection, unspecified",,,gonococcal infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A80,chlamydial lymphogranuloma,,,sexually transmissible infections due to chlamydia,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A81,non-ulcerative sexually transmitted chlamydial infection,,,sexually transmissible infections due to chlamydia,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A810,chlamydial infection of lower genitourinary tract,,non-ulcerative sexually transmitted chlamydial infection,sexually transmissible infections due to chlamydia,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A811,chlamydial infection of internal reproductive organs,,non-ulcerative sexually transmitted chlamydial infection,sexually transmissible infections due to chlamydia,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A81Y,non-ulcerative sexually transmitted chlamydial infection of other specified site,,non-ulcerative sexually transmitted chlamydial infection,sexually transmissible infections due to chlamydia,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A81Z,non-ulcerative sexually transmitted chlamydial infection of unspecified site,,non-ulcerative sexually transmitted chlamydial infection,sexually transmissible infections due to chlamydia,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A8Y,other specified sexually transmissible infections due to chlamydia,,,sexually transmissible infections due to chlamydia,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A8Z,"sexually transmissible infections due to chlamydia, unspecified",,,sexually transmissible infections due to chlamydia,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A90,chancroid,,,,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A91,granuloma inguinale,,,,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A92,trichomoniasis,,,,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A93,sexually transmissible infestations,,,,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A94,anogenital herpes simplex infection,,,,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A940,herpes simplex infection of genitalia or urogenital tract,,,anogenital herpes simplex infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A941,herpes simplex infection of perianal skin or rectum,,,anogenital herpes simplex infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A94Z,anogenital herpes simplex infection without further specification,,,anogenital herpes simplex infection,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A95,anogenital warts,,,,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A950,anal warts,,,anogenital warts,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A951,genital warts,,,anogenital warts,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A952,extragenital condylomata acuminata,,,anogenital warts,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A95Z,"anogenital warts, unspecified",,,anogenital warts,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A9Y,other specified predominantly sexually transmitted infections,,,,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1A9Z,"predominantly sexually transmitted infections, unspecified",,,,predominantly sexually transmitted infections,certain infectious or parasitic diseases
+1B10,tuberculosis of the respiratory system,,,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B100,"respiratory tuberculosis, confirmed",,tuberculosis of the respiratory system,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B101,"respiratory tuberculosis, not confirmed",,tuberculosis of the respiratory system,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B10Z,"respiratory tuberculosis, without mention of bacteriological or histological confirmation",,tuberculosis of the respiratory system,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B11,tuberculosis of the nervous system,,,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B110,tuberculous meningitis,,tuberculosis of the nervous system,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B111,tuberculous meningoencephalitis,,tuberculosis of the nervous system,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B112,meningeal tuberculoma,,tuberculosis of the nervous system,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B113,tuberculous granuloma of brain,,tuberculosis of the nervous system,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B11Y,tuberculosis of other specified part of nervous system,,tuberculosis of the nervous system,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B11Z,"tuberculosis of the nervous system, unspecified",,tuberculosis of the nervous system,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B12,tuberculosis of other systems and organs,,,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B120,tuberculosis of heart,,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B121,tuberculosis of eye,,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B122,tuberculosis of ear,,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B123,tuberculosis of endocrine glands,,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B124,tuberculosis of the musculoskeletal system,,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B1240,tuberculosis of bones or joints,tuberculosis of the musculoskeletal system,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B1241,tuberculous myositis,tuberculosis of the musculoskeletal system,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B124Y,tuberculosis of other specified part of the musculoskeletal system,tuberculosis of the musculoskeletal system,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B124Z,"tuberculosis of the musculoskeletal system, unspecified",tuberculosis of the musculoskeletal system,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B125,tuberculosis of the genitourinary system,,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B126,tuberculous peripheral lymphadenopathy,,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B127,tuberculosis of the digestive system,,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B128,cutaneous tuberculosis,,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B12Y,tuberculosis of other specified organ or site,,tuberculosis of other systems and organs,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B13,miliary tuberculosis,,,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B130,acute miliary tuberculosis of a single specified site,,miliary tuberculosis,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B131,acute miliary tuberculosis of multiple sites,,miliary tuberculosis,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B132,"acute miliary tuberculosis, unspecified site",,miliary tuberculosis,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B13Y,other specified miliary tuberculosis,,miliary tuberculosis,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B13Z,"miliary tuberculosis, unspecified",,miliary tuberculosis,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B14,latent tuberculosis,,,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B1Y,other specified tuberculosis,,,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B1Z,"tuberculosis, unspecified",,,tuberculosis,mycobacterial diseases,certain infectious or parasitic diseases
+1B20,leprosy,,,,mycobacterial diseases,certain infectious or parasitic diseases
+1B200,paucibacillary leprosy,,,leprosy,mycobacterial diseases,certain infectious or parasitic diseases
+1B201,multibacillary leprosy,,,leprosy,mycobacterial diseases,certain infectious or parasitic diseases
+1B202,leprosy reactions,,,leprosy,mycobacterial diseases,certain infectious or parasitic diseases
+1B2020,type i leprosy reaction,,leprosy reactions,leprosy,mycobacterial diseases,certain infectious or parasitic diseases
+1B2021,type ii leprosy reaction,,leprosy reactions,leprosy,mycobacterial diseases,certain infectious or parasitic diseases
+1B203,complications of leprosy,,,leprosy,mycobacterial diseases,certain infectious or parasitic diseases
+1B20Z,"leprosy, unspecified",,,leprosy,mycobacterial diseases,certain infectious or parasitic diseases
+1B21,infections due to non-tuberculous mycobacteria,,,,mycobacterial diseases,certain infectious or parasitic diseases
+1B210,pulmonary infection due to non-tuberculous mycobacterium,,,infections due to non-tuberculous mycobacteria,mycobacterial diseases,certain infectious or parasitic diseases
+1B211,non-tuberculous mycobacterial lymphadenitis,,,infections due to non-tuberculous mycobacteria,mycobacterial diseases,certain infectious or parasitic diseases
+1B212,cutaneous non-tuberculous mycobacterial infection,,,infections due to non-tuberculous mycobacteria,mycobacterial diseases,certain infectious or parasitic diseases
+1B2120,mycobacterium ulcerans infection,,cutaneous non-tuberculous mycobacterial infection,infections due to non-tuberculous mycobacteria,mycobacterial diseases,certain infectious or parasitic diseases
+1B212Y,cutaneous infection due to other specified non-tuberculous mycobacteria,,cutaneous non-tuberculous mycobacterial infection,infections due to non-tuberculous mycobacteria,mycobacterial diseases,certain infectious or parasitic diseases
+1B212Z,cutaneous infection due to unspecified non-tuberculous mycobacteria,,cutaneous non-tuberculous mycobacterial infection,infections due to non-tuberculous mycobacteria,mycobacterial diseases,certain infectious or parasitic diseases
+1B213,disseminated non-tuberculous mycobacterial infection,,,infections due to non-tuberculous mycobacteria,mycobacterial diseases,certain infectious or parasitic diseases
+1B214,gastrointestinal non-tuberculous mycobacterial infection,,,infections due to non-tuberculous mycobacteria,mycobacterial diseases,certain infectious or parasitic diseases
+1B21Y,non-tuberculous mycobacterial infection of other specified site,,,infections due to non-tuberculous mycobacteria,mycobacterial diseases,certain infectious or parasitic diseases
+1B21Z,non-tuberculous mycobacterial infection of unspecified site,,,infections due to non-tuberculous mycobacteria,mycobacterial diseases,certain infectious or parasitic diseases
+1B2Y,other specified mycobacterial diseases,,,,mycobacterial diseases,certain infectious or parasitic diseases
+1B2Z,"mycobacterial diseases, unspecified",,,,mycobacterial diseases,certain infectious or parasitic diseases
+1B40,acute rheumatic fever without mention of heart involvement,,,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B400,"rheumatic arthritis, acute or subacute",,acute rheumatic fever without mention of heart involvement,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B40Y,other specified acute rheumatic fever without mention of heart involvement,,acute rheumatic fever without mention of heart involvement,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B40Z,"acute rheumatic fever without mention of heart involvement, unspecified",,acute rheumatic fever without mention of heart involvement,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B41,acute rheumatic fever with heart involvement,,,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B410,acute rheumatic pericarditis,,acute rheumatic fever with heart involvement,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B411,acute rheumatic endocarditis,,acute rheumatic fever with heart involvement,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B4110,rheumatic aortitis,acute rheumatic endocarditis,acute rheumatic fever with heart involvement,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B411Y,other specified acute rheumatic endocarditis,acute rheumatic endocarditis,acute rheumatic fever with heart involvement,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B411Z,"acute rheumatic endocarditis, unspecified",acute rheumatic endocarditis,acute rheumatic fever with heart involvement,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B412,acute rheumatic myocarditis,,acute rheumatic fever with heart involvement,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B41Y,other acute rheumatic heart disease,,acute rheumatic fever with heart involvement,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B41Z,"acute rheumatic heart disease, unspecified",,acute rheumatic fever with heart involvement,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B42,rheumatic chorea,,,acute rheumatic fever,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B50,scarlet fever,,,,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B51,streptococcal pharyngitis,,,,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B53,meningitis due to streptococcus,,,,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B54,meningitis due to staphylococcus,,,,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B5Y,other specified staphylococcal or streptococcal diseases,,,,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B5Z,"staphylococcal or streptococcal diseases, unspecified",,,,certain staphylococcal or streptococcal diseases,certain infectious or parasitic diseases
+1B70,"bacterial cellulitis, erysipelas or lymphangitis",,,,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B700,erysipelas,,,"bacterial cellulitis, erysipelas or lymphangitis",pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B7000,erysipelas of face,,erysipelas,"bacterial cellulitis, erysipelas or lymphangitis",pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B7001,erysipelas of external ear,,erysipelas,"bacterial cellulitis, erysipelas or lymphangitis",pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B7002,erysipelas of lower limb,,erysipelas,"bacterial cellulitis, erysipelas or lymphangitis",pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B700Y,erysipelas of other specified site,,erysipelas,"bacterial cellulitis, erysipelas or lymphangitis",pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B700Z,"erysipelas, unspecified",,erysipelas,"bacterial cellulitis, erysipelas or lymphangitis",pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B701,streptococcal cellulitis of skin,,,"bacterial cellulitis, erysipelas or lymphangitis",pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B702,staphylococcal cellulitis of skin,,,"bacterial cellulitis, erysipelas or lymphangitis",pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B703,ascending bacterial lymphangitis,,,"bacterial cellulitis, erysipelas or lymphangitis",pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B70Y,bacterial cellulitis or lymphangitis due to other specified bacterium,,,"bacterial cellulitis, erysipelas or lymphangitis",pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B70Z,bacterial cellulitis or lymphangitis due to unspecified bacterium,,,"bacterial cellulitis, erysipelas or lymphangitis",pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B71,necrotising fasciitis,,,,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B710,streptococcal necrotising fasciitis,,,necrotising fasciitis,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B711,polymicrobial necrotising fasciitis,,,necrotising fasciitis,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B712,neonatal necrotising fasciitis,,,necrotising fasciitis,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B71Y,necrotising fasciitis due to other specified bacterial infection,,,necrotising fasciitis,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B71Z,"necrotising fasciitis, unspecified",,,necrotising fasciitis,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B72,impetigo,,,,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B720,bullous impetigo,,,impetigo,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B721,non-bullous impetigo,,,impetigo,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B722,secondary impetiginisation of the skin,,,impetigo,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B72Y,other specified impetigo,,,impetigo,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B72Z,"impetigo, unspecified",,,impetigo,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B73,ecthyma,,,,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B730,streptococcal ecthyma,,,ecthyma,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B731,staphylococcal ecthyma,,,ecthyma,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B732,ecthyma gangrenosum,,,ecthyma,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B73Y,other specified ecthyma,,,ecthyma,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B73Z,"ecthyma, unspecified",,,ecthyma,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B74,superficial bacterial folliculitis,,,,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B740,staphylococcus aureus superficial folliculitis,,,superficial bacterial folliculitis,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B74Y,superficial bacterial folliculitis due to other specified organism,,,superficial bacterial folliculitis,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B74Z,superficial bacterial folliculitis due to unspecified organism,,,superficial bacterial folliculitis,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B75,deep bacterial folliculitis or pyogenic abscess of the skin,,,,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B750,furuncle,,,deep bacterial folliculitis or pyogenic abscess of the skin,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B751,carbuncle,,,deep bacterial folliculitis or pyogenic abscess of the skin,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B752,furunculosis,,,deep bacterial folliculitis or pyogenic abscess of the skin,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B753,pyogenic abscess of the skin,,,deep bacterial folliculitis or pyogenic abscess of the skin,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B754,chronic deep bacterial folliculitis,,,deep bacterial folliculitis or pyogenic abscess of the skin,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B75Z,"deep bacterial folliculitis or pyogenic abscess of the skin, unspecified",,,deep bacterial folliculitis or pyogenic abscess of the skin,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B7Y,other specified pyogenic bacterial infection of skin or subcutaneous tissue,,,,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B7Z,"pyogenic bacterial infection of skin or subcutaneous tissue, unspecified",,,,pyogenic bacterial infections of the skin or subcutaneous tissues,certain infectious or parasitic diseases
+1B90,rat-bite fevers,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B900,spirillosis,,,rat-bite fevers,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B901,streptobacillosis,,,rat-bite fevers,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B91,leptospirosis,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B92,glanders,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B93,plague,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B930,bubonic plague,,,plague,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B931,cellulocutaneous plague,,,plague,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B932,pneumonic plague,,,plague,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B933,plague meningitis,,,plague,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B93Y,other specified plague,,,plague,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B93Z,"plague, unspecified",,,plague,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B94,tularaemia,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B940,ulceroglandular tularaemia,,,tularaemia,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B94Y,other specified tularaemia,,,tularaemia,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B94Z,"tularaemia, unspecified",,,tularaemia,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B95,brucellosis,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B96,erysipeloid,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B97,anthrax,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B98,cat-scratch disease,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B99,pasteurellosis,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B9A,extraintestinal yersiniosis,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1B9Z,unspecified zoonotic bacterial disease,,,,certain zoonotic bacterial diseases,certain infectious or parasitic diseases
+1C10,actinomycosis,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C100,pulmonary actinomycosis,,,actinomycosis,other bacterial diseases,certain infectious or parasitic diseases
+1C101,abdominal actinomycosis,,,actinomycosis,other bacterial diseases,certain infectious or parasitic diseases
+1C102,cervicofacial actinomycosis,,,actinomycosis,other bacterial diseases,certain infectious or parasitic diseases
+1C103,primary cutaneous actinomycosis,,,actinomycosis,other bacterial diseases,certain infectious or parasitic diseases
+1C10Y,other specified forms of actinomycosis,,,actinomycosis,other bacterial diseases,certain infectious or parasitic diseases
+1C10Z,"actinomycosis, unspecified",,,actinomycosis,other bacterial diseases,certain infectious or parasitic diseases
+1C11,bartonellosis,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C110,carrion disease,,,bartonellosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1100,oroya fever,,carrion disease,bartonellosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1101,verruga peruana,,carrion disease,bartonellosis,other bacterial diseases,certain infectious or parasitic diseases
+1C111,trench fever,,,bartonellosis,other bacterial diseases,certain infectious or parasitic diseases
+1C11Y,other forms of bartonellosis,,,bartonellosis,other bacterial diseases,certain infectious or parasitic diseases
+1C11Z,"bartonellosis, unspecified",,,bartonellosis,other bacterial diseases,certain infectious or parasitic diseases
+1C12,whooping cough,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C120,whooping cough due to bordetella pertussis,,,whooping cough,other bacterial diseases,certain infectious or parasitic diseases
+1C121,whooping cough due to bordetella parapertussis,,,whooping cough,other bacterial diseases,certain infectious or parasitic diseases
+1C12Y,other specified whooping cough,,,whooping cough,other bacterial diseases,certain infectious or parasitic diseases
+1C12Z,"whooping cough, unspecified",,,whooping cough,other bacterial diseases,certain infectious or parasitic diseases
+1C13,tetanus,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C14,obstetrical tetanus,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C15,tetanus neonatorum,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C16,gas gangrene,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C17,diphtheria,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C170,pharyngeal or tonsillar diphtheria,,,diphtheria,other bacterial diseases,certain infectious or parasitic diseases
+1C1700,postdiphtheritic paralysis of uvula,,pharyngeal or tonsillar diphtheria,diphtheria,other bacterial diseases,certain infectious or parasitic diseases
+1C170Y,other specified pharyngeal or tonsillar diphtheria,,pharyngeal or tonsillar diphtheria,diphtheria,other bacterial diseases,certain infectious or parasitic diseases
+1C170Z,"pharyngeal or tonsillar diphtheria, unspecified",,pharyngeal or tonsillar diphtheria,diphtheria,other bacterial diseases,certain infectious or parasitic diseases
+1C171,nasal diphtheria,,,diphtheria,other bacterial diseases,certain infectious or parasitic diseases
+1C172,laryngeal diphtheria,,,diphtheria,other bacterial diseases,certain infectious or parasitic diseases
+1C173,cutaneous diphtheria,,,diphtheria,other bacterial diseases,certain infectious or parasitic diseases
+1C17Y,other specified diphtheria,,,diphtheria,other bacterial diseases,certain infectious or parasitic diseases
+1C17Z,"diphtheria, unspecified",,,diphtheria,other bacterial diseases,certain infectious or parasitic diseases
+1C18,brazilian purpuric fever,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C19,legionellosis,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C190,nonpneumonic legionnaires' disease,,,legionellosis,other bacterial diseases,certain infectious or parasitic diseases
+1C191,legionnaires disease,,,legionellosis,other bacterial diseases,certain infectious or parasitic diseases
+1C19Z,"legionellosis, unspecified",,,legionellosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1A,listeriosis,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C1A0,cutaneous listeriosis,,,listeriosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1A1,listerial meningitis or meningoencephalitis,,,listeriosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1AY,other specified listeriosis,,,listeriosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1AZ,"listeriosis, unspecified",,,listeriosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1B,nocardiosis,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C1B0,pulmonary nocardiosis,,,nocardiosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1B1,cutaneous nocardiosis,,,nocardiosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1BY,other specified forms of nocardiosis,,,nocardiosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1BZ,"nocardiosis, unspecified",,,nocardiosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1C,meningococcal disease,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C1C0,meningococcal meningitis,,,meningococcal disease,other bacterial diseases,certain infectious or parasitic diseases
+1C1C1,waterhouse-friderichsen syndrome,,,meningococcal disease,other bacterial diseases,certain infectious or parasitic diseases
+1C1C2,meningococcaemia,,,meningococcal disease,other bacterial diseases,certain infectious or parasitic diseases
+1C1C20,acute meningococcaemia,,meningococcaemia,meningococcal disease,other bacterial diseases,certain infectious or parasitic diseases
+1C1C2Y,other specified meningococcaemia,,meningococcaemia,meningococcal disease,other bacterial diseases,certain infectious or parasitic diseases
+1C1C2Z,"meningococcaemia, unspecified",,meningococcaemia,meningococcal disease,other bacterial diseases,certain infectious or parasitic diseases
+1C1CY,other specified meningococcal disease,,,meningococcal disease,other bacterial diseases,certain infectious or parasitic diseases
+1C1CZ,"meningococcal disease, unspecified",,,meningococcal disease,other bacterial diseases,certain infectious or parasitic diseases
+1C1D,yaws,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C1D0,primary yaws,,,yaws,other bacterial diseases,certain infectious or parasitic diseases
+1C1D1,secondary yaws,,,yaws,other bacterial diseases,certain infectious or parasitic diseases
+1C1D2,tertiary yaws,,,yaws,other bacterial diseases,certain infectious or parasitic diseases
+1C1D3,latent yaws,,,yaws,other bacterial diseases,certain infectious or parasitic diseases
+1C1DZ,"yaws, unspecified",,,yaws,other bacterial diseases,certain infectious or parasitic diseases
+1C1E,pinta,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C1E0,primary lesions of pinta,,,pinta,other bacterial diseases,certain infectious or parasitic diseases
+1C1E1,intermediate lesions of pinta,,,pinta,other bacterial diseases,certain infectious or parasitic diseases
+1C1E2,late lesions of pinta,,,pinta,other bacterial diseases,certain infectious or parasitic diseases
+1C1E3,mixed lesions of pinta,,,pinta,other bacterial diseases,certain infectious or parasitic diseases
+1C1EZ,"pinta, unspecified",,,pinta,other bacterial diseases,certain infectious or parasitic diseases
+1C1F,endemic non-venereal syphilis,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C1G,lyme borreliosis,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C1G0,early cutaneous lyme borreliosis,,,lyme borreliosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1G1,disseminated lyme borreliosis,,,lyme borreliosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1G10,lyme neuroborreliosis,,disseminated lyme borreliosis,lyme borreliosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1G11,lyme carditis,,disseminated lyme borreliosis,lyme borreliosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1G12,ophthalmic lyme borreliosis,,disseminated lyme borreliosis,lyme borreliosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1G13,lyme arthritis,,disseminated lyme borreliosis,lyme borreliosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1G14,late cutaneous lyme borreliosis,,disseminated lyme borreliosis,lyme borreliosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1G1Y,other specified disseminated lyme borreliosis,,disseminated lyme borreliosis,lyme borreliosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1G1Z,"disseminated lyme borreliosis, unspecified",,disseminated lyme borreliosis,lyme borreliosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1GY,other specified lyme borreliosis,,,lyme borreliosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1GZ,"lyme borreliosis, unspecified",,,lyme borreliosis,other bacterial diseases,certain infectious or parasitic diseases
+1C1H,necrotising ulcerative gingivitis,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C1H0,other vincent infections,,,necrotising ulcerative gingivitis,other bacterial diseases,certain infectious or parasitic diseases
+1C1HY,other specified necrotising ulcerative gingivitis,,,necrotising ulcerative gingivitis,other bacterial diseases,certain infectious or parasitic diseases
+1C1HZ,"necrotising ulcerative gingivitis, unspecified",,,necrotising ulcerative gingivitis,other bacterial diseases,certain infectious or parasitic diseases
+1C1J,relapsing fever,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C1J0,tick-borne relapsing fever,,,relapsing fever,other bacterial diseases,certain infectious or parasitic diseases
+1C1J1,louse-borne relapsing fever,,,relapsing fever,other bacterial diseases,certain infectious or parasitic diseases
+1C1JZ,"relapsing fever, unspecified",,,relapsing fever,other bacterial diseases,certain infectious or parasitic diseases
+1C20,chlamydial conjunctivitis,,,other diseases due to chlamydiae,other bacterial diseases,certain infectious or parasitic diseases
+1C21,chlamydial peritonitis,,,other diseases due to chlamydiae,other bacterial diseases,certain infectious or parasitic diseases
+1C22,infections due to chlamydia psittaci,,,other diseases due to chlamydiae,other bacterial diseases,certain infectious or parasitic diseases
+1C23,trachoma,,,other diseases due to chlamydiae,other bacterial diseases,certain infectious or parasitic diseases
+1C230,initial stage of trachoma,,trachoma,other diseases due to chlamydiae,other bacterial diseases,certain infectious or parasitic diseases
+1C231,active stage of trachoma,,trachoma,other diseases due to chlamydiae,other bacterial diseases,certain infectious or parasitic diseases
+1C23Y,other specified trachoma,,trachoma,other diseases due to chlamydiae,other bacterial diseases,certain infectious or parasitic diseases
+1C23Z,"trachoma, unspecified",,trachoma,other diseases due to chlamydiae,other bacterial diseases,certain infectious or parasitic diseases
+1C2Y,other specified diseases due to chlamydiae,,,other diseases due to chlamydiae,other bacterial diseases,certain infectious or parasitic diseases
+1C2Z,"diseases due to chlamydiae, unspecified",,,other diseases due to chlamydiae,other bacterial diseases,certain infectious or parasitic diseases
+1C30,typhus fever,,,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C300,epidemic louse-borne typhus fever due to rickettsia prowazekii,,typhus fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C301,recrudescent typhus,,typhus fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C302,typhus fever due to rickettsia typhi,,typhus fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C303,typhus fever due to orientia tsutsugamushi,,typhus fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C30Y,other specified typhus fever,,typhus fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C30Z,"typhus fever, unspecified",,typhus fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C31,spotted fever,,,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C310,spotted fever due to rickettsia rickettsii,,spotted fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C311,spotted fever due to rickettsia conorii,,spotted fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C312,spotted fever due to rickettsia sibirica,,spotted fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C313,spotted fever due to rickettsia australis,,spotted fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C31Y,other specified spotted fever,,spotted fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C31Z,"spotted fever, unspecified",,spotted fever,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C32,rickettsialpox,,,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C33,q fever,,,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C3Y,other specified rickettsioses,,,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C3Z,"rickettsioses, unspecified",,,rickettsioses,other bacterial diseases,certain infectious or parasitic diseases
+1C40,campylobacteriosis,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C41,bacterial infection of unspecified site,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C42,melioidosis,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C43,actinomycetoma,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C44,non-pyogenic bacterial infections of the skin,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C45,toxic shock syndrome,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C450,streptococcal toxic shock syndrome,,,toxic shock syndrome,other bacterial diseases,certain infectious or parasitic diseases
+1C451,staphylococcal toxic shock syndrome,,,toxic shock syndrome,other bacterial diseases,certain infectious or parasitic diseases
+1C45Y,toxic shock syndrome due to other specified infectious agent,,,toxic shock syndrome,other bacterial diseases,certain infectious or parasitic diseases
+1C45Z,toxic shock syndrome without specified infectious agent,,,toxic shock syndrome,other bacterial diseases,certain infectious or parasitic diseases
+1C4Y,other specified bacterial diseases,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C4Z,unspecified bacterial disease,,,,other bacterial diseases,certain infectious or parasitic diseases
+1C60,human immunodeficiency virus disease associated with tuberculosis,,,,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C600,hiv disease clinical stage 1 associated with tuberculosis,,,human immunodeficiency virus disease associated with tuberculosis,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C601,hiv disease clinical stage 2 associated with tuberculosis,,,human immunodeficiency virus disease associated with tuberculosis,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C602,hiv disease clinical stage 3 associated with tuberculosis,,,human immunodeficiency virus disease associated with tuberculosis,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C603,hiv disease clinical stage 4 associated with tuberculosis,,,human immunodeficiency virus disease associated with tuberculosis,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C6030,kaposi sarcoma associated with human immunodeficiency virus disease associated with tuberculosis,,hiv disease clinical stage 4 associated with tuberculosis,human immunodeficiency virus disease associated with tuberculosis,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C603Y,other specified hiv disease clinical stage 4 associated with tuberculosis,,hiv disease clinical stage 4 associated with tuberculosis,human immunodeficiency virus disease associated with tuberculosis,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C603Z,"hiv disease clinical stage 4 associated with tuberculosis, unspecified",,hiv disease clinical stage 4 associated with tuberculosis,human immunodeficiency virus disease associated with tuberculosis,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C60Z,"human immunodeficiency virus disease associated with tuberculosis, clinical stage unspecified",,,human immunodeficiency virus disease associated with tuberculosis,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C61,human immunodeficiency virus disease associated with malaria,,,,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C610,hiv disease clinical stage 1 associated with malaria,,,human immunodeficiency virus disease associated with malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C611,hiv disease clinical stage 2 associated with malaria,,,human immunodeficiency virus disease associated with malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C612,hiv disease clinical stage 3 associated with malaria,,,human immunodeficiency virus disease associated with malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C613,hiv disease clinical stage 4 associated with malaria,,,human immunodeficiency virus disease associated with malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C6130,kaposi sarcoma associated with human immunodeficiency virus disease associated with malaria,,hiv disease clinical stage 4 associated with malaria,human immunodeficiency virus disease associated with malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C613Y,other specified hiv disease clinical stage 4 associated with malaria,,hiv disease clinical stage 4 associated with malaria,human immunodeficiency virus disease associated with malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C613Z,"hiv disease clinical stage 4 associated with malaria, unspecified",,hiv disease clinical stage 4 associated with malaria,human immunodeficiency virus disease associated with malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C61Z,"human immunodeficiency virus disease associated with malaria, clinical stage unspecified",,,human immunodeficiency virus disease associated with malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C62,human immunodeficiency virus disease without mention of tuberculosis or malaria,,,,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C620,hiv disease clinical stage 1 without mention of tuberculosis or malaria,,,human immunodeficiency virus disease without mention of tuberculosis or malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C621,hiv disease clinical stage 2 without mention of tuberculosis or malaria,,,human immunodeficiency virus disease without mention of tuberculosis or malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C622,hiv disease clinical stage 3 without mention of tuberculosis or malaria,,,human immunodeficiency virus disease without mention of tuberculosis or malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C623,hiv disease clinical stage 4 without mention of tuberculosis or malaria,,,human immunodeficiency virus disease without mention of tuberculosis or malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C6230,kaposi sarcoma associated with human immunodeficiency virus disease without mention of tuberculosis or malaria,,hiv disease clinical stage 4 without mention of tuberculosis or malaria,human immunodeficiency virus disease without mention of tuberculosis or malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C623Y,other specified hiv disease clinical stage 4 without mention of tuberculosis or malaria,,hiv disease clinical stage 4 without mention of tuberculosis or malaria,human immunodeficiency virus disease without mention of tuberculosis or malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C623Z,"hiv disease clinical stage 4 without mention of tuberculosis or malaria, unspecified",,hiv disease clinical stage 4 without mention of tuberculosis or malaria,human immunodeficiency virus disease without mention of tuberculosis or malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C62Z,"human immunodeficiency virus disease without mention of associated disease or condition, clinical stage unspecified",,,human immunodeficiency virus disease without mention of tuberculosis or malaria,human immunodeficiency virus disease,certain infectious or parasitic diseases
+1C80,"viral encephalitis, not elsewhere classified",,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C81,acute poliomyelitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C82,rabies,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C83,western equine encephalitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C84,eastern equine encephalitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C85,japanese encephalitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C86,st louis encephalitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C87,rocio viral encephalitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C88,murray valley encephalitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8B,california encephalitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8C,venezuelan equine encephalitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8D,la crosse encephalitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8E,"viral meningitis, not elsewhere classified",,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8E1,enteroviral meningitis,,,"viral meningitis, not elsewhere classified",viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8E2,meningitis due to adenovirus,,,"viral meningitis, not elsewhere classified",viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8EY,"other specified viral meningitis, not elsewhere classified",,,"viral meningitis, not elsewhere classified",viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8EZ,"viral meningitis, unspecified",,,"viral meningitis, not elsewhere classified",viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8F,lymphocytic choriomeningitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8G,tick-borne encephalitis,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8G0,far eastern tick-borne encephalitis,,,tick-borne encephalitis,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8G1,central european tick-borne encephalitis,,,tick-borne encephalitis,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8G2,siberian tick-borne encephalitis,,,tick-borne encephalitis,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8GZ,"tick-borne encephalitis, unspecified",,,tick-borne encephalitis,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8Y,other specified viral infections of the central nervous system,,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1C8Z,"viral infections of the central nervous system, unspecified",,,,viral infections of the central nervous system,certain infectious or parasitic diseases
+1D00,"infectious encephalitis, not elsewhere classified",,,,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D000,bacterial encephalitis,,,"infectious encephalitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D001,fungal encephalitis,,,"infectious encephalitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D002,parasitic or protozoal encephalitis,,,"infectious encephalitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D00Y,"other specified infectious encephalitis, not elsewhere classified",,,"infectious encephalitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D00Z,"infectious encephalitis, unspecified",,,"infectious encephalitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D01,"infectious meningitis, not elsewhere classified",,,,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D010,bacterial meningitis,,,"infectious meningitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D0100,meningitis due to haemophilus influenzae,,bacterial meningitis,"infectious meningitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D010Y,other specified bacterial meningitis,,bacterial meningitis,"infectious meningitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D010Z,"bacterial meningitis, unspecified",,bacterial meningitis,"infectious meningitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D011,fungal meningitis,,,"infectious meningitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D012,parasitic or protozoal meningitis,,,"infectious meningitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D013,benign recurrent meningitis,,,"infectious meningitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D01Y,"other specified infectious meningitis, not elsewhere classified",,,"infectious meningitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D01Z,"infectious meningitis, unspecified",,,"infectious meningitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D02,"infectious myelitis, not elsewhere classified",,,,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D020,bacterial myelitis,,,"infectious myelitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D021,viral myelitis,,,"infectious myelitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D022,fungal myelitis,,,"infectious myelitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D023,parasitic myelitis,,,"infectious myelitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D02Y,"other specified infectious myelitis, not elsewhere classified",,,"infectious myelitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D02Z,"infectious myelitis, unspecified",,,"infectious myelitis, not elsewhere classified",non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D03,infectious abscess of the central nervous system,,,,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D030,intraspinal intramedullary abscess,,,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D031,intraspinal subdural abscess,,,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D032,intraspinal extradural abscess,,,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D033,intracranial abscess,,,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D0330,deep cerebral hemispheric abscess,,intracranial abscess,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D0331,abscess of the corpus callosum,,intracranial abscess,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D0332,pituitary abscess,,intracranial abscess,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D0333,multiple or widespread intracranial abscess,,intracranial abscess,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D033Y,other specified intracranial abscess,,intracranial abscess,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D033Z,"intracranial abscess, unspecified",,intracranial abscess,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D034,intraspinal epidural abscess,,,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D035,spinal cord abscess,,,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D03Y,other specified site of infectious abscess of the central nervous system,,,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D03Z,"infectious abscess of the central nervous system, site unspecified",,,infectious abscess of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D04,infectious granulomas of the central nervous system,,,,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D040,parasitic intracerebral granuloma,,,infectious granulomas of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D041,intracranial granuloma,,,infectious granulomas of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D0410,fungal intracranial granuloma,,intracranial granuloma,infectious granulomas of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D041Y,other specified intracranial granuloma,,intracranial granuloma,infectious granulomas of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D041Z,"intracranial granuloma, unspecified",,intracranial granuloma,infectious granulomas of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D042,intraspinal intramedullary granuloma,,,infectious granulomas of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D043,intraspinal subdural granuloma,,,infectious granulomas of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D044,intraspinal extradural granuloma,,,infectious granulomas of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D045,intraspinal epidural granuloma,,,infectious granulomas of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D04Y,other specified site of infectious granulomas of the central nervous system,,,infectious granulomas of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D04Z,"infectious granulomas of the central nervous system, site unspecified",,,infectious granulomas of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D05,infectious cysts of the central nervous system,,,,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D050,epidural infectious cyst,,,infectious cysts of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D051,subdural infectious cyst,,,infectious cysts of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D05Y,other specified infectious cysts of the central nervous system,,,infectious cysts of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D05Z,"infectious cysts of the central nervous system, unspecified",,,infectious cysts of the central nervous system,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D0Y,other specified non-viral and unspecified infections of the central nervous system,,,,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D0Z,"non-viral and unspecified infections of the central nervous system, unspecified",,,,non-viral and unspecified infections of the central nervous system,certain infectious or parasitic diseases
+1D20,dengue without warning signs,,,,dengue,certain infectious or parasitic diseases
+1D21,dengue with warning signs,,,,dengue,certain infectious or parasitic diseases
+1D22,severe dengue,,,,dengue,certain infectious or parasitic diseases
+1D2Z,"dengue fever, unspecified",,,,dengue,certain infectious or parasitic diseases
+1D40,chikungunya virus disease,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D41,colorado tick fever,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D42,o'nyong-nyong fever,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D43,oropouche virus disease,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D44,rift valley fever,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D45,sandfly fever,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D46,west nile virus infection,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D47,yellow fever,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D48,zika virus disease,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D49,crimean-congo haemorrhagic fever,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D4A,omsk haemorrhagic fever,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D4B,kyasanur forest disease,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D4C,alkhurma haemorrhagic fever,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D4D,ross river disease,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D4E,severe fever with thrombocytopenia syndrome,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D4Y,other specified arthropod-borne viral fevers,,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D4Z,"arthropod-borne viral fever, virus unspecified",,,,certain arthropod-borne viral fevers,certain infectious or parasitic diseases
+1D60,filovirus disease,,,,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D600,ebola disease,,,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D6000,bundibugyo virus disease,,ebola disease,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D6001,ebola virus disease,,ebola disease,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D6002,sudan virus disease,,ebola disease,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D6003,atypical ebola disease,,ebola disease,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D600Y,other specified ebola disease,,ebola disease,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D600Z,"ebola disease, virus unspecified",,ebola disease,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D601,marburg disease,,,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D6010,marburg virus disease,,marburg disease,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D6011,atypical marburg disease,,marburg disease,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D601Y,other specified marburg disease,,marburg disease,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D601Z,"marburg disease, virus unspecified",,marburg disease,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D60Y,other specified filovirus disease,,,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D60Z,"filovirus disease, virus unspecified",,,filovirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D61,arenavirus disease,,,,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D610,argentinian haemorrhagic fever,,,arenavirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D611,bolivian haemorrhagic fever,,,arenavirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D612,lassa fever,,,arenavirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D613,venezuelan haemorrhagic fever,,,arenavirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D61Y,other specified arenavirus disease,,,arenavirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D61Z,"arenavirus disease, unspecified",,,arenavirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D62,hantavirus disease,,,,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D620,haemorrhagic fever with renal syndrome,,,hantavirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D621,hantavirus pulmonary syndrome,,,hantavirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D622,atypical hantavirus disease,,,hantavirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D62Y,other specified hantavirus disease,,,hantavirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D62Z,"hantavirus disease, unspecified",,,hantavirus disease,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D63,henipavirus encephalitis,,,,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D64,middle east respiratory syndrome,,,,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D65,severe acute respiratory syndrome,,,,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D6Y,other specified zoonotic viral diseases,,,,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D6Z,"zoonotic viral disease, virus unspecified",,,,certain zoonotic viral diseases,certain infectious or parasitic diseases
+1D80,mumps,,,,certain other viral diseases,certain infectious or parasitic diseases
+1D800,mumps without complication,,,mumps,certain other viral diseases,certain infectious or parasitic diseases
+1D801,orchitis due to mumps virus,,,mumps,certain other viral diseases,certain infectious or parasitic diseases
+1D802,meningitis due to mumps virus,,,mumps,certain other viral diseases,certain infectious or parasitic diseases
+1D803,encephalitis due to mumps virus,,,mumps,certain other viral diseases,certain infectious or parasitic diseases
+1D804,pancreatitis due to mumps virus,,,mumps,certain other viral diseases,certain infectious or parasitic diseases
+1D80Y,other specified mumps,,,mumps,certain other viral diseases,certain infectious or parasitic diseases
+1D81,infectious mononucleosis,,,,certain other viral diseases,certain infectious or parasitic diseases
+1D810,mononucleosis due to epstein-barr virus,,,infectious mononucleosis,certain other viral diseases,certain infectious or parasitic diseases
+1D811,mononucleosis due to cytomegalovirus,,,infectious mononucleosis,certain other viral diseases,certain infectious or parasitic diseases
+1D81Y,other specified infectious mononucleosis,,,infectious mononucleosis,certain other viral diseases,certain infectious or parasitic diseases
+1D81Z,"infectious mononucleosis, unspecified",,,infectious mononucleosis,certain other viral diseases,certain infectious or parasitic diseases
+1D82,cytomegaloviral disease,,,,certain other viral diseases,certain infectious or parasitic diseases
+1D820,cytomegaloviral hepatitis,,,cytomegaloviral disease,certain other viral diseases,certain infectious or parasitic diseases
+1D821,cytomegaloviral pancreatitis,,,cytomegaloviral disease,certain other viral diseases,certain infectious or parasitic diseases
+1D82Y,other specified cytomegaloviral disease,,,cytomegaloviral disease,certain other viral diseases,certain infectious or parasitic diseases
+1D82Z,"cytomegaloviral disease, unspecified",,,cytomegaloviral disease,certain other viral diseases,certain infectious or parasitic diseases
+1D83,epidemic myalgia,,,,certain other viral diseases,certain infectious or parasitic diseases
+1D84,viral conjunctivitis,,,,certain other viral diseases,certain infectious or parasitic diseases
+1D840,conjunctivitis due to adenovirus,,,viral conjunctivitis,certain other viral diseases,certain infectious or parasitic diseases
+1D841,acute epidemic haemorrhagic conjunctivitis,,,viral conjunctivitis,certain other viral diseases,certain infectious or parasitic diseases
+1D84Y,other specified viral conjunctivitis,,,viral conjunctivitis,certain other viral diseases,certain infectious or parasitic diseases
+1D84Z,"viral conjunctivitis, unspecified",,,viral conjunctivitis,certain other viral diseases,certain infectious or parasitic diseases
+1D85,viral carditis,,,,certain other viral diseases,certain infectious or parasitic diseases
+1D850,dilated cardiomyopathy secondary to viral myocarditis,,,viral carditis,certain other viral diseases,certain infectious or parasitic diseases
+1D851,acute viral carditis,,,viral carditis,certain other viral diseases,certain infectious or parasitic diseases
+1D852,chronic viral carditis,,,viral carditis,certain other viral diseases,certain infectious or parasitic diseases
+1D853,aseptic myocarditis of newborn,,,viral carditis,certain other viral diseases,certain infectious or parasitic diseases
+1D854,coxsackie carditis,,,viral carditis,certain other viral diseases,certain infectious or parasitic diseases
+1D85Y,other specified viral carditis,,,viral carditis,certain other viral diseases,certain infectious or parasitic diseases
+1D85Z,"viral carditis, unspecified",,,viral carditis,certain other viral diseases,certain infectious or parasitic diseases
+1D86,"viral haemorrhagic fever, not elsewhere classified",,,,certain other viral diseases,certain infectious or parasitic diseases
+1D90,adenovirus infection of unspecified site,,,viral infection of unspecified site,certain other viral diseases,certain infectious or parasitic diseases
+1D91,enterovirus infection of unspecified site,,,viral infection of unspecified site,certain other viral diseases,certain infectious or parasitic diseases
+1D92,"coronavirus infection, unspecified site",,,viral infection of unspecified site,certain other viral diseases,certain infectious or parasitic diseases
+1D93,parvovirus infection of unspecified site,,,viral infection of unspecified site,certain other viral diseases,certain infectious or parasitic diseases
+1D9Y,other viral infections of unspecified site,,,viral infection of unspecified site,certain other viral diseases,certain infectious or parasitic diseases
+1D9Z,unspecified viral infection of unspecified site,,,viral infection of unspecified site,certain other viral diseases,certain infectious or parasitic diseases
+1E1Y,other specified viral diseases,,,,certain other viral diseases,certain infectious or parasitic diseases
+1E1Z,unspecified viral disease,,,,certain other viral diseases,certain infectious or parasitic diseases
+1E30,influenza due to identified seasonal influenza virus,,,,influenza,certain infectious or parasitic diseases
+1E31,influenza due to identified zoonotic or pandemic influenza virus,,,,influenza,certain infectious or parasitic diseases
+1E32,"influenza, virus not identified",,,,influenza,certain infectious or parasitic diseases
+1E50,acute viral hepatitis,,,,viral hepatitis,certain infectious or parasitic diseases
+1E500,acute hepatitis a,,,acute viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E501,acute hepatitis b,,,acute viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E502,acute hepatitis c,,,acute viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E503,acute hepatitis d,,,acute viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E504,acute hepatitis e,,,acute viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E50Y,other specified acute viral hepatitis,,,acute viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E50Z,"acute viral hepatitis, unspecified",,,acute viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E51,chronic viral hepatitis,,,,viral hepatitis,certain infectious or parasitic diseases
+1E510,chronic hepatitis b,,,chronic viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E5100,chronic hepatitis b with human immunodeficiency virus co-infection,,chronic hepatitis b,chronic viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E510Y,other specified chronic hepatitis b,,chronic hepatitis b,chronic viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E510Z,"chronic hepatitis b, unspecified",,chronic hepatitis b,chronic viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E511,chronic hepatitis c,,,chronic viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E512,chronic hepatitis d,,,chronic viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E513,chronic hepatitis e,,,chronic viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E51Y,other specified chronic viral hepatitis,,,chronic viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E51Z,"chronic viral hepatitis, unspecified",,,chronic viral hepatitis,viral hepatitis,certain infectious or parasitic diseases
+1E5Z,"viral hepatitis, unspecified",,,,viral hepatitis,certain infectious or parasitic diseases
+1E70,smallpox,,,infections due to poxvirus,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E71,mpox,,,infections due to poxvirus,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E72,cowpox,,,infections due to poxvirus,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E73,vaccinia,,,infections due to poxvirus,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E74,buffalopox,,,infections due to poxvirus,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E75,orf,,,infections due to poxvirus,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E76,molluscum contagiosum,,,infections due to poxvirus,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E7Y,other specified infections due to poxvirus,,,infections due to poxvirus,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E7Z,"infections due to poxvirus, unspecified",,,infections due to poxvirus,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E80,common warts,,,human papillomavirus infection of skin or mucous membrane,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E800,digital or periungual warts,,common warts,human papillomavirus infection of skin or mucous membrane,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E801,plantar warts,,common warts,human papillomavirus infection of skin or mucous membrane,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E80Y,other specified common warts,,common warts,human papillomavirus infection of skin or mucous membrane,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E80Z,"common warts, unspecified",,common warts,human papillomavirus infection of skin or mucous membrane,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E81,plane warts,,,human papillomavirus infection of skin or mucous membrane,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E82,warts of lips or oral cavity,,,human papillomavirus infection of skin or mucous membrane,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E820,focal epithelial hyperplasia of oral mucous membranes,,warts of lips or oral cavity,human papillomavirus infection of skin or mucous membrane,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E83,wart virus proliferation in immune-deficient states,,,human papillomavirus infection of skin or mucous membrane,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E8Z,"viral warts, not elsewhere classified",,,human papillomavirus infection of skin or mucous membrane,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E90,varicella,,,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E900,varicella without complication,,varicella,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E901,varicella meningitis,,varicella,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E902,varicella encephalitis,,varicella,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E90Y,varicella with other specified complication,,varicella,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E90Z,"varicella, unspecified",,varicella,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E91,zoster,,,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E910,zoster without complications,,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E911,ophthalmic zoster,,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E912,disseminated zoster,,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E913,zoster with central nervous system involvement,,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E914,acute neuropathy of cranial nerve due to zoster,,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E9140,acute trigeminal zoster neuropathy,acute neuropathy of cranial nerve due to zoster,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E9141,acute herpetic geniculate ganglionitis,acute neuropathy of cranial nerve due to zoster,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E914Y,other specified acute neuropathy of cranial nerve due to zoster,acute neuropathy of cranial nerve due to zoster,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E914Z,"acute neuropathy of cranial nerve due to zoster, unspecified",acute neuropathy of cranial nerve due to zoster,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E915,postherpetic polyneuropathy,,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E91Y,zoster with other specified complications,,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1E91Z,"zoster, unspecified",,zoster,varicella zoster virus infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F00,herpes simplex infections,,,,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F000,herpes simplex infection of skin or mucous membrane,,,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F0000,herpes simplex infection of skin,,herpes simplex infection of skin or mucous membrane,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F0001,herpes simplex labialis,,herpes simplex infection of skin or mucous membrane,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F0002,herpes simplex gingivostomatitis,,herpes simplex infection of skin or mucous membrane,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F0003,disseminated cutaneous herpes simplex infection complicating other skin diseases,,herpes simplex infection of skin or mucous membrane,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F000Y,other specified herpes simplex infection of skin or mucous membrane,,herpes simplex infection of skin or mucous membrane,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F001,herpes simplex infection of the eye,,,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F0010,herpes simplex keratitis,,herpes simplex infection of the eye,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F0011,herpes simplex infection of eyelid,,herpes simplex infection of the eye,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F001Y,other specified herpes simplex infection of the eye,,herpes simplex infection of the eye,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F001Z,"herpes simplex infection of the eye, unspecified",,herpes simplex infection of the eye,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F002,herpes simplex infection of central nervous system,,,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F0020,herpes simplex meningitis,,herpes simplex infection of central nervous system,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F0021,encephalitis due to herpes simplex virus,,herpes simplex infection of central nervous system,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F002Y,other specified herpes simplex infection of central nervous system,,herpes simplex infection of central nervous system,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F003,disseminated herpes simplex infection,,,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F00Y,other specified herpes simplex infections,,,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F00Z,"herpes simplex infections, unspecified",,,herpes simplex infections,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F01,roseola infantum,,,,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F02,rubella,,,,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F020,rubella with neurological complications,,,rubella,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F021,rubella arthritis,,,rubella,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F022,rubella without complication,,,rubella,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F02Y,rubella with other specified complication,,,rubella,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F03,measles,,,,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F030,measles without complication,,,measles,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F031,measles complicated by encephalitis,,,measles,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F032,measles complicated by meningitis,,,measles,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F03Y,measles with other complications,,,measles,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F04,erythema infectiosum,,,,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F05,picornavirus infections presenting in the skin or mucous membranes,,,,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F050,enteroviral vesicular stomatitis,,,picornavirus infections presenting in the skin or mucous membranes,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F051,enteroviral vesicular pharyngitis,,,picornavirus infections presenting in the skin or mucous membranes,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F052,enteroviral exanthematous fever,,,picornavirus infections presenting in the skin or mucous membranes,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F053,foot and mouth disease,,,picornavirus infections presenting in the skin or mucous membranes,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F05Y,other specified picornavirus infections presenting in the skin or mucous membranes,,,picornavirus infections presenting in the skin or mucous membranes,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F0Y,other specified viral infections characterised by skin or mucous membrane lesions,,,,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F0Z,"viral infections characterised by skin or mucous membrane lesions, unspecified",,,,viral infections characterised by skin or mucous membrane lesions,certain infectious or parasitic diseases
+1F20,aspergillosis,,,,mycoses,certain infectious or parasitic diseases
+1F200,invasive aspergillosis,,,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F2000,invasive aspergillosis of the digestive tract,,invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F2001,invasive cerebral aspergillosis,,invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F2002,disseminated aspergillosis,,invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F200Y,invasive aspergillosis of other specified site,,invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F200Z,"invasive aspergillosis, unspecified",,invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F201,non-invasive aspergillosis,,,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F2010,aspergillus otomycosis,,non-invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F2011,chronic aspergillosis of the paranasal sinuses,,non-invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F2012,chronic pulmonary aspergillosis,,non-invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F2013,tonsillar aspergillosis,,non-invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F2014,aspergillus bronchitis,,non-invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F2015,obstructing aspergillus tracheobronchitis,,non-invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F201Y,other specified non-invasive aspergillosis,,non-invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F201Z,"non-invasive aspergillosis, unspecified",,non-invasive aspergillosis,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F20Z,"aspergillosis, unspecified",,,aspergillosis,mycoses,certain infectious or parasitic diseases
+1F21,basidiobolomycosis,,,,mycoses,certain infectious or parasitic diseases
+1F22,blastomycosis,,,,mycoses,certain infectious or parasitic diseases
+1F23,candidosis,,,,mycoses,certain infectious or parasitic diseases
+1F230,candidosis of lips or oral mucous membranes,,,candidosis,mycoses,certain infectious or parasitic diseases
+1F231,candidosis of skin or mucous membranes,,,candidosis,mycoses,certain infectious or parasitic diseases
+1F2310,vulvovaginal candidosis,,candidosis of skin or mucous membranes,candidosis,mycoses,certain infectious or parasitic diseases
+1F2311,candida balanoposthitis,,candidosis of skin or mucous membranes,candidosis,mycoses,certain infectious or parasitic diseases
+1F2312,flexural or intertriginous candidosis,,candidosis of skin or mucous membranes,candidosis,mycoses,certain infectious or parasitic diseases
+1F2313,candidosis of nail or paronychium,,candidosis of skin or mucous membranes,candidosis,mycoses,certain infectious or parasitic diseases
+1F2314,chronic mucocutaneous candidosis,,candidosis of skin or mucous membranes,candidosis,mycoses,certain infectious or parasitic diseases
+1F2315,disseminated cutaneous candidosis,,candidosis of skin or mucous membranes,candidosis,mycoses,certain infectious or parasitic diseases
+1F2316,candida otomycosis,,candidosis of skin or mucous membranes,candidosis,mycoses,certain infectious or parasitic diseases
+1F231Y,candidosis of skin or mucous membrane of other specified site,,candidosis of skin or mucous membranes,candidosis,mycoses,certain infectious or parasitic diseases
+1F231Z,"candidosis of skin or mucous membranes, unspecified",,candidosis of skin or mucous membranes,candidosis,mycoses,certain infectious or parasitic diseases
+1F232,candidosis of gastrointestinal tract,,,candidosis,mycoses,certain infectious or parasitic diseases
+1F233,systemic or invasive candidosis,,,candidosis,mycoses,certain infectious or parasitic diseases
+1F2330,candida meningitis,,systemic or invasive candidosis,candidosis,mycoses,certain infectious or parasitic diseases
+1F2331,pulmonary candidosis,,systemic or invasive candidosis,candidosis,mycoses,certain infectious or parasitic diseases
+1F233Y,other specified systemic or invasive candidosis,,systemic or invasive candidosis,candidosis,mycoses,certain infectious or parasitic diseases
+1F233Z,"systemic or invasive candidosis, unspecified",,systemic or invasive candidosis,candidosis,mycoses,certain infectious or parasitic diseases
+1F23Y,other specified candidosis,,,candidosis,mycoses,certain infectious or parasitic diseases
+1F23Z,"candidosis, unspecified",,,candidosis,mycoses,certain infectious or parasitic diseases
+1F24,chromoblastomycosis,,,,mycoses,certain infectious or parasitic diseases
+1F25,coccidioidomycosis,,,,mycoses,certain infectious or parasitic diseases
+1F250,pulmonary coccidioidomycosis,,,coccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F2500,acute pulmonary coccidioidomycosis,,pulmonary coccidioidomycosis,coccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F2501,chronic pulmonary coccidioidomycosis,,pulmonary coccidioidomycosis,coccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F251,extrathoracic coccidioidomycosis,,,coccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F2510,disseminated coccidioidomycosis,,extrathoracic coccidioidomycosis,coccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F2511,primary cutaneous coccidioidomycosis,,extrathoracic coccidioidomycosis,coccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F2512,coccidioides meningitis,,extrathoracic coccidioidomycosis,coccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F251Y,other specified extrathoracic coccidioidomycosis,,extrathoracic coccidioidomycosis,coccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F251Z,"extrathoracic coccidioidomycosis, unspecified",,extrathoracic coccidioidomycosis,coccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F25Z,"coccidioidomycosis, unspecified",,,coccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F26,conidiobolomycosis,,,,mycoses,certain infectious or parasitic diseases
+1F27,cryptococcosis,,,,mycoses,certain infectious or parasitic diseases
+1F270,pulmonary cryptococcosis,,,cryptococcosis,mycoses,certain infectious or parasitic diseases
+1F271,cerebral cryptococcosis,,,cryptococcosis,mycoses,certain infectious or parasitic diseases
+1F2710,meningitis due to cryptococcus neoformans,,cerebral cryptococcosis,cryptococcosis,mycoses,certain infectious or parasitic diseases
+1F272,disseminated cryptococcosis,,,cryptococcosis,mycoses,certain infectious or parasitic diseases
+1F27Y,other specified cryptococcosis,,,cryptococcosis,mycoses,certain infectious or parasitic diseases
+1F27Z,"cryptococcosis, unspecified",,,cryptococcosis,mycoses,certain infectious or parasitic diseases
+1F28,dermatophytosis,,,,mycoses,certain infectious or parasitic diseases
+1F280,dermatophytosis of scalp,,,dermatophytosis,mycoses,certain infectious or parasitic diseases
+1F281,dermatophytosis of nail,,,dermatophytosis,mycoses,certain infectious or parasitic diseases
+1F282,dermatophytosis of foot,,,dermatophytosis,mycoses,certain infectious or parasitic diseases
+1F283,genitocrural dermatophytosis,,,dermatophytosis,mycoses,certain infectious or parasitic diseases
+1F284,kerion,,,dermatophytosis,mycoses,certain infectious or parasitic diseases
+1F285,disseminated dermatophytosis,,,dermatophytosis,mycoses,certain infectious or parasitic diseases
+1F28Y,other specified dermatophytosis,,,dermatophytosis,mycoses,certain infectious or parasitic diseases
+1F28Z,"dermatophytosis, unspecified",,,dermatophytosis,mycoses,certain infectious or parasitic diseases
+1F29,eumycetoma,,,,mycoses,certain infectious or parasitic diseases
+1F2A,histoplasmosis,,,,mycoses,certain infectious or parasitic diseases
+1F2A0,pulmonary histoplasmosis capsulati,,,histoplasmosis,mycoses,certain infectious or parasitic diseases
+1F2A1,histoplasmosis due to histoplasma duboisii,,,histoplasmosis,mycoses,certain infectious or parasitic diseases
+1F2AY,other specified histoplasmosis,,,histoplasmosis,mycoses,certain infectious or parasitic diseases
+1F2AZ,"histoplasmosis, unspecified",,,histoplasmosis,mycoses,certain infectious or parasitic diseases
+1F2B,lobomycosis,,,,mycoses,certain infectious or parasitic diseases
+1F2C,mucormycosis,,,,mycoses,certain infectious or parasitic diseases
+1F2D,non-dermatophyte superficial dermatomycoses,,,,mycoses,certain infectious or parasitic diseases
+1F2D0,pityriasis versicolor,,,non-dermatophyte superficial dermatomycoses,mycoses,certain infectious or parasitic diseases
+1F2D1,malassezia folliculitis,,,non-dermatophyte superficial dermatomycoses,mycoses,certain infectious or parasitic diseases
+1F2D2,white piedra,,,non-dermatophyte superficial dermatomycoses,mycoses,certain infectious or parasitic diseases
+1F2D3,black piedra,,,non-dermatophyte superficial dermatomycoses,mycoses,certain infectious or parasitic diseases
+1F2D4,tinea nigra,,,non-dermatophyte superficial dermatomycoses,mycoses,certain infectious or parasitic diseases
+1F2D5,onychomycosis due to non-dermatophyte mould,,,non-dermatophyte superficial dermatomycoses,mycoses,certain infectious or parasitic diseases
+1F2DY,other specified non-dermatophyte superficial dermatomycoses,,,non-dermatophyte superficial dermatomycoses,mycoses,certain infectious or parasitic diseases
+1F2DZ,"non-dermatophyte superficial dermatomycoses, unspecified",,,non-dermatophyte superficial dermatomycoses,mycoses,certain infectious or parasitic diseases
+1F2E,paracoccidioidomycosis,,,,mycoses,certain infectious or parasitic diseases
+1F2E0,pulmonary paracoccidioidomycosis,,,paracoccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F2E1,disseminated paracoccidioidomycosis,,,paracoccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F2EY,other specified paracoccidioidomycosis,,,paracoccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F2EZ,"paracoccidioidomycosis, unspecified",,,paracoccidioidomycosis,mycoses,certain infectious or parasitic diseases
+1F2F,phaeohyphomycosis,,,,mycoses,certain infectious or parasitic diseases
+1F2G,pneumocystosis,,,,mycoses,certain infectious or parasitic diseases
+1F2G0,pulmonary pneumocystosis,,,pneumocystosis,mycoses,certain infectious or parasitic diseases
+1F2GZ,"pneumocystosis, unspecified",,,pneumocystosis,mycoses,certain infectious or parasitic diseases
+1F2H,scedosporiosis,,,,mycoses,certain infectious or parasitic diseases
+1F2J,sporotrichosis,,,,mycoses,certain infectious or parasitic diseases
+1F2J0,lymphocutaneous sporotrichosis,,,sporotrichosis,mycoses,certain infectious or parasitic diseases
+1F2J1,fixed cutaneous sporotrichosis,,,sporotrichosis,mycoses,certain infectious or parasitic diseases
+1F2J2,pulmonary sporotrichosis,,,sporotrichosis,mycoses,certain infectious or parasitic diseases
+1F2J3,disseminated sporotrichosis,,,sporotrichosis,mycoses,certain infectious or parasitic diseases
+1F2JY,other specified sporotrichosis,,,sporotrichosis,mycoses,certain infectious or parasitic diseases
+1F2JZ,"sporotrichosis, unspecified",,,sporotrichosis,mycoses,certain infectious or parasitic diseases
+1F2K,talaromycosis,,,,mycoses,certain infectious or parasitic diseases
+1F2L,emmonsiosis,,,,mycoses,certain infectious or parasitic diseases
+1F2L0,disseminated adiaspiromycosis,,,emmonsiosis,mycoses,certain infectious or parasitic diseases
+1F2L1,pulmonary adiaspiromycosis,,,emmonsiosis,mycoses,certain infectious or parasitic diseases
+1F2LY,other specified emmonsiosis,,,emmonsiosis,mycoses,certain infectious or parasitic diseases
+1F2LZ,"emmonsiosis, unspecified",,,emmonsiosis,mycoses,certain infectious or parasitic diseases
+1F2Y,other specified mycoses,,,,mycoses,certain infectious or parasitic diseases
+1F2Z,"mycoses, unspecified",,,,mycoses,certain infectious or parasitic diseases
+1F40,malaria due to plasmodium falciparum,,,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F400,plasmodium falciparum malaria with cerebral complications,,malaria due to plasmodium falciparum,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F40Y,other severe and complicated plasmodium falciparum malaria,,malaria due to plasmodium falciparum,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F40Z,"malaria due to plasmodium falciparum, unspecified",,malaria due to plasmodium falciparum,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F41,malaria due to plasmodium vivax,,,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F410,plasmodium vivax malaria with rupture of spleen,,malaria due to plasmodium vivax,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F41Y,malaria due to plasmodium vivax with other complications,,malaria due to plasmodium vivax,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F41Z,plasmodium vivax malaria without complication,,malaria due to plasmodium vivax,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F42,malaria due to plasmodium malariae,,,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F420,plasmodium malariae malaria with nephropathy,,malaria due to plasmodium malariae,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F42Y,malaria due to plasmodium malariae with other complications,,malaria due to plasmodium malariae,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F42Z,plasmodium malariae malaria without complication,,malaria due to plasmodium malariae,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F43,malaria due to plasmodium ovale,,,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F44,other parasitologically confirmed malaria,,,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F45,malaria without parasitological confirmation,,,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F4Z,"malaria, unspecified",,,malaria,parasitic diseases,certain infectious or parasitic diseases
+1F50,acanthamoebiasis,,,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F51,african trypanosomiasis,,,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F510,gambiense trypanosomiasis,,african trypanosomiasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F5100,meningitis in gambiense trypanosomiasis,gambiense trypanosomiasis,african trypanosomiasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F510Y,other specified gambiense trypanosomiasis,gambiense trypanosomiasis,african trypanosomiasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F510Z,"gambiense trypanosomiasis, unspecified",gambiense trypanosomiasis,african trypanosomiasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F511,rhodesiense trypanosomiasis,,african trypanosomiasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F5110,meningitis in rhodesiense trypanosomiasis,rhodesiense trypanosomiasis,african trypanosomiasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F511Y,other specified rhodesiense trypanosomiasis,rhodesiense trypanosomiasis,african trypanosomiasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F511Z,"rhodesiense trypanosomiasis, unspecified",rhodesiense trypanosomiasis,african trypanosomiasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F51Y,other specified african trypanosomiasis,,african trypanosomiasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F51Z,"african trypanosomiasis, unspecified",,african trypanosomiasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F52,babesiosis,,,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F53,chagas disease,,,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F531,acute chagas disease without heart involvement,,chagas disease,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F532,chronic chagas disease with heart involvement,,chagas disease,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F533,chagas disease with digestive system involvement,,chagas disease,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F534,meningitis in chagas disease,,chagas disease,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F53Y,other specified chagas disease,,chagas disease,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F53Z,"chagas disease, unspecified",,chagas disease,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F54,leishmaniasis,,,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F540,visceral leishmaniasis,,leishmaniasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F541,cutaneous leishmaniasis,,leishmaniasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F542,mucocutaneous leishmaniasis,,leishmaniasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F54Z,"leishmaniasis, unspecified",,leishmaniasis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F55,naegleriasis,,,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F56,rhinosporidiosis,,,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F57,toxoplasmosis,,,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F570,hepatitis due to toxoplasma gondii,,toxoplasmosis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F571,meningoencephalitis due to toxoplasma gondii,,toxoplasmosis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F572,pulmonary toxoplasmosis due to toxoplasma gondii,,toxoplasmosis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F573,eye disease due to toxoplasma gondii,,toxoplasmosis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F57Y,other specified toxoplasmosis,,toxoplasmosis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F57Z,"toxoplasmosis, unspecified",,toxoplasmosis,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F58,microsporidiosis,,,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F5Z,unspecified protozoal disease,,,nonintestinal protozoal diseases,parasitic diseases,certain infectious or parasitic diseases
+1F60,angiostrongyliasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F600,eosinophilic meningitis due to angiostrongylus cantonensis,angiostrongyliasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F601,intestinal angiostrongyliasis,angiostrongyliasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F60Y,other specified angiostrongyliasis,angiostrongyliasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F60Z,"angiostrongyliasis, unspecified",angiostrongyliasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F61,anisakiasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F62,ascariasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F63,capillariasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F630,capillariasis of the intestine,capillariasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F63Y,other specified capillariasis,capillariasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F63Z,"capillariasis, unspecified",capillariasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F64,dracunculiasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F65,enterobiasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F66,filariasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F660,loiasis,filariasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F661,mansonelliasis,filariasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F662,filariasis due to brugia species,filariasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F663,lymphatic filariasis,filariasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F664,subcutaneous dirofilariasis,filariasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F66Y,other specified filariasis,filariasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F66Z,"filariasis, unspecified",filariasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F67,gnathostomiasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F68,hookworm diseases,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F680,ancylostomiasis,hookworm diseases,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F681,necatoriasis,hookworm diseases,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F682,cutaneous larva migrans,hookworm diseases,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F69,oesophagostomiasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6A,onchocerciasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6A0,onchocerciasis of the eye,onchocerciasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6A1,onchocerciasis of the skin,onchocerciasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6AY,other specified onchocerciasis,onchocerciasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6AZ,"onchocerciasis, unspecified",onchocerciasis,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6B,strongyloidiasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6C,syngamosis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6D,toxocariasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6E,trichinosis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6F,trichostrongyliasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6G,trichuriasis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6H,uncinariosis,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6Y,other specified diseases due to nematodes,,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F6Z,"diseases due to nematodes, unspecified",,diseases due to nematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F70,cysticercosis,,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F700,cysticercosis of central nervous system,cysticercosis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F701,cysticercosis of eye,cysticercosis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F70Y,other specified cysticercosis,cysticercosis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F70Z,"cysticercosis, unspecified",cysticercosis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F71,diphyllobothriasis,,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F72,dipylidiasis,,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F73,echinococcosis,,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F730,echinococcus infection of liver,echinococcosis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F731,echinococcus infection of lung,echinococcosis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F732,echinococcus infection of bone,echinococcosis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F733,echinococcus infection of central nervous system,echinococcosis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F73Y,other specified echinococcosis,echinococcosis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F73Z,"echinococcosis, unspecified",echinococcosis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F74,hymenolepiasis,,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F75,sparganosis,,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F76,taeniasis,,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F760,taeniasis due to taenia solium,taeniasis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F761,taeniasis due to taenia saginata,taeniasis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F76Y,other specified taeniasis,taeniasis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F76Z,"taeniasis, unspecified",taeniasis,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F7Y,other specified diseases due to cestodes,,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F7Z,"diseases due to cestodes, unspecified",,diseases due to cestodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F80,clonorchiasis,,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F81,dicrocoeliasis,,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F82,fascioliasis,,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F83,fasciolopsiasis,,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F84,opisthorchiasis,,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F85,paragonimiasis,,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F86,schistosomiasis,,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F860,schistosomiasis due to schistosoma haematobium,schistosomiasis,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F861,schistosomiasis due to schistosoma mansoni,schistosomiasis,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F862,schistosomiasis due to schistosoma japonicum,schistosomiasis,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F863,other schistosomiases,schistosomiasis,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F864,cercarial dermatitis,schistosomiasis,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F865,schistosomal pneumonitis,schistosomiasis,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F86Z,schistosomiasis due to unspecified or unknown schistosoma species,schistosomiasis,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F8Y,other specified diseases due to trematodes,,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F8Z,"diseases due to trematodes, unspecified",,diseases due to trematodes,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F90,other and unspecified infestation by parasitic worms,,,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F900,mixed intestinal helminthiases,,other and unspecified infestation by parasitic worms,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F901,intestinal parasitic infestation not otherwise specified,,other and unspecified infestation by parasitic worms,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F902,"intestinal helminthiasis, unspecified",,other and unspecified infestation by parasitic worms,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F90Y,other specified other and unspecified infestation by parasitic worms,,other and unspecified infestation by parasitic worms,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F90Z,"other and unspecified infestation by parasitic worms, unspecified",,other and unspecified infestation by parasitic worms,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F91,diphyllobothriasis and sparganosis,,,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1F9Z,"helminthiases, unspecified",,,helminthiases,parasitic diseases,certain infectious or parasitic diseases
+1G00,pediculosis,,,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G000,pediculosis capitis,,pediculosis,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G001,pediculosis corporis,,pediculosis,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G00Z,pediculosis of unspecified site or type,,pediculosis,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G01,myiasis,,,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G010,ocular myiasis,,myiasis,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G011,nasopharyngeal myiasis,,myiasis,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G012,laryngeal myiasis,,myiasis,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G013,cutaneous myiasis,,myiasis,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G01Y,other specified myiasis,,myiasis,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G01Z,"myiasis, unspecified",,myiasis,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G02,external hirudiniasis,,,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G03,pthiriasis,,,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G04,scabies,,,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G040,classical scabies,,scabies,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G041,crusted scabies,,scabies,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G04Y,other and unspecified scabies,,scabies,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G05,tungiasis,,,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G06,cimicosis,,,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G07,infestation by mites,,,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G070,infestation by demodex,,infestation by mites,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G07Y,infestation of the skin by other specified parasitic mites,,infestation by mites,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G0Y,infestation by other specified ectoparasite,,,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G0Z,infestation by unknown or unspecified ectoparasite,,,infestations by ectoparasites,parasitic diseases,certain infectious or parasitic diseases
+1G2Y,other specified parasitic diseases,,,,parasitic diseases,certain infectious or parasitic diseases
+1G2Z,unspecified parasitic diseases,,,,parasitic diseases,certain infectious or parasitic diseases
+1G40,sepsis without septic shock,,,,sepsis,certain infectious or parasitic diseases
+1G41,sepsis with septic shock,,,,sepsis,certain infectious or parasitic diseases
+1G600,mycetoma of unknown or unspecified type,,,,certain other disorders of infectious origin,certain infectious or parasitic diseases
+1G601,pythiosis,,,,certain other disorders of infectious origin,certain infectious or parasitic diseases
+1G602,protothecosis,,,,certain other disorders of infectious origin,certain infectious or parasitic diseases
+1G60Y,other specified disorders of infectious origin not elsewhere classified,,,,certain other disorders of infectious origin,certain infectious or parasitic diseases
+1G80,sequelae of tuberculosis,,,,sequelae of infectious diseases,certain infectious or parasitic diseases
+1G81,sequelae of trachoma,,,,sequelae of infectious diseases,certain infectious or parasitic diseases
+1G82,sequelae of leprosy,,,,sequelae of infectious diseases,certain infectious or parasitic diseases
+1G83,sequelae of poliomyelitis,,,,sequelae of infectious diseases,certain infectious or parasitic diseases
+1G84,sequelae of viral encephalitis,,,,sequelae of infectious diseases,certain infectious or parasitic diseases
+1G85,sequelae of diphtheria,,,,sequelae of infectious diseases,certain infectious or parasitic diseases
+1G8Y,sequelae of other specified infectious diseases,,,,sequelae of infectious diseases,certain infectious or parasitic diseases
+1H0Z,"infection, unspecified",,,,,certain infectious or parasitic diseases

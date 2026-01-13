@@ -1,0 +1,343 @@
+code,code_desc,p1,p2,p3,p4
+CA00,Acute nasopharyngitis,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA01,Acute sinusitis,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA02,Acute pharyngitis,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA020,Acute bacterial pharyngitis,,Acute pharyngitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA021,Acute viral pharyngitis,,Acute pharyngitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0210,Pharyngitis due to Adenovirus,Acute viral pharyngitis,Acute pharyngitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA021Y,Other specified acute viral pharyngitis,Acute viral pharyngitis,Acute pharyngitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA021Z,"Acute viral pharyngitis, unspecified",Acute viral pharyngitis,Acute pharyngitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA02Y,Other specified acute pharyngitis,,Acute pharyngitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA02Z,"Acute pharyngitis, unspecified",,Acute pharyngitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA03,Acute tonsillitis,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA030,Streptococcal tonsillitis,,Acute tonsillitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA03Y,Other specified acute tonsillitis,,Acute tonsillitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA03Z,"Acute tonsillitis, unspecified",,Acute tonsillitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA04,Acute laryngopharyngitis,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA05,Acute laryngitis or tracheitis,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA050,Acute laryngitis,,Acute laryngitis or tracheitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA051,Acute tracheitis,,Acute laryngitis or tracheitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA052,Acute laryngotracheitis,,Acute laryngitis or tracheitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA06,Acute obstructive laryngitis or epiglottitis,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA060,Acute obstructive laryngitis,,Acute obstructive laryngitis or epiglottitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA061,Acute epiglottitis,,Acute obstructive laryngitis or epiglottitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA06Z,"Acute obstructive laryngitis or epiglottitis, unspecified",,Acute obstructive laryngitis or epiglottitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA07,Acute upper respiratory infections of multiple and unspecified sites,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA070,"Acute upper respiratory infection, site unspecified",,Acute upper respiratory infections of multiple and unspecified sites,Upper respiratory tract disorders,Diseases of the respiratory system
+CA071,Acute upper respiratory infections of multiple sites,,Acute upper respiratory infections of multiple and unspecified sites,Upper respiratory tract disorders,Diseases of the respiratory system
+CA08,Vasomotor or allergic rhinitis,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA080,Allergic rhinitis,,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0800,Allergic rhinitis due to pollen,Allergic rhinitis,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0801,Allergic rhinitis due to other seasonal allergens,Allergic rhinitis,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0802,Allergic rhinitis due to house dust mite,Allergic rhinitis,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0803,Other allergic rhinitis,Allergic rhinitis,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA080Z,"Allergic rhinitis, unspecified",Allergic rhinitis,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA081,Non-allergic rhinitis,,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0810,Non-allergic rhinitis with eosinophils,Non-allergic rhinitis,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA081Y,Other specified non-allergic rhinitis,Non-allergic rhinitis,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA081Z,"Non-allergic rhinitis, unspecified",Non-allergic rhinitis,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA082,Mixed rhinitis,,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA083,Vasomotor rhinitis,,Vasomotor or allergic rhinitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA09,"Chronic rhinitis, nasopharyngitis or pharyngitis",,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA090,Chronic rhinitis,,"Chronic rhinitis, nasopharyngitis or pharyngitis",Upper respiratory tract disorders,Diseases of the respiratory system
+CA091,Chronic nasopharyngitis,,"Chronic rhinitis, nasopharyngitis or pharyngitis",Upper respiratory tract disorders,Diseases of the respiratory system
+CA092,Chronic pharyngitis,,"Chronic rhinitis, nasopharyngitis or pharyngitis",Upper respiratory tract disorders,Diseases of the respiratory system
+CA0A,Chronic rhinosinusitis,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0A0,Samter syndrome,,Chronic rhinosinusitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0AY,Other specified chronic rhinosinusitis,,Chronic rhinosinusitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0AZ,"Chronic rhinosinusitis, unspecified",,Chronic rhinosinusitis,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0B,Silent sinus syndrome,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0C,Cyst or mucocele of nose or nasal sinus,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0D,Deviated nasal septum,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0E,Hypertrophy of nasal turbinates,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0F,Chronic diseases of tonsils or adenoids,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0F0,Hypertrophy of tonsils,,Chronic diseases of tonsils or adenoids,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0F1,Hypertrophy of adenoids,,Chronic diseases of tonsils or adenoids,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0F3,Hypertrophy of tonsils with hypertrophy of adenoids,,Chronic diseases of tonsils or adenoids,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0FY,Other specified chronic diseases of tonsils or adenoids,,Chronic diseases of tonsils or adenoids,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0FZ,"Chronic diseases of tonsils or adenoids, unspecified",,Chronic diseases of tonsils or adenoids,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0G,Chronic laryngitis or laryngotracheitis,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0H,"Diseases of vocal cords or larynx, not elsewhere classified",,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0H0,Paralysis of vocal cords or larynx,,"Diseases of vocal cords or larynx, not elsewhere classified",Upper respiratory tract disorders,Diseases of the respiratory system
+CA0H1,Polyp of vocal cord or larynx,,"Diseases of vocal cords or larynx, not elsewhere classified",Upper respiratory tract disorders,Diseases of the respiratory system
+CA0H2,Nodules of vocal cords,,"Diseases of vocal cords or larynx, not elsewhere classified",Upper respiratory tract disorders,Diseases of the respiratory system
+CA0H3,Oedema of larynx,,"Diseases of vocal cords or larynx, not elsewhere classified",Upper respiratory tract disorders,Diseases of the respiratory system
+CA0H4,Laryngeal spasm,,"Diseases of vocal cords or larynx, not elsewhere classified",Upper respiratory tract disorders,Diseases of the respiratory system
+CA0H5,Stenosis of larynx,,"Diseases of vocal cords or larynx, not elsewhere classified",Upper respiratory tract disorders,Diseases of the respiratory system
+CA0HY,"Other specified diseases of vocal cords or larynx, not elsewhere classified",,"Diseases of vocal cords or larynx, not elsewhere classified",Upper respiratory tract disorders,Diseases of the respiratory system
+CA0HZ,"Diseases of vocal cords or larynx, not elsewhere classified, unspecified",,"Diseases of vocal cords or larynx, not elsewhere classified",Upper respiratory tract disorders,Diseases of the respiratory system
+CA0J,Nasal polyp,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0J0,Polypoid sinus degeneration,,Nasal polyp,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0JY,Other specified nasal polyp,,Nasal polyp,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0JZ,"Nasal polyp, unspecified",,Nasal polyp,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0K,Abscess of upper respiratory tract,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0K0,Retropharyngeal or parapharyngeal abscess,,Abscess of upper respiratory tract,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0K1,Peritonsillar abscess,,Abscess of upper respiratory tract,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0KY,Other specified abscess of upper respiratory tract,,Abscess of upper respiratory tract,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0KZ,"Abscess of upper respiratory tract, unspecified",,Abscess of upper respiratory tract,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0Y,Other specified upper respiratory tract disorders,,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA0Z,"Upper respiratory tract disorders, unspecified",,,Upper respiratory tract disorders,Diseases of the respiratory system
+CA20,Bronchitis,,,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA200,Acute noninfectious bronchitis,,Bronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA201,Chronic bronchitis,,Bronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2010,Simple chronic bronchitis,Chronic bronchitis,Bronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2011,Mucopurulent chronic bronchitis,Chronic bronchitis,Bronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2012,Mixed simple and mucopurulent chronic bronchitis,Chronic bronchitis,Bronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2013,Protracted bacterial bronchitis,Chronic bronchitis,Bronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA201Y,Other specified chronic bronchitis,Chronic bronchitis,Bronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA201Z,"Chronic bronchitis, unspecified",Chronic bronchitis,Bronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA20Y,Other specified bronchitis,,Bronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA20Z,"Bronchitis, unspecified",,Bronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA21,Emphysema,,,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA210,MacLeod syndrome,,Emphysema,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA211,Panlobular emphysema,,Emphysema,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA212,Centrilobular emphysema,,Emphysema,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA21Y,Other specified emphysema,,Emphysema,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA21Z,"Emphysema, unspecified",,Emphysema,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA22,Chronic obstructive pulmonary disease,,,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA220,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified",,Chronic obstructive pulmonary disease,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA221,Certain specified chronic obstructive pulmonary disease,,Chronic obstructive pulmonary disease,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA22Z,"Chronic obstructive pulmonary disease, unspecified",,Chronic obstructive pulmonary disease,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA23,Asthma,,,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA230,Allergic asthma,,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2300,Allergic asthma with exacerbation,Allergic asthma,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2301,Allergic asthma with status asthmaticus,Allergic asthma,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2302,"Allergic asthma, uncomplicated",Allergic asthma,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA231,Non-allergic asthma,,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2310,Non-allergic asthma with exacerbation,Non-allergic asthma,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2311,Non-allergic asthma with status asthmaticus,Non-allergic asthma,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2312,"Non-allergic asthma, uncomplicated",Non-allergic asthma,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA232,Other specified forms of asthma or bronchospasm,,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2320,Aspirin-induced asthma,Other specified forms of asthma or bronchospasm,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2321,Exercise-induced bronchospasm,Other specified forms of asthma or bronchospasm,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2322,Cough variant asthma,Other specified forms of asthma or bronchospasm,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA233,Unspecified asthma,,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2330,Unspecified asthma with exacerbation,Unspecified asthma,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2331,Unspecified asthma with status asthmaticus,Unspecified asthma,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2332,"Unspecified asthma, uncomplicated",Unspecified asthma,Asthma,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA24,Bronchiectasis,,,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA25,Cystic fibrosis,,,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA250,Classical cystic fibrosis,,Cystic fibrosis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA251,Atypical cystic fibrosis,,Cystic fibrosis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA252,Subclinical cystic fibrosis,,Cystic fibrosis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA25Z,"Cystic fibrosis, unspecified",,Cystic fibrosis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA26,Chronic bronchiolitis,,,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA260,Chronic obliterative bronchiolitis,,Chronic bronchiolitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA261,Diffuse panbronchiolitis,,Chronic bronchiolitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA26Y,Other specified chronic bronchiolitis,,Chronic bronchiolitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA26Z,"Chronic bronchiolitis, unspecified",,Chronic bronchiolitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA27,Tracheobronchitis,,,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA270,Tracheobronchopathia osteochondroplastica,,Tracheobronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA271,Tracheobronchomegaly,,Tracheobronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA27Y,Other specified tracheobronchitis,,Tracheobronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA27Z,"Tracheobronchitis, unspecified",,Tracheobronchitis,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2Y,Other specified lower respiratory tract disease,,,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA2Z,"Lower respiratory tract disease, unspecified",,,Certain lower respiratory tract diseases,Diseases of the respiratory system
+CA40,Pneumonia,,,Lung infections,Diseases of the respiratory system
+CA400,Bacterial pneumonia,,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4000,Pneumonia due to Chlamydophila pneumoniae,Bacterial pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4001,Pneumonia due to Escherichia coli,Bacterial pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4002,Pneumonia due to Haemophilus influenzae,Bacterial pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4003,Pneumonia due to Klebsiella pneumoniae,Bacterial pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4004,Pneumonia due to Mycoplasma pneumoniae,Bacterial pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4005,Pneumonia due to Pseudomonas aeruginosa,Bacterial pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4006,Pneumonia due to Staphylococcus,Bacterial pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4007,Pneumonia due to Streptococcus pneumoniae,Bacterial pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4008,Pneumonia due to beta-haemolytic streptococcus,Bacterial pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA400Y,Pneumonia due to other specified bacteria,Bacterial pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA400Z,"Bacterial pneumonia, unspecified",Bacterial pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA401,Viral pneumonia,,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4010,Pneumonia due to Adenovirus,Viral pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4011,Pneumonia due to Respiratory syncytial virus,Viral pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4012,Pneumonia due to parainfluenza virus,Viral pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4013,Pneumonia due to Human metapneumovirus,Viral pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA401Y,Pneumonia due to other specified virus,Viral pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA401Z,"Viral pneumonia, unspecified",Viral pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA402,Fungal pneumonia,,Pneumonia,Lung infections,Diseases of the respiratory system
+CA4020,Pneumonia due to pneumocystis,Fungal pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA402Y,Other specified fungal pneumonia,Fungal pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA402Z,"Fungal pneumonia, unspecified",Fungal pneumonia,Pneumonia,Lung infections,Diseases of the respiratory system
+CA40Y,Other specified pneumonia,,Pneumonia,Lung infections,Diseases of the respiratory system
+CA40Z,"Pneumonia, organism unspecified",,Pneumonia,Lung infections,Diseases of the respiratory system
+CA41,Acute bronchiolitis,,,Lung infections,Diseases of the respiratory system
+CA410,Acute bronchiolitis due to respiratory syncytial virus,,Acute bronchiolitis,Lung infections,Diseases of the respiratory system
+CA41Y,Other specified acute bronchiolitis,,Acute bronchiolitis,Lung infections,Diseases of the respiratory system
+CA41Z,"Acute bronchiolitis, unspecified",,Acute bronchiolitis,Lung infections,Diseases of the respiratory system
+CA42,Acute bronchitis,,,Lung infections,Diseases of the respiratory system
+CA420,Acute bronchitis due to Streptococcus,,Acute bronchitis,Lung infections,Diseases of the respiratory system
+CA421,Acute bronchitis due to Rhinovirus,,Acute bronchitis,Lung infections,Diseases of the respiratory system
+CA422,Acute bronchitis due to Respiratory syncytial virus,,Acute bronchitis,Lung infections,Diseases of the respiratory system
+CA423,Acute bronchitis due to Parainfluenza virus,,Acute bronchitis,Lung infections,Diseases of the respiratory system
+CA424,Acute bronchitis due to Haemophilus influenzae,,Acute bronchitis,Lung infections,Diseases of the respiratory system
+CA425,Acute bronchitis due to Coxsackievirus,,Acute bronchitis,Lung infections,Diseases of the respiratory system
+CA42Y,Other specified acute bronchitis,,Acute bronchitis,Lung infections,Diseases of the respiratory system
+CA42Z,"Acute bronchitis, unspecified",,Acute bronchitis,Lung infections,Diseases of the respiratory system
+CA43,Abscess of lung or mediastinum,,,Lung infections,Diseases of the respiratory system
+CA430,Gangrene or necrosis of lung,,Abscess of lung or mediastinum,Lung infections,Diseases of the respiratory system
+CA431,Abscess of lung with pneumonia,,Abscess of lung or mediastinum,Lung infections,Diseases of the respiratory system
+CA432,Abscess of lung without pneumonia,,Abscess of lung or mediastinum,Lung infections,Diseases of the respiratory system
+CA433,Abscess of mediastinum,,Abscess of lung or mediastinum,Lung infections,Diseases of the respiratory system
+CA43Y,Other specified abscess of lung or mediastinum,,Abscess of lung or mediastinum,Lung infections,Diseases of the respiratory system
+CA43Z,"Abscess of lung or mediastinum, unspecified",,Abscess of lung or mediastinum,Lung infections,Diseases of the respiratory system
+CA44,Pyothorax,,,Lung infections,Diseases of the respiratory system
+CA45,"Respiratory infections, not elsewhere classified",,,Lung infections,Diseases of the respiratory system
+CA4Y,Other specified lung infections,,,Lung infections,Diseases of the respiratory system
+CA4Z,"Lung infections, unspecified",,,Lung infections,Diseases of the respiratory system
+CA60,Pneumoconiosis,,,Lung diseases due to external agents,Diseases of the respiratory system
+CA600,Pneumoconiosis due to dust containing silica,,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA6000,Pneumoconiosis due to talc dust,Pneumoconiosis due to dust containing silica,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA600Y,Other specified pneumoconiosis due to dust containing silica,Pneumoconiosis due to dust containing silica,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA600Z,"Pneumoconiosis due to dust containing silica, unspecified",Pneumoconiosis due to dust containing silica,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA601,Coal worker pneumoconiosis,,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA602,Pneumoconiosis due to mineral fibres including asbestos,,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA603,Pneumoconiosis associated with tuberculosis,,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA604,Aluminosis of lung,,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA605,Bauxite fibrosis of lung,,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA606,Berylliosis,,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA607,Graphite fibrosis of lung,,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA608,Siderosis,,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA609,Stannosis,,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA60Y,Other specified pneumoconiosis,,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA60Z,"Pneumoconiosis, unspecified",,Pneumoconiosis,Lung diseases due to external agents,Diseases of the respiratory system
+CA70,Hypersensitivity pneumonitis due to organic dust,,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA700,Farmer lung,Hypersensitivity pneumonitis due to organic dust,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA701,Bagassosis,Hypersensitivity pneumonitis due to organic dust,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA702,Bird fancier lung,Hypersensitivity pneumonitis due to organic dust,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA703,Suberosis,Hypersensitivity pneumonitis due to organic dust,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA704,Malt worker lung,Hypersensitivity pneumonitis due to organic dust,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA705,Mushroom worker lung,Hypersensitivity pneumonitis due to organic dust,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA706,Maple bark stripper lung,Hypersensitivity pneumonitis due to organic dust,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA707,Air conditioner or humidifier lung,Hypersensitivity pneumonitis due to organic dust,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA70Y,Other specified hypersensitivity pneumonitis due to organic dust,Hypersensitivity pneumonitis due to organic dust,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA70Z,"Hypersensitivity pneumonitis due to organic dust, unspecified",Hypersensitivity pneumonitis due to organic dust,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA71,Pneumonitis due to solids or liquids,,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA710,Pneumonitis due to inhalation of food or vomit,Pneumonitis due to solids or liquids,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA711,Pneumonitis due to oils or essences,Pneumonitis due to solids or liquids,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA712,Pneumonitis due to aspiration of blood,Pneumonitis due to solids or liquids,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA713,Lipoid pneumonitis,Pneumonitis due to solids or liquids,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA71Y,Other specified pneumonitis due to solids or liquids,Pneumonitis due to solids or liquids,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA71Z,"Pneumonitis due to solids or liquids, unspecified",Pneumonitis due to solids or liquids,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA72,Mendelson syndrome,,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA7Y,Other specified pneumonitis,,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA7Z,"Pneumonitis, unspecified",,Pneumonitis,Lung diseases due to external agents,Diseases of the respiratory system
+CA80,Airway disease due to specific organic dust,,,Lung diseases due to external agents,Diseases of the respiratory system
+CA800,Byssinosis due to exposure to cotton,,Airway disease due to specific organic dust,Lung diseases due to external agents,Diseases of the respiratory system
+CA801,Byssinosis due to exposure to flax,,Airway disease due to specific organic dust,Lung diseases due to external agents,Diseases of the respiratory system
+CA802,Byssinosis due to exposure to cannabis,,Airway disease due to specific organic dust,Lung diseases due to external agents,Diseases of the respiratory system
+CA80Y,Other specified airway disease due to specific organic dust,,Airway disease due to specific organic dust,Lung diseases due to external agents,Diseases of the respiratory system
+CA80Z,"Airway disease due to specific organic dust, unspecified",,Airway disease due to specific organic dust,Lung diseases due to external agents,Diseases of the respiratory system
+CA81,"Respiratory conditions due to inhalation of chemicals, gases, fumes or vapours",,,Lung diseases due to external agents,Diseases of the respiratory system
+CA810,"Bronchitis or pneumonitis due to chemicals, gases, fumes or vapours",,"Respiratory conditions due to inhalation of chemicals, gases, fumes or vapours",Lung diseases due to external agents,Diseases of the respiratory system
+CA811,"Pulmonary oedema due to chemicals, gases, fumes or vapours",,"Respiratory conditions due to inhalation of chemicals, gases, fumes or vapours",Lung diseases due to external agents,Diseases of the respiratory system
+CA812,"Upper respiratory inflammation due to chemicals, gases, fumes or vapours, not elsewhere classified",,"Respiratory conditions due to inhalation of chemicals, gases, fumes or vapours",Lung diseases due to external agents,Diseases of the respiratory system
+CA81Y,"Other specified respiratory conditions due to inhalation of chemicals, gases, fumes or vapours",,"Respiratory conditions due to inhalation of chemicals, gases, fumes or vapours",Lung diseases due to external agents,Diseases of the respiratory system
+CA81Z,"Respiratory conditions due to inhalation of chemicals, gases, fumes or vapours, unspecified",,"Respiratory conditions due to inhalation of chemicals, gases, fumes or vapours",Lung diseases due to external agents,Diseases of the respiratory system
+CA82,Respiratory conditions due to other external agents,,,Lung diseases due to external agents,Diseases of the respiratory system
+CA820,Acute pulmonary manifestations due to radiation,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Diseases of the respiratory system
+CA821,Chronic or other pulmonary manifestations due to radiation,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Diseases of the respiratory system
+CA822,Acute drug-induced interstitial lung disorders,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Diseases of the respiratory system
+CA823,Chronic drug-induced interstitial lung disorders,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Diseases of the respiratory system
+CA824,Aspergillus-induced allergic or hypersensitivity conditions,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Diseases of the respiratory system
+CA82Y,Other specified respiratory conditions due to other external agents,,Respiratory conditions due to other external agents,Lung diseases due to external agents,Diseases of the respiratory system
+CA82Z,"Respiratory conditions due to other external agents, unspecified",,Respiratory conditions due to other external agents,Lung diseases due to external agents,Diseases of the respiratory system
+CA8Y,Other specified lung diseases due to external agents,,,Lung diseases due to external agents,Diseases of the respiratory system
+CA8Z,"Lung diseases due to external agents, unspecified",,,Lung diseases due to external agents,Diseases of the respiratory system
+CB00,Acute respiratory distress syndrome,,,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB01,Pulmonary oedema,,,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB02,Pulmonary eosinophilia,,,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB020,Asthmatic pulmonary eosinophilia,,Pulmonary eosinophilia,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB021,Idiopathic eosinophilic pneumonitis,,Pulmonary eosinophilia,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB0210,Idiopathic acute eosinophilic pneumonitis,Idiopathic eosinophilic pneumonitis,Pulmonary eosinophilia,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB0211,Idiopathic chronic eosinophilic pneumonitis,Idiopathic eosinophilic pneumonitis,Pulmonary eosinophilia,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB021Y,Other specified idiopathic eosinophilic pneumonitis,Idiopathic eosinophilic pneumonitis,Pulmonary eosinophilia,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB021Z,"Idiopathic eosinophilic pneumonitis, unspecified",Idiopathic eosinophilic pneumonitis,Pulmonary eosinophilia,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB022,Tropical pulmonary eosinophilia,,Pulmonary eosinophilia,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB02Y,Other specified pulmonary eosinophilia,,Pulmonary eosinophilia,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB02Z,"Pulmonary eosinophilia, unspecified",,Pulmonary eosinophilia,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB03,Idiopathic interstitial pneumonitis,,,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB030,Acute interstitial pneumonitis,,Idiopathic interstitial pneumonitis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB031,Combined pulmonary fibrosis and emphysema syndrome,,Idiopathic interstitial pneumonitis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB032,Cryptogenic organizing pneumonitis,,Idiopathic interstitial pneumonitis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB033,Desquamative interstitial pneumonitis,,Idiopathic interstitial pneumonitis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB034,Idiopathic pulmonary fibrosis,,Idiopathic interstitial pneumonitis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB035,Lymphoid interstitial pneumonia,,Idiopathic interstitial pneumonitis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB036,Respiratory bronchiolitis - interstitial lung disease,,Idiopathic interstitial pneumonitis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB03Y,Other specified idiopathic interstitial pneumonitis,,Idiopathic interstitial pneumonitis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB03Z,"Idiopathic interstitial pneumonitis, unspecified",,Idiopathic interstitial pneumonitis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB04,Primary interstitial lung diseases specific to infancy or childhood,,,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB040,Diffuse pulmonary developmental disorders,,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB041,Pulmonary lymphatic dysplasia syndromes,,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB042,Disorders of surfactant metabolism,,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB043,Alveolar or peri-alveolar conditions,,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB0430,Idiopathic pulmonary haemosiderosis,Alveolar or peri-alveolar conditions,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB0431,Pulmonary alveolar proteinosis,Alveolar or peri-alveolar conditions,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB043Y,Other specified alveolar or peri-alveolar conditions,Alveolar or peri-alveolar conditions,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB043Z,"Alveolar or peri-alveolar conditions, unspecified",Alveolar or peri-alveolar conditions,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB044,Pulmonary capillaritis,,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB045,Brain-lung-thyroid syndrome,,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB046,Chronic pneumonitis of infancy,,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB047,Neuroendocrine cell hyperplasia of infancy,,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB04Y,Other specified primary interstitial lung diseases specific to infancy or childhood,,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB04Z,"Primary interstitial lung diseases specific to infancy or childhood, unspecified",,Primary interstitial lung diseases specific to infancy or childhood,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB05,Interstitial lung diseases associated with systemic diseases,,,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB050,Diffuse alveolar damage,,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB051,Interstitial lung diseases associated with connective tissue diseases,,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB052,Interstitial lung diseases associated with granulomatous diseases,,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB053,Interstitial lung diseases associated with metabolic diseases,,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB054,Interstitial lung diseases associated with systemic vasculitides,,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB0540,Respiratory disorders in Churg-Strauss syndrome,Interstitial lung diseases associated with systemic vasculitides,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB0541,Respiratory disorders in microscopic polyangiitis,Interstitial lung diseases associated with systemic vasculitides,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB054Y,Other specified interstitial lung diseases associated with systemic vasculitides,Interstitial lung diseases associated with systemic vasculitides,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB054Z,"Interstitial lung diseases associated with systemic vasculitides, unspecified",Interstitial lung diseases associated with systemic vasculitides,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB055,Secondary pulmonary haemosiderosis,,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB05Y,Other specified interstitial lung diseases associated with systemic diseases,,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB05Z,"Interstitial lung diseases associated with systemic diseases, unspecified",,Interstitial lung diseases associated with systemic diseases,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB06,Pulmonary alveolar microlithiasis,,,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB07,Lymphangioleiomyomatosis,,,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB070,Lymphangioleiomyomatosis associated with tuberous sclerosis complex,,Lymphangioleiomyomatosis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB071,Sporadic lymphangioleiomyomatosis,,Lymphangioleiomyomatosis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB07Y,Other specified lymphangioleiomyomatosis,,Lymphangioleiomyomatosis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB07Z,"Lymphangioleiomyomatosis, unspecified",,Lymphangioleiomyomatosis,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB0Y,Other specified respiratory diseases principally affecting the lung interstitium,,,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB0Z,"Respiratory diseases principally affecting the lung interstitium, unspecified",,,Respiratory diseases principally affecting the lung interstitium,Diseases of the respiratory system
+CB20,Pleural plaque,,,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB21,Pneumothorax,,,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB210,Spontaneous tension pneumothorax,,Pneumothorax,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB211,Other spontaneous pneumothorax,,Pneumothorax,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB21Y,Other specified pneumothorax,,Pneumothorax,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB21Z,"Pneumothorax, unspecified",,Pneumothorax,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB22,"Diseases of mediastinum, not elsewhere classified",,,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB220,Fibrosing mediastinitis,,"Diseases of mediastinum, not elsewhere classified","Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB22Y,"Other specified diseases of mediastinum, not elsewhere classified",,"Diseases of mediastinum, not elsewhere classified","Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB22Z,"Disease of mediastinum, unspecified",,"Diseases of mediastinum, not elsewhere classified","Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB23,Disorders of diaphragm,,,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB24,Chylous effusion,,,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB25,Fibrothorax,,,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB26,Haemothorax,,,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB27,Pleural effusion,,,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB2Y,"Other specified pleural, diaphragm or mediastinal disorders",,,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB2Z,"Pleural, diaphragm or mediastinal disorders, unspecified",,,"Pleural, diaphragm or mediastinal disorders",Diseases of the respiratory system
+CB40.0,Ciliary dyskinesia,,,Certain diseases of the respiratory system,Diseases of the respiratory system
+CB40.1,Young syndrome,,,Certain diseases of the respiratory system,Diseases of the respiratory system
+CB40.2,Pulmonary collapse,,,Certain diseases of the respiratory system,Diseases of the respiratory system
+CB40.3,Interstitial emphysema,,,Certain diseases of the respiratory system,Diseases of the respiratory system
+CB40.4,Compensatory emphysema,,,Certain diseases of the respiratory system,Diseases of the respiratory system
+CB40.Y,Other specified diseases of the respiratory system,,,Certain diseases of the respiratory system,Diseases of the respiratory system
+CB41.0,Acute respiratory failure,,,Respiratory failure,Diseases of the respiratory system
+CB4100,"Acute respiratory failure, Type I",,Acute respiratory failure,Respiratory failure,Diseases of the respiratory system
+CB4101,"Acute respiratory failure, Type II",,Acute respiratory failure,Respiratory failure,Diseases of the respiratory system
+CB410Z,"Acute respiratory failure, unspecified",,Acute respiratory failure,Respiratory failure,Diseases of the respiratory system
+CB41.1,Chronic respiratory failure,,,Respiratory failure,Diseases of the respiratory system
+CB4110,"Chronic respiratory failure, Type I",,Chronic respiratory failure,Respiratory failure,Diseases of the respiratory system
+CB4111,"Chronic respiratory failure, Type II",,Chronic respiratory failure,Respiratory failure,Diseases of the respiratory system
+CB411Z,"Chronic respiratory failure, unspecified",,Chronic respiratory failure,Respiratory failure,Diseases of the respiratory system
+CB41.2,"Respiratory failure, unspecified as acute or chronic",,,Respiratory failure,Diseases of the respiratory system
+CB4120,"Respiratory failure, unspecified, Type I",,"Respiratory failure, unspecified as acute or chronic",Respiratory failure,Diseases of the respiratory system
+CB4121,"Respiratory failure, unspecified, Type II",,"Respiratory failure, unspecified as acute or chronic",Respiratory failure,Diseases of the respiratory system
+CB412Z,"Respiratory failure, unspecified",,"Respiratory failure, unspecified as acute or chronic",Respiratory failure,Diseases of the respiratory system
+CB60,Tracheostomy malfunction,,,Postprocedural disorders of the respiratory system,Diseases of the respiratory system
+CB61,Chronic pulmonary insufficiency following surgery,,,Postprocedural disorders of the respiratory system,Diseases of the respiratory system
+CB62,Postprocedural subglottic stenosis,,,Postprocedural disorders of the respiratory system,Diseases of the respiratory system
+CB63,Postprocedural stenosis of the trachea,,,Postprocedural disorders of the respiratory system,Diseases of the respiratory system
+CB64,Transfusion related acute lung injury,,,Postprocedural disorders of the respiratory system,Diseases of the respiratory system
+CB7Z,"Diseases of the respiratory system, unspecified",,,,Diseases of the respiratory system

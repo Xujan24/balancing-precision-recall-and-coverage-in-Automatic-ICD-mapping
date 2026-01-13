@@ -1,0 +1,321 @@
+code,code_desc,p1,p2,p3,p4
+460,,,Acute nasopharyngitis [common cold],Acute Respiratory Infections,Diseases of the respiratory system
+461,,,Acute sinusitis,Acute Respiratory Infections,Diseases of the respiratory system
+4610,Acute maxillary sinusitis,,Acute sinusitis,Acute Respiratory Infections,Diseases of the respiratory system
+4611,Acute frontal sinusitis,,Acute sinusitis,Acute Respiratory Infections,Diseases of the respiratory system
+4612,Acute ethmoidal sinusitis,,Acute sinusitis,Acute Respiratory Infections,Diseases of the respiratory system
+4613,Acute sphenoidal sinusitis,,Acute sinusitis,Acute Respiratory Infections,Diseases of the respiratory system
+4618,Other acute sinusitis,,Acute sinusitis,Acute Respiratory Infections,Diseases of the respiratory system
+4619,"Acute sinusitis, unspecified",,Acute sinusitis,Acute Respiratory Infections,Diseases of the respiratory system
+462,,,Acute pharyngitis,Acute Respiratory Infections,Diseases of the respiratory system
+463,,,Acute tonsillitis,Acute Respiratory Infections,Diseases of the respiratory system
+464,,,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+4640,,Acute laryngitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+46400,Acute laryngitis without mention of obstruction,Acute laryngitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+46401,Acute laryngitis with obstruction,Acute laryngitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+4641,,Acute tracheitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+46410,Acute tracheitis without mention of obstruction,Acute tracheitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+46411,Acute tracheitis with obstruction,Acute tracheitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+4642,,Acute laryngotracheitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+46420,Acute laryngotracheitis without mention of obstruction,Acute laryngotracheitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+46421,Acute laryngotracheitis with obstruction,Acute laryngotracheitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+4643,,Acute epiglottitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+46430,Acute epiglottitis without mention of obstruction,Acute epiglottitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+46431,Acute epiglottitis with obstruction,Acute epiglottitis,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+4644,Croup,,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+4645,,Supraglottitis unspecified,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+46450,"Supraglottitis unspecified, without obstruction",Supraglottitis unspecified,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+46451,"Supraglottitis unspecified, with obstruction",Supraglottitis unspecified,Acute laryngitis and tracheitis,Acute Respiratory Infections,Diseases of the respiratory system
+465,,,Acute upper respiratory infections of multiple or unspecified sites,Acute Respiratory Infections,Diseases of the respiratory system
+4650,Acute laryngopharyngitis,,Acute upper respiratory infections of multiple or unspecified sites,Acute Respiratory Infections,Diseases of the respiratory system
+4658,Acute upper respiratory infections of other multiple sites,,Acute upper respiratory infections of multiple or unspecified sites,Acute Respiratory Infections,Diseases of the respiratory system
+4659,Acute upper respiratory infections of unspecified site,,Acute upper respiratory infections of multiple or unspecified sites,Acute Respiratory Infections,Diseases of the respiratory system
+466,,,Acute bronchitis and bronchiolitis,Acute Respiratory Infections,Diseases of the respiratory system
+4660,Acute bronchitis,,Acute bronchitis and bronchiolitis,Acute Respiratory Infections,Diseases of the respiratory system
+4661,,Acute bronchiolitis,Acute bronchitis and bronchiolitis,Acute Respiratory Infections,Diseases of the respiratory system
+46611,Acute bronchiolitis due to respiratory syncytial virus (RSV),Acute bronchiolitis,Acute bronchitis and bronchiolitis,Acute Respiratory Infections,Diseases of the respiratory system
+46619,Acute bronchiolitis due to other infectious organisms,Acute bronchiolitis,Acute bronchitis and bronchiolitis,Acute Respiratory Infections,Diseases of the respiratory system
+470,,,Deviated nasal septum,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+471,,,Nasal polyps,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4710,Polyp of nasal cavity,,Nasal polyps,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4711,Polypoid sinus degeneration,,Nasal polyps,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4718,Other polyp of sinus,,Nasal polyps,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4719,Unspecified nasal polyp,,Nasal polyps,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+472,,,Chronic pharyngitis and nasopharyngitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4720,Chronic rhinitis,,Chronic pharyngitis and nasopharyngitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4721,Chronic pharyngitis,,Chronic pharyngitis and nasopharyngitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4722,Chronic nasopharyngitis,,Chronic pharyngitis and nasopharyngitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+473,,,Chronic sinusitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4730,Chronic maxillary sinusitis,,Chronic sinusitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4731,Chronic frontal sinusitis,,Chronic sinusitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4732,Chronic ethmoidal sinusitis,,Chronic sinusitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4733,Chronic sphenoidal sinusitis,,Chronic sinusitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4738,Other chronic sinusitis,,Chronic sinusitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4739,Unspecified sinusitis (chronic),,Chronic sinusitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+474,,,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4740,,Chronic tonsillitis and adenoiditis,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47400,Chronic tonsillitis,Chronic tonsillitis and adenoiditis,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47401,Chronic adenoiditis,Chronic tonsillitis and adenoiditis,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47402,Chronic tonsillitis and adenoiditis,Chronic tonsillitis and adenoiditis,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4741,,Hypertrophy of tonsils and adenoids,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47410,Hypertrophy of tonsil with adenoids,Hypertrophy of tonsils and adenoids,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47411,Hypertrophy of tonsils alone,Hypertrophy of tonsils and adenoids,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47412,Hypertrophy of adenoids alone,Hypertrophy of tonsils and adenoids,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4742,Adenoid vegetations,,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4748,Other chronic disease of tonsils and adenoids,,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4749,Unspecified chronic disease of tonsils and adenoids,,Chronic disease of tonsils and adenoids,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+475,,,Peritonsillar abscess,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+476,,,Chronic laryngitis and laryngotracheitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4760,Chronic laryngitis,,Chronic laryngitis and laryngotracheitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4761,Chronic laryngotracheitis,,Chronic laryngitis and laryngotracheitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+477,,,Allergic rhinitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4770,Allergic rhinitis due to pollen,,Allergic rhinitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4771,Allergic rhinitis due to food,,Allergic rhinitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4772,Allergic rhinitis due to animal (cat) (dog) hair and dander,,Allergic rhinitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4778,Allergic rhinitis due to other allergen,,Allergic rhinitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4779,"Allergic rhinitis, cause unspecified",,Allergic rhinitis,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+478,,,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4780,Hypertrophy of nasal turbinates,,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4781,,Other diseases of nasal cavity and sinuses,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47811,Nasal mucositis (ulcerative),Other diseases of nasal cavity and sinuses,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47819,Other disease of nasal cavity and sinuses,Other diseases of nasal cavity and sinuses,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4782,,Other diseases of pharynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47820,Unspecified disease of pharynx,Other diseases of pharynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47821,Cellulitis of pharynx or nasopharynx,Other diseases of pharynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47822,Parapharyngeal abscess,Other diseases of pharynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47824,Retropharyngeal abscess,Other diseases of pharynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47825,Edema of pharynx or nasopharynx,Other diseases of pharynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47826,Cyst of pharynx or nasopharynx,Other diseases of pharynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47829,"Other diseases of pharynx, not elsewhere classified",Other diseases of pharynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4783,,Paralysis of vocal cords or larynx,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47830,"Paralysis of vocal cords or larynx, unspecified",Paralysis of vocal cords or larynx,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47831,"Unilateral paralysis of vocal cords or larynx, partial",Paralysis of vocal cords or larynx,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47832,"Unilateral paralysis of vocal cords or larynx, complete",Paralysis of vocal cords or larynx,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47833,"Bilateral paralysis of vocal cords or larynx, partial",Paralysis of vocal cords or larynx,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47834,"Bilateral paralysis of vocal cords or larynx, complete",Paralysis of vocal cords or larynx,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4784,Polyp of vocal cord or larynx,,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4785,Other diseases of vocal cords,,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4786,Edema of larynx,,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4787,,Other diseases of larynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47870,Unspecified disease of larynx,Other diseases of larynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47871,Cellulitis and perichondritis of larynx,Other diseases of larynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47874,Stenosis of larynx,Other diseases of larynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47875,Laryngeal spasm,Other diseases of larynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+47879,"Other diseases of larynx, not elsewhere classified",Other diseases of larynx not elsewhere classified,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4788,"Upper respiratory tract hypersensitivity reaction, site unspecified",,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+4789,Other and unspecified diseases of upper respiratory tract,,Other diseases of upper respiratory tract,Other Diseases Of Upper Respiratory Tract,Diseases of the respiratory system
+480,,,Viral pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4800,Pneumonia due to adenovirus,,Viral pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4801,Pneumonia due to respiratory syncytial virus,,Viral pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4802,Pneumonia due to parainfluenza virus,,Viral pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4803,Pneumonia due to SARS-associated coronavirus,,Viral pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4808,Pneumonia due to other virus not elsewhere classified,,Viral pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4809,"Viral pneumonia, unspecified",,Viral pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+481,,,Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia],Pneumonia And Influenza,Diseases of the respiratory system
+482,,,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4820,Pneumonia due to Klebsiella pneumoniae,,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4821,Pneumonia due to Pseudomonas,,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4822,Pneumonia due to Hemophilus influenzae [H. influenzae],,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4823,,Pneumonia due to streptococcus,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48230,"Pneumonia due to Streptococcus, unspecified",Pneumonia due to streptococcus,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48231,"Pneumonia due to Streptococcus, group A",Pneumonia due to streptococcus,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48232,"Pneumonia due to Streptococcus, group B",Pneumonia due to streptococcus,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48239,Pneumonia due to other Streptococcus,Pneumonia due to streptococcus,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4824,,Pneumonia due to staphylococcus,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48240,"Pneumonia due to Staphylococcus, unspecified",Pneumonia due to staphylococcus,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48241,Methicillin susceptible pneumonia due to Staphylococcus aureus,Pneumonia due to staphylococcus,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48242,Methicillin resistant pneumonia due to Staphylococcus aureus,Pneumonia due to staphylococcus,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48249,Other Staphylococcus pneumonia,Pneumonia due to staphylococcus,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4828,,Pneumonia due to other specified bacteria,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48281,Pneumonia due to anaerobes,Pneumonia due to other specified bacteria,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48282,Pneumonia due to escherichia coli [E. coli],Pneumonia due to other specified bacteria,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48283,Pneumonia due to other gram-negative bacteria,Pneumonia due to other specified bacteria,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48284,Pneumonia due to Legionnaires' disease,Pneumonia due to other specified bacteria,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+48289,Pneumonia due to other specified bacteria,Pneumonia due to other specified bacteria,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+4829,"Bacterial pneumonia, unspecified",,Other bacterial pneumonia,Pneumonia And Influenza,Diseases of the respiratory system
+483,,,Pneumonia due to other specified organism,Pneumonia And Influenza,Diseases of the respiratory system
+4830,Pneumonia due to mycoplasma pneumoniae,,Pneumonia due to other specified organism,Pneumonia And Influenza,Diseases of the respiratory system
+4831,Pneumonia due to chlamydia,,Pneumonia due to other specified organism,Pneumonia And Influenza,Diseases of the respiratory system
+4838,Pneumonia due to other specified organism,,Pneumonia due to other specified organism,Pneumonia And Influenza,Diseases of the respiratory system
+484,,,Pneumonia in infectious diseases classified elsewhere,Pneumonia And Influenza,Diseases of the respiratory system
+4841,Pneumonia in cytomegalic inclusion disease,,Pneumonia in infectious diseases classified elsewhere,Pneumonia And Influenza,Diseases of the respiratory system
+4843,Pneumonia in whooping cough,,Pneumonia in infectious diseases classified elsewhere,Pneumonia And Influenza,Diseases of the respiratory system
+4845,Pneumonia in anthrax,,Pneumonia in infectious diseases classified elsewhere,Pneumonia And Influenza,Diseases of the respiratory system
+4846,Pneumonia in aspergillosis,,Pneumonia in infectious diseases classified elsewhere,Pneumonia And Influenza,Diseases of the respiratory system
+4847,Pneumonia in other systemic mycoses,,Pneumonia in infectious diseases classified elsewhere,Pneumonia And Influenza,Diseases of the respiratory system
+4848,Pneumonia in other infectious diseases classified elsewhere,,Pneumonia in infectious diseases classified elsewhere,Pneumonia And Influenza,Diseases of the respiratory system
+485,,,"Bronchopneumonia, organism unspecified",Pneumonia And Influenza,Diseases of the respiratory system
+486,,,"Pneumonia, organism unspecified",Pneumonia And Influenza,Diseases of the respiratory system
+487,,,Influenza,Pneumonia And Influenza,Diseases of the respiratory system
+4870,Influenza with pneumonia,,Influenza,Pneumonia And Influenza,Diseases of the respiratory system
+4871,Influenza with other respiratory manifestations,,Influenza,Pneumonia And Influenza,Diseases of the respiratory system
+4878,Influenza with other manifestations,,Influenza,Pneumonia And Influenza,Diseases of the respiratory system
+488,,,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+4880,,Influenza due to identified avian influenza virus,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+48801,Influenza due to identified avian influenza virus with pneumonia,Influenza due to identified avian influenza virus,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+48802,Influenza due to identified avian influenza virus with other respiratory manifestations,Influenza due to identified avian influenza virus,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+48809,Influenza due to identified avian influenza virus with other manifestations,Influenza due to identified avian influenza virus,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+4881,,Influenza due to identified 2009 h1n1 influenza virus,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+48811,Influenza due to identified 2009 H1N1 influenza virus with pneumonia,Influenza due to identified 2009 h1n1 influenza virus,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+48812,Influenza due to identified 2009 H1N1 influenza virus with other respiratory manifestations,Influenza due to identified 2009 h1n1 influenza virus,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+48819,Influenza due to identified 2009 H1N1 influenza virus with other manifestations,Influenza due to identified 2009 h1n1 influenza virus,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+4888,,Influenza due to novel influenza a,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+48881,Influenza due to identified novel influenza A virus with pneumonia,Influenza due to novel influenza a,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+48882,Influenza due to identified novel influenza A virus with other respiratory manifestations,Influenza due to novel influenza a,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+48889,Influenza due to identified novel influenza A virus with other manifestations,Influenza due to novel influenza a,Influenza due to certain identified influenza viruses,Pneumonia And Influenza,Diseases of the respiratory system
+490,,,"Bronchitis, not specified as acute or chronic",Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+491,,,Chronic bronchitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4910,Simple chronic bronchitis,,Chronic bronchitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4911,Mucopurulent chronic bronchitis,,Chronic bronchitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4912,,Obstructive chronic bronchitis,Chronic bronchitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49120,Obstructive chronic bronchitis without exacerbation,Obstructive chronic bronchitis,Chronic bronchitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49121,Obstructive chronic bronchitis with (acute) exacerbation,Obstructive chronic bronchitis,Chronic bronchitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49122,Obstructive chronic bronchitis with acute bronchitis,Obstructive chronic bronchitis,Chronic bronchitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4918,Other chronic bronchitis,,Chronic bronchitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4919,Unspecified chronic bronchitis,,Chronic bronchitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+492,,,Emphysema,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4920,Emphysematous bleb,,Emphysema,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4928,Other emphysema,,Emphysema,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+493,,,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4930,,Extrinsic asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49300,"Extrinsic asthma, unspecified",Extrinsic asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49301,Extrinsic asthma with status asthmaticus,Extrinsic asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49302,Extrinsic asthma with (acute) exacerbation,Extrinsic asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4931,,Intrinsic asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49310,"Intrinsic asthma, unspecified",Intrinsic asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49311,Intrinsic asthma with status asthmaticus,Intrinsic asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49312,Intrinsic asthma with (acute) exacerbation,Intrinsic asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4932,,Chronic obstructive asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49320,"Chronic obstructive asthma, unspecified",Chronic obstructive asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49321,Chronic obstructive asthma with status asthmaticus,Chronic obstructive asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49322,Chronic obstructive asthma with (acute) exacerbation,Chronic obstructive asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4938,,Other forms of asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49381,Exercise induced bronchospasm,Other forms of asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49382,Cough variant asthma,Other forms of asthma,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4939,,Asthma unspecified,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49390,"Asthma, unspecified type, unspecified",Asthma unspecified,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49391,"Asthma, unspecified type, with status asthmaticus",Asthma unspecified,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+49392,"Asthma, unspecified type, with (acute) exacerbation",Asthma unspecified,Asthma,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+494,,,Bronchiectasis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4940,Bronchiectasis without acute exacerbation,,Bronchiectasis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4941,Bronchiectasis with acute exacerbation,,Bronchiectasis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+495,,,Extrinsic allergic alveolitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4950,Farmers' lung,,Extrinsic allergic alveolitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4951,Bagassosis,,Extrinsic allergic alveolitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4952,Bird-fanciers' lung,,Extrinsic allergic alveolitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4953,Suberosis,,Extrinsic allergic alveolitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4954,Malt workers' lung,,Extrinsic allergic alveolitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4955,Mushroom workers' lung,,Extrinsic allergic alveolitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4956,Maple bark-strippers' lung,,Extrinsic allergic alveolitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4957,"""Ventilation"" pneumonitis",,Extrinsic allergic alveolitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4958,Other specified allergic alveolitis and pneumonitis,,Extrinsic allergic alveolitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+4959,Unspecified allergic alveolitis and pneumonitis,,Extrinsic allergic alveolitis,Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+496,,,"Chronic airway obstruction, not elsewhere classified",Chronic Obstructive Pulmonary Disease And Allied Conditions,Diseases of the respiratory system
+500,,,Coal workers' pneumoconiosis,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+501,,,Asbestosis,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+502,,,Pneumoconiosis due to other silica or silicates,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+503,,,Pneumoconiosis due to other inorganic dust,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+504,,,Pneumonopathy due to inhalation of other dust,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+505,,,"Pneumoconiosis, unspecified",Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+506,,,Respiratory conditions due to chemical fumes and vapors,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5060,Bronchitis and pneumonitis due to fumes and vapors,,Respiratory conditions due to chemical fumes and vapors,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5061,Acute pulmonary edema due to fumes and vapors,,Respiratory conditions due to chemical fumes and vapors,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5062,Upper respiratory inflammation due to fumes and vapors,,Respiratory conditions due to chemical fumes and vapors,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5063,Other acute and subacute respiratory conditions due to fumes and vapors,,Respiratory conditions due to chemical fumes and vapors,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5064,Chronic respiratory conditions due to fumes and vapors,,Respiratory conditions due to chemical fumes and vapors,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5069,Unspecified respiratory conditions due to fumes and vapors,,Respiratory conditions due to chemical fumes and vapors,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+507,,,Pneumonitis due to solids and liquids,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5070,Pneumonitis due to inhalation of food or vomitus,,Pneumonitis due to solids and liquids,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5071,Pneumonitis due to inhalation of oils and essences,,Pneumonitis due to solids and liquids,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5078,Pneumonitis due to other solids and liquids,,Pneumonitis due to solids and liquids,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+508,,,Respiratory conditions due to other and unspecified external agents,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5080,Acute pulmonary manifestations due to radiation,,Respiratory conditions due to other and unspecified external agents,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5081,Chronic and other pulmonary manifestations due to radiation,,Respiratory conditions due to other and unspecified external agents,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5082,Respiratory conditions due to smoke inhalation,,Respiratory conditions due to other and unspecified external agents,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5088,Respiratory conditions due to other specified external agents,,Respiratory conditions due to other and unspecified external agents,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+5089,Respiratory conditions due to unspecified external agent,,Respiratory conditions due to other and unspecified external agents,Pneumoconioses And Other Lung Diseases Due To External Agents,Diseases of the respiratory system
+510,,,Empyema,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5100,Empyema with fistula,,Empyema,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5109,Empyema without mention of fistula,,Empyema,Other Diseases Of Respiratory System,Diseases of the respiratory system
+511,,,Pleurisy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5110,Pleurisy without mention of effusion or current tuberculosis,,Pleurisy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5111,"Pleurisy with effusion, with mention of a bacterial cause other than tuberculosis",,Pleurisy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5118,,Other specified forms of pleural effusion except tuberculous,Pleurisy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51181,Malignant pleural effusion,Other specified forms of pleural effusion except tuberculous,Pleurisy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51189,"Other specified forms of effusion, except tuberculous",Other specified forms of pleural effusion except tuberculous,Pleurisy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5119,Unspecified pleural effusion,,Pleurisy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+512,,,Pneumothorax and air leak,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5120,Spontaneous tension pneumothorax,,Pneumothorax and air leak,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5121,Iatrogenic pneumothorax,,Pneumothorax and air leak,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5122,Postoperative air leak,,Pneumothorax and air leak,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5128,,Oth pneumothorax and air leak,Pneumothorax and air leak,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51281,Primary spontaneous pneumothorax,Oth pneumothorax and air leak,Pneumothorax and air leak,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51282,Secondary spontaneous pneumothorax,Oth pneumothorax and air leak,Pneumothorax and air leak,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51283,Chronic pneumothorax,Oth pneumothorax and air leak,Pneumothorax and air leak,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51284,Other air leak,Oth pneumothorax and air leak,Pneumothorax and air leak,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51289,Other pneumothorax,Oth pneumothorax and air leak,Pneumothorax and air leak,Other Diseases Of Respiratory System,Diseases of the respiratory system
+513,,,Abscess of lung and mediastinum,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5130,Abscess of lung,,Abscess of lung and mediastinum,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5131,Abscess of mediastinum,,Abscess of lung and mediastinum,Other Diseases Of Respiratory System,Diseases of the respiratory system
+514,,,Pulmonary congestion and hypostasis,Other Diseases Of Respiratory System,Diseases of the respiratory system
+515,,,Postinflammatory pulmonary fibrosis,Other Diseases Of Respiratory System,Diseases of the respiratory system
+516,,,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5160,Pulmonary alveolar proteinosis,,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5161,Idiopathic pulmonary hemosiderosis,,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5162,Pulmonary alveolar microlithiasis,,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5163,,Idiopathic interstitial pneumonia,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51630,"Idiopathic interstitial pneumonia, not otherwise specified",Idiopathic interstitial pneumonia,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51631,Idiopathic pulmonary fibrosis,Idiopathic interstitial pneumonia,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51632,Idiopathic non-specific interstitial pneumonitis,Idiopathic interstitial pneumonia,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51633,Acute interstitial pneumonitis,Idiopathic interstitial pneumonia,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51634,Respiratory bronchiolitis interstitial lung disease,Idiopathic interstitial pneumonia,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51635,Idiopathic lymphoid interstitial pneumonia,Idiopathic interstitial pneumonia,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51636,Cryptogenic organizing pneumonia,Idiopathic interstitial pneumonia,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51637,Desquamative interstitial pneumonia,Idiopathic interstitial pneumonia,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5164,Lymphangioleiomyomatosis,,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5165,Adult pulmonary Langerhans cell histiocytosis,,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5166,,Interstitial lung diseases of childhood,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51661,Neuroendocrine cell hyperplasia of infancy,Interstitial lung diseases of childhood,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51662,Pulmonary interstitial glycogenosis,Interstitial lung diseases of childhood,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51663,Surfactant mutations of the lung,Interstitial lung diseases of childhood,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51664,Alveolar capillary dysplasia with vein misalignment,Interstitial lung diseases of childhood,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51669,Other interstitial lung diseases of childhood,Interstitial lung diseases of childhood,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5168,Other specified alveolar and parietoalveolar pneumonopathies,,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5169,Unspecified alveolar and parietoalveolar pneumonopathy,,Other alveolar and parietoalveolar pneumonopathy,Other Diseases Of Respiratory System,Diseases of the respiratory system
+517,,,Lung involvement in conditions classified elsewhere,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5171,Rheumatic pneumonia,,Lung involvement in conditions classified elsewhere,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5172,Lung involvement in systemic sclerosis,,Lung involvement in conditions classified elsewhere,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5173,Acute chest syndrome,,Lung involvement in conditions classified elsewhere,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5178,Lung involvement in other diseases classified elsewhere,,Lung involvement in conditions classified elsewhere,Other Diseases Of Respiratory System,Diseases of the respiratory system
+518,,,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5180,Pulmonary collapse,,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5181,Interstitial emphysema,,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5182,Compensatory emphysema,,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5183,Pulmonary eosinophilia,,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5184,"Acute edema of lung, unspecified",,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5185,,Pulmonary insufficiency following trauma and surgery,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51851,Acute respiratory failure following trauma and surgery,Pulmonary insufficiency following trauma and surgery,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51852,"Other pulmonary insufficiency, not elsewhere classified, following trauma and surgery",Pulmonary insufficiency following trauma and surgery,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51853,Acute and chronic respiratory failure following trauma and surgery,Pulmonary insufficiency following trauma and surgery,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5186,Allergic bronchopulmonary aspergillosis,,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5187,Transfusion related acute lung injury (TRALI),,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5188,,Other diseases of lung,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51881,Acute respiratory failure,Other diseases of lung,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51882,"Other pulmonary insufficiency, not elsewhere classified",Other diseases of lung,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51883,Chronic respiratory failure,Other diseases of lung,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51884,Acute and chronic respiratory failure,Other diseases of lung,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51889,"Other diseases of lung, not elsewhere classified",Other diseases of lung,Other diseases of lung,Other Diseases Of Respiratory System,Diseases of the respiratory system
+519,,,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5190,,Tracheostomy complications,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51900,"Tracheostomy complication, unspecified",Tracheostomy complications,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51901,Infection of tracheostomy,Tracheostomy complications,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51902,Mechanical complication of tracheostomy,Tracheostomy complications,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51909,Other tracheostomy complications,Tracheostomy complications,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5191,,Other diseases of trachea and bronchus not elsewhere classified,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51911,Acute bronchospasm,Other diseases of trachea and bronchus not elsewhere classified,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+51919,Other diseases of trachea and bronchus,Other diseases of trachea and bronchus not elsewhere classified,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5192,Mediastinitis,,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5193,"Other diseases of mediastinum, not elsewhere classified",,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5194,Disorders of diaphragm,,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5198,"Other diseases of respiratory system, not elsewhere classified",,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
+5199,Unspecified disease of respiratory system,,Other diseases of respiratory system,Other Diseases Of Respiratory System,Diseases of the respiratory system
