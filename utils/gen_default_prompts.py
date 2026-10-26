@@ -28,8 +28,8 @@ def main() -> None:
         gt = load_from_pkl(f'./data/gt/{src}_{tgt}.pkl')
         
         for ch in list(CHAPTERS.keys()):
-            src_ls = pd.read_csv(f'./data/icd/{src}_{ch}.csv').values.tolist()
-            tgt_ls = pd.read_csv(f'./data/icd/{tgt}_{ch}.csv').values.tolist()
+            src_ls = pd.read_csv(f'./data/icd/{src}_{ch}.csv', dtype=str).values.tolist()
+            tgt_ls = pd.read_csv(f'./data/icd/{tgt}_{ch}.csv', dtype=str).values.tolist()
 
             src_ls = [[item for item in row if pd.notna(item)] for row in src_ls]
             tgt_ls = [[item for item in row if pd.notna(item)] for row in tgt_ls]
