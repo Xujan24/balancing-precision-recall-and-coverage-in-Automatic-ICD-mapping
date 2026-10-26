@@ -27,6 +27,8 @@ def parse_string_as_list(s):
         # First try literal_eval for properly quoted lists
         result = ast.literal_eval(s)
         if isinstance(result, list):
+            ## remove dot (.) if exists
+            result = [item.replace('.', '') for item in result]
             return result
     except (ValueError, SyntaxError):
         pass
