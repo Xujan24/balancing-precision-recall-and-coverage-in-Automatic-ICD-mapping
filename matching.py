@@ -58,15 +58,11 @@ if __name__ == '__main__':
     parser.add_argument('src', type=str, help='Source ICD version e.g. icd9cm')
     parser.add_argument('tgt', type=str, help='Target ICD version e.g. icd10cm')
     parser.add_argument('ch', type=str, help='Chapter index ["dig", "inf", "resp"]')
-    parser.add_argument('--method', type=str, default='default', help='Methods used to create the blocks. Default \'default\'')
+    parser.add_argument('--run', type=int, help="Current number of run", required=True)
     parser.add_argument('--k', type=int, default=5, help='Number of top target codes to select to generate the blocks; Default 5. Discard if using \'th\' or \'oto+th\'')
-    parser.add_argument('--th', type=float, default=0.65, help='Cutoff or the threshold value for the cosine similarity scores; Default .85. Discard if using \'topk\' or \'oto+topk\'')
     parser.add_argument('--batch-size', type=int, default=8, help="Batch size to process in a single pass. Default 8")
     parser.add_argument('--logging', action="store_true", default=False)
     args = parser.parse_args()
-
-    if args.method not in list(ALLOWED_METHODS_DICT.keys()):
-        raise ValueError(f'Invalid method provided. Allowed methods are: {list(ALLOWED_METHODS_DICT.keys())}')
     
     
     src_df = pd.read_csv(f'./data/icd/{args.src}_{args.ch}.csv', dtype=str)
@@ -77,13 +73,10 @@ if __name__ == '__main__':
 
     del src_df, tgt_df
 
+    assert os.path.exists(f'./out/blocking/{args.ch}/{ALLOWED_METHODS_DICT.get("default")}/{args.k}'), f'Blocks not found at {f'./out/blocking/{args.ch}/{ALLOWED_METHODS_DICT.get("default")}/{args.k}'}'
+
     ## load the blocks
-    blocks_dir = f'./out/blocking/{args.ch}/{ALLOWED_METHODS_DICT.get(args.method)}'
-    if args.method == 'th':
-        blocks_dir = f'{blocks_dir}/{args.th}' 
-    
-    if args.method in ['topk', 'default']:
-        blocks_dir = f'{blocks_dir}/{args.k}'
+    blocks_dir = f'./out/blocking/{args.ch}/{ALLOWED_METHODS_DICT.get("default")}/{args.k}'
     
     blocks = load_from_pkl(f'{blocks_dir}/{args.src}_{args.tgt}.pkl')
 
@@ -110,12 +103,7 @@ if __name__ == '__main__':
     blocks = __gen_block_batches(filtered_blocks, args.batch_size)
 
     ## setup the output dir
-    output_dir = f'./out/matching/{args.ch}/{ALLOWED_METHODS_DICT.get(args.method)}'
-    if args.method == 'th':
-        output_dir = f'{output_dir}/{args.th}'
-
-    if args.method in ['topk', 'default']:
-        output_dir = f'{output_dir}/{args.k}'
+    output_dir = f'./out/matching/{args.ch}/{ALLOWED_METHODS_DICT.get("default")}/{args.k}/{args.run}'
 
     os.makedirs(output_dir, exist_ok=True)
 
@@ -129,7 +117,7 @@ if __name__ == '__main__':
     ## setup up logging
     if args.logging:
         os.makedirs('./out/logs', exist_ok=True)
-        logging_file = f'./out/logs/{args.method}_{args.src}_{args.tgt}_{args.ch}_{args.k}.log'
+        logging_file = f'./out/logs/{ALLOWED_METHODS_DICT.get("default")}_{args.src}_{args.tgt}_{args.ch}_{args.k}_{args.run}.log'
         logging.basicConfig(filename=logging_file, level = logging.INFO)
 
     matches = {}
