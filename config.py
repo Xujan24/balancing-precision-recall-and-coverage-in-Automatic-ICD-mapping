@@ -37,6 +37,17 @@ MAPPING_PAIRS = [
     }
 ]
 
+ICD_VERSIONS = {
+    'icd9cm': 'ICD-9-CM',
+    'icd10cm': 'ICD-10-CM',
+    'icd10am': 'ICD-10-AM',
+    'icd11': 'ICD-11'
+}
+
 
 ## chapters
-CHAPTERS = ['dig', 'inf', 'resp']
+CHAPTERS = {
+    'resp': 'Diseases of the respiratory system',
+    'inf': 'Certain infectious and parasitic diseases',
+    'dig': 'Diseases of the digestive system'
+}

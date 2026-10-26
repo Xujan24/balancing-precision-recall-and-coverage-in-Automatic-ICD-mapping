@@ -41,7 +41,7 @@ if __name__ == "__main__":
         src = pair['src']
         tgt = pair['tgt']
 
-        for ch in CHAPTERS:
+        for ch in list(CHAPTERS.keys()):
             tgt_df = pd.read_csv(f'./data/icd/{tgt}_{ch}.csv', dtype=str)
             valid_tgt_codes = tgt_df['code'].tolist()
             parent_codes = get_nested_codes(tgt_df)
