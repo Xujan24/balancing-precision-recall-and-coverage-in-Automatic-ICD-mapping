@@ -48,8 +48,8 @@ if __name__ == '__main__':
 
     ## setup up logging
     if args.logging:
-        os.makedirs('./out/logs/prompting', exist_ok=True)
-        logging_file = f'./out/logs/prompting/run-{args.run}.log'
+        os.makedirs('./out/logs', exist_ok=True)
+        logging_file = f'./out/logs/prompting_{args.run}.log'
         logging.basicConfig(filename=logging_file, level = logging.INFO)
 
     matches = {}
