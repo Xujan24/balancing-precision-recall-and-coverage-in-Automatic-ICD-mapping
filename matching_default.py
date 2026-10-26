@@ -1,8 +1,5 @@
 """
-Script to generate final mappings using LLM-based matching. In particular, we create a multi-choice question (MCQ) prompt with the source ICD code description as the anchor term
-and use items from the candidate sets (obtained from the blocking strategy), as the potential options.
-We (explicitly) instruct the LLM either to select all the relavent options (and return it as a python list like string with the corresponding target code as the elements) or 
-reject all the options (if none are related to the anchor term and return an empty python list like string.)
+Script to generate maps using only prompting, where we instruct the LLM to generate equivalent codes in the target system for each source code.
 """
 
 import os
@@ -34,10 +31,6 @@ if __name__ == '__main__':
 
     data = load_from_pkl('./data/default_prompts.pkl')
     blocks = __gen_batched_data(data, args.batch_size)
-
-    ## setup the output dir
-    output_dir = f'./out/matching/prompting/{args.run}'
-    os.makedirs(output_dir, exist_ok=True)
 
     tokenizer = AutoTokenizer.from_pretrained(SELECTOR_MODEL_ID)
 
@@ -96,5 +89,33 @@ if __name__ == '__main__':
         del src_keys, responses, key, maps, indices, thinking_contents
         torch.cuda.empty_cache()
     
+ 
+    ## post processing
+    ## we split the predictions according to chapters and source-target pairs and save them separatly to match the other
+    processed_matches = {}
 
-    save_to_pkl(matches, f'{output_dir}/run-{args.run}.pkl')    
+    for k, v in matches.items():
+        src_code, src_tgt_ch_part = k.split('#')
+        src, tgt, ch = src_tgt_ch_part.split('-')
+
+        if ch not in processed_matches or processed_matches[ch] is None:
+            processed_matches[ch] = {}
+
+        if f'{src}_{tgt}' not in processed_matches[ch]:
+            processed_matches[ch][f'{src}_{tgt}'] = {}
+
+        
+        processed_matches[ch][f'{src}_{tgt}'][src_code] = v
+
+    del matches
+
+    for ch, val in processed_matches.items():
+        output_dir = f'./out/matching/{ch}/prompting/{args.run}'
+        os.makedirs(output_dir, exist_ok=True)
+
+
+
+        for src_tgt_key, maps in val.items():
+            filepath = f'{output_dir}/{src_tgt_key}.pkl'
+
+            save_to_pkl(maps, filepath)
