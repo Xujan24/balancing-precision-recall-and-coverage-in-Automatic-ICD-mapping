@@ -59,7 +59,7 @@ class EmbeddingGenerator:
 
     def __get_batches(self) -> List[pd.DataFrame]:
         df = pd.read_csv(self.src, dtype=str)
-        return np.array_split(df, len(df) // self.batch_size + (len(df) % self.batch_size > 0))
+        return [df[i : i + self.batch_size] for i in range(0, len(df), self.batch_size)]
 
     
     @staticmethod
