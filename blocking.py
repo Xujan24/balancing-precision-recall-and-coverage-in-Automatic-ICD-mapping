@@ -120,7 +120,11 @@ if __name__ == '__main__':
         maps = gen_maps_using_bidir_map_ext(src, tgt)
     
     else:
-        maps_k = gen_maps_using_topk(src, tgt, args.k)
+        ## default we use top-K + bdm
+        if os.path.exists(f'./out/blocking/{args.ch}/Top-K/{args.k}/{args.src}_{args.tgt}.pkl'):
+            maps_k = load_from_pkl(f'./out/blocking/{args.ch}/Top-K/{args.k}/{args.src}_{args.tgt}.pkl')
+        else:
+            maps_k = gen_maps_using_topk(src, tgt, args.k)
 
         if os.path.exists(f'./out/blocking/{args.ch}/Bi-Maps-Exp/{args.src}_{args.tgt}.pkl'):
             maps_oto = load_from_pkl(f'./out/blocking/{args.ch}/Bi-Maps-Exp/{args.src}_{args.tgt}.pkl')
